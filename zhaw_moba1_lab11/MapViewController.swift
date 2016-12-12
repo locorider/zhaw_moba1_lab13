@@ -27,9 +27,9 @@ class MapViewController: UIViewController {
         
         if let office = self.postOffice {
             let initialLocation = office.location
-            self.centerMapOnLocation(location: initialLocation!)
+            self.centerMapOnLocation(location: initialLocation)
             let pin = MKPointAnnotation()
-            pin.coordinate = (initialLocation?.coordinate)!
+            pin.coordinate = initialLocation.coordinate
             pin.title = office.name
             mapView.addAnnotation(pin)
         }
