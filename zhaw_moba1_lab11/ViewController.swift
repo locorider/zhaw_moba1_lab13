@@ -115,6 +115,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITableViewDa
         let mapView = self.storyboard?.instantiateViewController(withIdentifier: "mapView") as? MapViewController
         
         mapView?.postOffice = postOffice.postOffice
+        mapView?.location = self.location
         //self.navigationController?.pushViewController(mapView!, animated: true)
         self.present(mapView!, animated: false, completion: nil)
     }

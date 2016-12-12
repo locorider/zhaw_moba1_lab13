@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "zhaw_moba1_lab11/MapViewController.swift"
-            timestampString = "503238976.920221"
+            timestampString = "503239197.028546"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
             landmarkName = "backButtonPressed(_:)"
             landmarkType = "7">
          </BreakpointContent>
