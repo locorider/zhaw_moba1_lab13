@@ -1,0 +1,371 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B56A244B1DFECA360015918C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B56A244A1DFECA360015918C /* MapKit.framework */; };
+		B56A244D1DFECA9A0015918C /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56A244C1DFECA9A0015918C /* MapViewController.swift */; };
+		B56D381A1DF43D5C005DCFD3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38191DF43D5C005DCFD3 /* AppDelegate.swift */; };
+		B56D381C1DF43D5C005DCFD3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D381B1DF43D5C005DCFD3 /* ViewController.swift */; };
+		B56D381F1DF43D5C005DCFD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B56D381D1DF43D5C005DCFD3 /* Main.storyboard */; };
+		B56D38211DF43D5C005DCFD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B56D38201DF43D5C005DCFD3 /* Assets.xcassets */; };
+		B56D38241DF43D5C005DCFD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B56D38221DF43D5C005DCFD3 /* LaunchScreen.storyboard */; };
+		B56D382C1DF43DC4005DCFD3 /* post-switzerland.txt in Resources */ = {isa = PBXBuildFile; fileRef = B56D382B1DF43DC4005DCFD3 /* post-switzerland.txt */; };
+		B56D38341DF44071005DCFD3 /* PostOfficeStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38331DF44071005DCFD3 /* PostOfficeStore.swift */; };
+		B56D38361DF4407B005DCFD3 /* PostOffice.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38351DF4407B005DCFD3 /* PostOffice.swift */; };
+		B56D38381DF44147005DCFD3 /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38371DF44147005DCFD3 /* Address.swift */; };
+		B56D383A1DF441C3005DCFD3 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38391DF441C3005DCFD3 /* Contact.swift */; };
+		B5B9A6EE1DF44E6700651F0F /* PostOfficeTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B9A6ED1DF44E6700651F0F /* PostOfficeTableCell.swift */; };
+		B5B9A6F01DF44F1F00651F0F /* PostOfficeTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B9A6EF1DF44F1F00651F0F /* PostOfficeTableView.swift */; };
+		B5B9A6F21DF4D7B100651F0F /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B9A6F11DF4D7B100651F0F /* SearchResult.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B56A244A1DFECA360015918C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		B56A244C1DFECA9A0015918C /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		B56D38161DF43D5C005DCFD3 /* zhaw_moba1_lab11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zhaw_moba1_lab11.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B56D38191DF43D5C005DCFD3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B56D381B1DF43D5C005DCFD3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B56D381E1DF43D5C005DCFD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B56D38201DF43D5C005DCFD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B56D38231DF43D5C005DCFD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B56D38251DF43D5C005DCFD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B56D382B1DF43DC4005DCFD3 /* post-switzerland.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "post-switzerland.txt"; sourceTree = "<group>"; };
+		B56D38301DF43E07005DCFD3 /* zhaw_moba1_lab11.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = zhaw_moba1_lab11.entitlements; sourceTree = "<group>"; };
+		B56D38331DF44071005DCFD3 /* PostOfficeStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostOfficeStore.swift; sourceTree = "<group>"; };
+		B56D38351DF4407B005DCFD3 /* PostOffice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostOffice.swift; sourceTree = "<group>"; };
+		B56D38371DF44147005DCFD3 /* Address.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Address.swift; sourceTree = "<group>"; };
+		B56D38391DF441C3005DCFD3 /* Contact.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		B5B9A6ED1DF44E6700651F0F /* PostOfficeTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostOfficeTableCell.swift; sourceTree = "<group>"; };
+		B5B9A6EF1DF44F1F00651F0F /* PostOfficeTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostOfficeTableView.swift; sourceTree = "<group>"; };
+		B5B9A6F11DF4D7B100651F0F /* SearchResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B56D38131DF43D5B005DCFD3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B56A244B1DFECA360015918C /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B56D380D1DF43D5B005DCFD3 = {
+			isa = PBXGroup;
+			children = (
+				B56D38181DF43D5C005DCFD3 /* zhaw_moba1_lab11 */,
+				B56D38171DF43D5C005DCFD3 /* Products */,
+				B56D382D1DF43E07005DCFD3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		B56D38171DF43D5C005DCFD3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B56D38161DF43D5C005DCFD3 /* zhaw_moba1_lab11.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B56D38181DF43D5C005DCFD3 /* zhaw_moba1_lab11 */ = {
+			isa = PBXGroup;
+			children = (
+				B56D38301DF43E07005DCFD3 /* zhaw_moba1_lab11.entitlements */,
+				B56D382B1DF43DC4005DCFD3 /* post-switzerland.txt */,
+				B56D38191DF43D5C005DCFD3 /* AppDelegate.swift */,
+				B56D381B1DF43D5C005DCFD3 /* ViewController.swift */,
+				B56D381D1DF43D5C005DCFD3 /* Main.storyboard */,
+				B56D38201DF43D5C005DCFD3 /* Assets.xcassets */,
+				B56D38221DF43D5C005DCFD3 /* LaunchScreen.storyboard */,
+				B56D38251DF43D5C005DCFD3 /* Info.plist */,
+				B56D38331DF44071005DCFD3 /* PostOfficeStore.swift */,
+				B56D38351DF4407B005DCFD3 /* PostOffice.swift */,
+				B56D38371DF44147005DCFD3 /* Address.swift */,
+				B56D38391DF441C3005DCFD3 /* Contact.swift */,
+				B5B9A6ED1DF44E6700651F0F /* PostOfficeTableCell.swift */,
+				B5B9A6EF1DF44F1F00651F0F /* PostOfficeTableView.swift */,
+				B5B9A6F11DF4D7B100651F0F /* SearchResult.swift */,
+				B56A244C1DFECA9A0015918C /* MapViewController.swift */,
+			);
+			path = zhaw_moba1_lab11;
+			sourceTree = "<group>";
+		};
+		B56D382D1DF43E07005DCFD3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B56A244A1DFECA360015918C /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B56D38151DF43D5B005DCFD3 /* zhaw_moba1_lab11 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B56D38281DF43D5C005DCFD3 /* Build configuration list for PBXNativeTarget "zhaw_moba1_lab11" */;
+			buildPhases = (
+				B56D38121DF43D5B005DCFD3 /* Sources */,
+				B56D38131DF43D5B005DCFD3 /* Frameworks */,
+				B56D38141DF43D5B005DCFD3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = zhaw_moba1_lab11;
+			productName = zhaw_moba1_lab11;
+			productReference = B56D38161DF43D5C005DCFD3 /* zhaw_moba1_lab11.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B56D380E1DF43D5B005DCFD3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0810;
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "José Miguel Rota";
+				TargetAttributes = {
+					B56D38151DF43D5B005DCFD3 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = H6KE2M5F2L;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+							com.apple.WAC = {
+								enabled = 0;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = B56D38111DF43D5B005DCFD3 /* Build configuration list for PBXProject "zhaw_moba1_lab11" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B56D380D1DF43D5B005DCFD3;
+			productRefGroup = B56D38171DF43D5C005DCFD3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B56D38151DF43D5B005DCFD3 /* zhaw_moba1_lab11 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B56D38141DF43D5B005DCFD3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B56D382C1DF43DC4005DCFD3 /* post-switzerland.txt in Resources */,
+				B56D38241DF43D5C005DCFD3 /* LaunchScreen.storyboard in Resources */,
+				B56D38211DF43D5C005DCFD3 /* Assets.xcassets in Resources */,
+				B56D381F1DF43D5C005DCFD3 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B56D38121DF43D5B005DCFD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B56D383A1DF441C3005DCFD3 /* Contact.swift in Sources */,
+				B5B9A6F21DF4D7B100651F0F /* SearchResult.swift in Sources */,
+				B5B9A6F01DF44F1F00651F0F /* PostOfficeTableView.swift in Sources */,
+				B56A244D1DFECA9A0015918C /* MapViewController.swift in Sources */,
+				B56D381C1DF43D5C005DCFD3 /* ViewController.swift in Sources */,
+				B56D38361DF4407B005DCFD3 /* PostOffice.swift in Sources */,
+				B56D381A1DF43D5C005DCFD3 /* AppDelegate.swift in Sources */,
+				B56D38341DF44071005DCFD3 /* PostOfficeStore.swift in Sources */,
+				B5B9A6EE1DF44E6700651F0F /* PostOfficeTableCell.swift in Sources */,
+				B56D38381DF44147005DCFD3 /* Address.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B56D381D1DF43D5C005DCFD3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B56D381E1DF43D5C005DCFD3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B56D38221DF43D5C005DCFD3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B56D38231DF43D5C005DCFD3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B56D38261DF43D5C005DCFD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B56D38271DF43D5C005DCFD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B56D38291DF43D5C005DCFD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H6KE2M5F2L;
+				INFOPLIST_FILE = zhaw_moba1_lab11/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ch.rotanet.zhaw-moba1-lab11";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		B56D382A1DF43D5C005DCFD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H6KE2M5F2L;
+				INFOPLIST_FILE = zhaw_moba1_lab11/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ch.rotanet.zhaw-moba1-lab11";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B56D38111DF43D5B005DCFD3 /* Build configuration list for PBXProject "zhaw_moba1_lab11" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B56D38261DF43D5C005DCFD3 /* Debug */,
+				B56D38271DF43D5C005DCFD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B56D38281DF43D5C005DCFD3 /* Build configuration list for PBXNativeTarget "zhaw_moba1_lab11" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B56D38291DF43D5C005DCFD3 /* Debug */,
+				B56D382A1DF43D5C005DCFD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B56D380E1DF43D5B005DCFD3 /* Project object */;
+}

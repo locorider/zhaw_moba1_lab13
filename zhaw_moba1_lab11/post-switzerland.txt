@@ -1,0 +1,1555 @@
+46.0189241,8.9424857,amenity=post_office,operator=La Posta
+47.5002143,8.7245542,name=Hauptpost 8400 Winterthur,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 08:30-19:00; Sa 08:30-17:00
+47.4945512,8.7402948,name=Post Geiselweid,amenity=post_office,operator=Die Post,addr:street=Pflanzschulstrasse,addr:postcode=8411,opening_hours=Mo-Fr 10:00-18:00; Sa 10:00-16:00,addr:housenumber=9
+47.5109588,8.6964036,addr:city=Winterthur,addr:housenumber=230,addr:postcode=8408,addr:street=Wülflingerstrasse,amenity=post_office,name=8408 Winterthur 8 Wülflingen,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-12:00; Su off,ref=8408 Winterthur 8
+47.4916121,8.7057637,name=Post Töss,amenity=post_office
+47.5099003,8.7591909,amenity=post_office
+47.4855736,8.7650711,name=Post Winterthur-Seen,amenity=post_office
+47.6816424,8.6200836,name=8212 Neuhausen am Rheinfall 1,amenity=post_office,wheelchair=limited
+47.6799093,8.6062814,name=8212 Neuhausen am Rheinfall 2,amenity=post_office,wheelchair=limited
+47.5272269,9.0312243,amenity=post_office,created_by=JOSM,wheelchair=yes
+46.2801064,6.1665935,amenity=post_office,addr:city=Versoix,addr:street=Chemin Jean-Baptiste Vandelle,addr:housenumber=2
+47.2251001,8.9828439,amenity=post_office
+47.3498426,7.9065226,addr:city=Olten,addr:housenumber=12,addr:postcode=4600,addr:street=Bahnhofquai,amenity=post_office,name=Post 1,operator=Die Post
+46.9472611,7.3893848,name=Poststelle 3027 Bern 27 Bethlehem,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bethlehem (Bern 27),operator=POST CH AG,addr:city=Bern,wheelchair=yes,addr:street=Fellerstrasse,addr:suburb=Bethlehem,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3027,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-11:00; Su off,addr:housenumber=28
+47.1174323,9.1499611,amenity=post_office,created_by=JOSM
+47.1195443,9.1316138,amenity=post_office
+47.2252879,8.9455813,amenity=post_office,created_by=JOSM,wheelchair=limited
+47.3448474,8.5330169,atm=yes,amenity=post_office,wheelchair=yes
+47.5686688,7.5899091,amenity=post_office,wheelchair=yes
+47.40885,8.5954024,amenity=post_office,wheelchair=yes
+47.3683948,8.5461459,name=Zürich 24,amenity=post_office,addr:city=Zürich,addr:street=Rämistrasse,addr:country=CH,addr:postcode=8001,addr:housenumber=15
+47.3842299,8.5326663,amenity=post_office,wheelchair=limited
+47.0954771,9.0731898,name=Post Mollis,amenity=post_office
+47.1343243,8.6113285,amenity=post_office
+47.3779506,8.5080764,amenity=post_office;post_box;atm
+47.5468564,7.5935825,name=Annahme,amenity=post_office,addr:street=Postpassage,addr:postcode=4051,addr:housenumber=9
+47.5028046,8.5487107,odbl=clean,amenity=post_office
+47.3841001,8.5484815,name=Zürich 33 Oberstrass,amenity=post_office,operator=Post CH AG,wheelchair=yes
+47.572606,8.5623588,addr:city=Buchberg,addr:housenumber=39,addr:street=Dorfstrasse,amenity=post_office,amenity_1=post_box,name=Postagentur Buchberg
+47.3819225,8.2393308,name=Post,amenity=post_office
+47.1981334,9.0037978,amenity=post_office
+46.6069936,7.5148699,amenity=post_office
+47.4370778,9.1332693,name=Post Uzwil,amenity=post_office,opening_hours=Mo-Fr 9:00-18:00; Sa 9:00-12:00
+47.3773339,8.5353361,addr:city=Zürich,addr:country=CH,addr:housenumber=97,addr:postcode=8004,addr:street=Kasernenstrasse,amenity=post_office,name=Sihlpost,opening_hours=Mo-Fr 06:30-22:30, Sa 06:30-20:00, Su 10:00-22:30,wheelchair=yes
+47.2148733,7.7448539,amenity=post_office,wheelchair=limited
+47.2311961,9.0234878,amenity=post_office,created_by=JOSM,wheelchair=no
+47.1847942,7.7527481,amenity=post_office,created_by=JOSM
+47.2166279,7.7852124,name=Langenthal 1,amenity=post_office,addr:city=Langenthal,wheelchair=limited,addr:street=Jurastrasse,addr:postcode=4900,opening_hours=Mo-Fr 07:30-12:00,13:30-18:30; Sa 08:30-11:00,addr:housenumber=41
+46.794777,7.7200681,amenity=post_office
+47.4736459,7.7591139,name=Lausen,is_in=Bezirk Liestal,Basel-Landschaft,Schweiz,Europe,place=village,amenity=post_office,created_by=Potlatch 0.10b,population=4645,openGeoDB:name=Lausen,openGeoDB:type=Gemeinde,openGeoDB:is_in=Bezirk Liestal,Basel-Landschaft,Schweiz,Europe,openGeoDB:layer=6,openGeoDB:loc_id=30857,openGeoDB:version=0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/,openGeoDB:location=political_structure,openGeoDB:sort_name=LAUSEN,openGeoDB:population=4645,openGeoDB:auto_update=population,place,name,is_in,openGeoDB:is_in_loc_id=78590,openGeoDB:postal_codes=4415,openGeoDB:community_identification_number=G2828
+47.1750919,8.9001113,amenity=post_office
+47.2321893,7.6564258,amenity=post_office,wheelchair=limited
+47.6603279,8.8595519,atm=no,ref=8260,name=Stein am Rhein 1,amenity=post_office,addr:street=Obergass,addr:housenumber=23
+47.6555216,8.8561601,ref=8260,name=Stein am Rhein 2,amenity=post_office,amenity_1=post_box,addr:street=Bahnhofstrasse,addr:housenumber=13a
+47.2132565,9.0245924,amenity=post_office,created_by=Potlatch 0.7b
+47.4990534,8.4145649,amenity=post_office
+47.1933074,9.2837474,amenity=post_office,created_by=Potlatch 0.7b
+47.1968346,9.308698,amenity=post_office,created_by=JOSM
+47.5462613,7.5645244,amenity=post_office,postal_code=4054
+47.517158,9.0321761,name=Tobel,amenity=post_office,operator=PTT
+46.954913,7.4517185,name=Poststelle 3000 Bern 25 Viktoriaplatz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Viktoriaplatz (Bern 25),operator=POST CH AG,addr:city=Bern,addr:street=Viktoriaplatz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3013,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+47.3522136,8.6410017,name=Post Ebmatingen,amenity=post_office,operator=Die Post,addr:city=Ebmatingen,addr:street=Stuhlenstrasse,addr:country=CH,addr:postcode=8124,addr:housenumber=5
+47.3443839,8.7020038,amenity=post_office
+46.5090539,6.4964472,addr:city=Morges,addr:country=CH,addr:housenumber=19,addr:postcode=1110,addr:street=Rue des Charpentiers,amenity=post_office,atm=yes,name=Poste
+46.5327349,6.579011,amenity=post_office
+46.5389912,6.5822468,amenity=post_office
+46.5193475,6.6328946,amenity=post_office
+46.5272818,6.6028765,name=Office de poste 1000 Lausanne 16 Malley,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Malley (Lausanne 16),operator=La Poste Suisse SA,addr:city=Prilly,addr:street=Chemin du Viaduc,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1008,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su off,addr:housenumber=1
+47.2473619,7.6144489,amenity=post_office,created_by=JOSM
+46.9419239,7.4503909,name=Poststelle 3000 Bern 6 Kirchenfeld,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kirchenfeld (Bern 6),operator=POST CH AG,addr:city=Bern,addr:street=Helvetiastrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3005,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00,addr:housenumber=16
+47.3465725,8.1591842,name=Post Seon,amenity=post_office,operator=Schweizerische Post,wheelchair=yes
+47.3260505,8.2059691,amenity=post_office,wheelchair=yes
+47.39685,8.0089838,amenity=post_office,created_by=Potlatch 0.8
+47.6520708,9.1692827,name=Hauptpost,amenity=post_office,wheelchair=yes
+46.5298046,6.5405933,name=Denges-Echandens,amenity=post_office,operator=La Poste
+46.5072146,6.4853938,name=Morges-Gottaz,amenity=post_office
+46.7049334,8.8541239,amenity=post_office,created_by=JOSM
+46.6350697,8.595837,amenity=post_office
+47.1889608,7.7017996,amenity=post_office,wheelchair=yes
+47.2609797,8.5973604,name=Post Horgen,amenity=post_office,operator=Die Post,wheelchair=yes
+47.2381021,8.9989769,amenity=post_office,created_by=JOSM
+47.5811999,7.5937824,amenity=post_office,wheelchair=yes,addr:street=Hochbergerstrasse,addr:country=CH,addr:postcode=4057,addr:housenumber=110
+47.3276607,8.8013897,name=8622 Wetzikon ZH 2,amenity=post_office
+47.3188561,8.7917254,atm=yes,name=Die Post,amenity=post_office,operator=Die Post,addr:city=Wetzikon,wheelchair=yes,addr:street=Poststrasse,addr:postcode=8620,addr:housenumber=9
+46.555528,7.3740061,amenity=post_office
+47.4130849,8.5926482,amenity=post_office
+47.4218027,8.6196463,amenity=post_office,created_by=Potlatch 0.9a,wheelchair=limited
+46.5063394,6.6712267,name=Agence postale 1094 Paudex,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Paudex,operator=Pharmacie de Paudex Sàrl,addr:city=Paudex,addr:street=Chemin de la Charrettaz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1094,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 8:30-12:15,14:00-18:30; Sa 8:30-12:30; Su off,addr:housenumber=10
+47.371195,8.5228829,name=Zürich 36 Wiedikon,amenity=post_office,website=http://www.post.ch/standortsuche?&poi=001PST_001125511&query=t001PST%2ct001HS&summary=Poststelle+8036+Z%c3%bcrich+36+Wiedikon&homeurl=https%3a%2f%2fstandorte.post.ch%2fHome%2fIndex%2fde,operator=Die Post,addr:city=Zürich,addr:street=Seebahnstrasse,addr:country=CH,addr:postcode=8003,opening_hours=Mo-Fr 07:30-18:30;Sa 08:00-16:00,addr:housenumber=89
+47.5964854,8.9565143,amenity=post_office
+46.793519,7.1336142,amenity=post_office
+47.4769455,8.3080669,name=Baden 1,email=kundendienst@post.ch,phone=+41 848 888 888,amenity=post_office,wheelchair=yes,addr:street=Bahnhofstrasse,opening_hours=Mo-Fr 07:30-18:30; Sa 08:00-16:00; Su,PH off,addr:housenumber=31
+47.4718473,8.3068994,name=Baden 2,amenity=post_office
+47.3780079,8.5098232,name=Poststelle 8040 Zürich 40 Sihlfeld,amenity=post_office,addr:city=Zürich,wheelchair=yes,addr:street=Albisriederstrasse,addr:country=CH,addr:postcode=8003,opening_hours=Mo-Fr 08:00-19:00; Sa 09:00-16:00,addr:housenumber=5
+47.5062632,8.5938223,name=Post Embrach,amenity=post_office
+46.852522,9.5277122,amenity=post_office,created_by=Potlatch 0.10b,wheelchair=yes
+47.5498283,7.5778471,name=Bachletten,amenity=post_office,addr:city=Basel,addr:street=Schweizergasse,addr:country=CH,addr:postcode=4054,addr:housenumber=26
+47.3605329,8.5165707,name=8045 Zürich 45 Giesshübel,amenity=post_office,addr:street=Uetlibergstrasse,addr:postcode=8045,opening_hours=Mo-Fr 09:00-12:00, 13:45-18:00; Sa 09:00-11:00,addr:housenumber=130
+47.2253303,8.8176886,name=Post,amenity=post_office,addr:city=Rapperswil (SG),wheelchair=yes,addr:street=Untere Bahnhofstrasse,addr:postcode=8640,opening_hours=Mo-Fr 7:30-18:30;Sa 8:00-16:00,addr:housenumber=2
+47.4310526,8.469848,amenity=post_office,wheelchair=yes
+47.3502051,8.7168263,name=Post Uster,amenity=post_office,operator=Die Post,addr:city=Uster,wheelchair=yes,addr:street=Gerichtsstrasse,addr:postcode=8610,addr:housenumber=4
+47.1333466,8.0476061,name=Post,amenity=post_office
+47.2053209,8.4324715,name=Hagendorn,amenity=post_office,operator=Die Post,addr:street=Widenstrasse,postal_code=6332,opening_hours=Mo-Fr 07:30-11:00,14:00-17:45; Sa 08:00-10:00,addr:housenumber=2
+46.477742,8.8015262,amenity=post_office
+47.1139607,8.0951831,amenity=post_office,addr:city=Buttisholz,wheelchair=no,addr:street=Mühlefeld,addr:postcode=6018,addr:housenumber=3,collection_times=Mo-Fr: 18:00, Sa 11:00
+47.3641215,8.5556488,name=Post Zürich Neumünster,amenity=post_office,wheelchair=yes
+46.5321018,6.6467823,amenity=post_office
+47.3903296,9.2777165,name=Herisau 1,amenity=post_office
+47.3847277,9.2776109,atm=yes,name=Herisau 2,amenity=post_office,wheelchair=limited
+47.5574197,7.5745252,amenity=post_office
+46.6097071,6.5257946,amenity=post_office
+47.4930956,7.593555,name=Post Reinach BL 1,amenity=post_office,wheelchair=yes
+47.3689021,8.5411552,amenity=post_office,wheelchair=yes
+47.2063071,8.7574407,name=Poststelle Freienbach,amenity=post_office
+47.103613,6.8301469,name=Marché,amenity=post_office,operator=La Poste
+46.0048082,8.952493,atm=yes,name=Lugano 1,amenity=post_office,created_by=Potlatch 0.10f,internet_access=wlan
+47.419363,8.5077194,amenity=post_office,addr:city=Zürich,wheelchair=yes,addr:street=Jonas-Furrer-Strasse,addr:postcode=8046,addr:housenumber=3
+47.4989545,8.7954081,amenity=post_office
+47.3029733,9.0872219,amenity=post_office,name=Wattwil,operator=Post
+46.2960093,7.0561601,name=Poste de Villars,amenity=post_office
+46.5987467,6.5396301,amenity=post_office,wheelchair=yes
+46.9739416,7.4835608,name=Poststelle 3063 Ittigen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ittigen,operator=Die Schweizerische Post AG,addr:city=Ittigen,wheelchair=yes,addr:street=Talgut-Zentrum,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3063,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 13:45-18:00; Sa 08:30-11:00; Su off,addr:housenumber=5
+46.9475694,7.4433328,name=Poststelle 3000 Bern 7 Bärenplatz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bärenplatz (Bern 7),operator=POST CH AG,addr:city=Bern,wheelchair=yes,addr:street=Bärenplatz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3011,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-We 09:00-18:30; Th 09:00-21:00; Fr 09:00-18:30; Sa 09:00-16:00; Su off,addr:housename=Poststelle 3000 Bern 7 Bärenplatz,addr:housenumber=8
+47.5660575,7.6198378,name=Bäumlihof,amenity=post_office,wheelchair=yes,postal_code=4058
+46.5156211,6.6149939,name=Office de poste 1000 Lausanne 3 Cour,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Cour (Lausanne 3),operator=La Poste Suisse SA,addr:city=Lausanne,addr:street=Avenue de Cour,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1007,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=79
+47.2086862,8.692931,name=Post Richterswil Burghalden,amenity=post_office,created_by=Potlatch 0.10c
+46.0964749,7.2281023,amenity=post_office
+46.2738247,7.0614445,amenity=post_office
+46.7696123,8.6707542,name=Amsteg,amenity=post_office
+46.7690818,8.691285,name=Bristen,amenity=post_office
+46.9470172,7.4552221,name=Poststelle 3000 Bern 13 Matte,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Matte (Bern 13),operator=POST CH AG,addr:city=Bern,addr:street=Schifflaube,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3011,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=4
+46.754597,8.0373741,name=Post Brienz,amenity=post_office
+46.6261821,10.4462242,name=Poststelle Müstair,amenity=post_office,operator=Die Schweizerische Post AG,addr:city=Müstair,addr:street=Plaz d'Immez,addr:postcode=7537,opening_hours=Mo-Fr 08:00-12:00,13:45-17:00;Sa 08:00-10:15,addr:housenumber=65
+47.3717123,8.6414469,name=Post Fällanden,amenity=post_office
+47.4069474,7.5436856,name=Post Breitenbach,amenity=post_office,created_by=Potlatch 0.10b,wheelchair=yes
+47.393695,8.5295514,addr:city=Zürich,addr:housenumber=12,addr:postcode=8037,addr:street=Scheffelstrasse,amenity=post_office,name=Poststelle Zürich Wipkingen,postal_code=8037,wheelchair=yes
+46.9398639,7.436847,name=Poststelle 3000 Bern 23 Sulgenbach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Sulgenbach (Bern 23),operator=POST CH AG,addr:city=Bern,addr:street=Eigerstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3007,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:30, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=55
+46.2323548,6.0833556,amenity=post_office,created_by=Potlatch 0.10b,wheelchair=yes
+46.504605,6.4666611,amenity=post_office
+47.3860615,8.7523667,atm=yes,name=8320 Fehraltorf,phone=+41-44-9565111,amenity=post_office,addr:city=Fehraltorf,addr:street=Geerenstrasse,addr:country=CH,addr:postcode=8320,opening_hours=Mo-Fr 07:30-12:00,14:00-18:00; Sa 08:00-11:00,addr:housenumber=1
+46.8131705,7.5077508,addr:city=Mühlethurnen,addr:housenumber=2,addr:postcode=3127,addr:street=Bahnhofstrasse,amenity=post_office,opening_hours=Mo-Fr 07:30-10:30, 15:00-18:00; Sa 09:00-11:00; PH off,operator=Die Post
+46.2086082,6.1451263,name=Genève 1 Mont-Blanc,amenity=post_office
+46.8808701,7.4704351,name=Poststelle 3086 Zimmerwald,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Zimmerwald,operator=POST CH AG,addr:city=Wald,addr:street=Kirchstrasse,addr:suburb=Zimmerwald,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3086,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:00, 15:30-17:30; Sa 09:00-11:00; Su off,addr:housenumber=16
+46.9317425,7.4210822,name=Poststelle 3097 Liebefeld,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Liebefeld,operator=POST CH AG,addr:city=Köniz,wheelchair=limited,addr:street=Schwarzenburgstrasse,addr:suburb=Liebefeld,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3097,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=140
+46.9423038,7.4309883,name=Poststelle 3000 Bern 14 Mattenhof,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Mattenhof (Bern 14),operator=POST CH AG,addr:city=Bern,addr:street=Belpstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3007,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:30-11:00,addr:housenumber=48
+47.3938118,7.5410248,name=Post Büsserach,amenity=post_office,created_by=Potlatch 0.10b,wheelchair=limited
+47.0156441,8.6665358,amenity=post_office
+47.0200911,8.6508332,name=Post Schwyz,amenity=post_office
+47.1518545,9.4818886,amenity=post_office,created_by=Potlatch 0.10b
+47.1682935,9.4779849,amenity=post_office
+46.1661557,6.1840429,addr:housenumber=10bis,addr:street=Chemin de Sous-Balme,amenity=post_office
+46.1722007,6.1580787,addr:city=Vessy,addr:housenumber=34,addr:street=Chemin de Place-Verte,amenity=post_office
+47.5630047,7.5721647,name=Kannenfeld,amenity=post_office,addr:street=Burgfelderstrasse,addr:postcode=4055,addr:housenumber=26
+47.5686087,7.5696604,name=Luzernerring,amenity=post_office,operator=La Poste,postal_code=4056
+47.4773838,8.2165933,name=Windisch,amenity=post_office
+47.4132302,8.4483098,amenity=post_office,name=Post Unterengstringen
+47.556865,7.5820157,name=Spalen,amenity=post_office,postal_code=4051
+47.5568325,7.5889516,name=Rüdengasse,amenity=post_office,addr:street=Rüdengasse,addr:postcode=4001,addr:housenumber=1
+47.5482321,7.6094905,name=Gellert,amenity=post_office,postal_code=4052
+47.5420351,7.5969008,name=Gundeldingen,amenity=post_office,wheelchair=yes,addr:street=Liesbergerstrasse,addr:postcode=4053,addr:housenumber=1
+47.1944305,7.6137078,ref=2-4553-24056,brand=Die Schweizerische Post,source=knowledge,amenity=post_office,operator=Die Schweizerische Post,postal_code=4553,collection_times=Mo-Fr 18:00 ; Sa 11:00
+47.0463235,8.373288,amenity=post_office,description=Dorfzentrum,postal_code=6045
+47.4209873,8.368047,amenity=post_office,atm=yes,level=0,name=Shopping Center 15 Spreitenbach
+47.5599876,8.4995087,amenity=post_office
+46.318671,7.9883343,amenity=post_office,wheelchair=yes
+46.9682819,9.6883286,name=Schiers,amenity=post_office
+46.7540236,7.1467272,name=Guichet postal,amenity=post_office,operator=La Poste Suisse
+46.9755401,7.4222512,name=Poststelle 3037 Herrenschwanden,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Herrenschwanden,operator=POST CH AG,addr:city=Kirchlindach,addr:street=Möösliweg,addr:suburb=Herrenschwanden,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3037,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-10:00, 16:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=7
+46.2616372,7.3874257,amenity=post_office
+46.7933569,7.5778707,amenity=post_office,wheelchair=limited
+46.5507305,6.577997,amenity=post_office,created_by=Potlatch 0.10b
+47.5664355,9.107056,name=Poststelle 8570 Weinfelden,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 8:30-18:30; Sa 8:00-12:00
+47.5903085,9.0651506,amenity=post_office,wheelchair=yes
+46.8193987,8.4026346,amenity=post_office
+47.527948,8.4675084,amenity=post_office,created_by=Potlatch 0.10b
+46.9876871,8.3127616,amenity=post_office
+47.2769605,8.5773325,name=Oberrieden,amenity=post_office
+47.4386621,8.2684315,name=Baden 6 Rütihof,amenity=post_office
+47.5394518,9.185014,amenity=post_office
+47.230373,8.6729271,name=Post,amenity=post_office,website=http://www.post.ch/,wheelchair=yes,addr:street=Reblaubenweg,addr:postcode=8820,addr:housenumber=4a
+46.9999137,7.415923,name=Postagentur 3038 Kirchlindach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kirchlindach,operator=Kurt & Hanni Müller,addr:city=Kirchlindach,addr:street=Lindachstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3038,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su off,addr:housenumber=24
+47.0806161,9.476915,amenity=post_office
+47.3621296,7.3484435,ref=2800,name=Delémont 1,amenity=post_office,name:de=Delsberg 1
+47.4881323,8.2918511,amenity=post_office
+47.2888297,8.542778,name=Post,amenity=post_office
+46.7907613,6.6204553,name=Office de poste 1440 Montagny-Chamard,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Montagny-Chamard,operator=La Poste Suisse SA,addr:city=Montagny-près-Yverdon,wheelchair=yes,addr:street=En Chamard,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1442,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=51
+47.5227245,7.617202,amenity=post_office
+47.4941784,7.6189407,addr:city=Arlesheim,addr:housenumber=1,addr:postcode=4144,addr:street=Postplatz,amenity=post_office,name=Post Arlesheim
+46.6246067,8.0336707,source=survey,amenity=post_office,wheelchair=no
+47.1754678,8.4267254,amenity=post_office
+47.3178912,9.2853056,amenity=post_office,created_by=Potlatch 0.10b
+47.3327085,7.8437614,amenity=post_office,created_by=Potlatch 0.10c
+47.3766669,8.5272704,name=8026 Zürich 26 Aussersihl,amenity=post_office,operator=Die Post,wheelchair=yes,addr:street=Molkenstrasse,opening_hours=Mo-Fr 07:30-18:00, Sa 09:00-12:00,addr:housenumber=8
+47.4788605,8.9959538,name=Post Münchwilen,amenity=post_office,created_by=Potlatch 0.10c,wheelchair=yes
+46.3780385,8.0329224,name=Post,amenity=post_office
+47.4821132,8.2075738,atm=yes,name=Post,amenity=post_office,wheelchair=yes
+45.9984847,8.9237477,name=Muzzano,amenity=post_office
+46.7448383,6.7156081,name=Poste de Donneloye,amenity=post_office
+46.0806669,7.2142758,ref=1934,name=Poste du Châble,amenity=post_office
+46.5863504,6.6054819,name=Poste Cheseaux,amenity=post_office,wheelchair=limited
+46.9301164,7.5632117,name=Poststelle 3076 Worb,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Worb,operator=POST CH AG,addr:city=Worb,wheelchair=yes,addr:street=Bollstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3076,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00; 13:45-18:00; Sa 08:30-12:00; Su off,addr:housenumber=1
+47.4240665,8.3051074,name=Post Niederrohrdorf,amenity=post_office,operator=Schweizerische Post
+47.4430656,8.6311333,name=Poststelle 8303 Bassersdorf,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bassersdorf,operator=Die Schweizerische Post AG,addr:city=Bassersdorf,addr:street=Poststrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=8303,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-12:00; Su off,addr:housenumber=1
+46.6394624,6.6332076,name=Poste d'Echallens,amenity=post_office,wheelchair=yes
+47.5092098,8.7207015,amenity=post_office
+47.558191,7.9040518,name=Post Wallbach,amenity=post_office
+47.1147594,7.2336673,name=Poststelle 2563 Ipsach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ipsach,operator=Die Schweizerische Post AG,addr:city=Ipsach,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2563,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=17
+46.3126727,7.4857525,amenity=post_office
+47.2649244,7.642681,amenity=post_office,created_by=Merkaartor 0.11
+47.2692205,7.7946545,amenity=post_office,created_by=Potlatch 0.10e
+46.9100664,6.6117253,addr:city=Môtiers,addr:housenumber=10,addr:postcode=2112,addr:street=Grande Rue,amenity=post_office,name=2112 Môtiers,operator=Swiss Post
+46.2131458,6.1420067,amenity=post_office,created_by=Potlatch 0.10e
+46.5371967,6.3330193,amenity=post_office
+46.9259101,7.1154474,name=Poststelle 3280 Murten,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Murten,operator=Die Schweizerische Post AG,addr:city=Murten,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3280,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=10
+47.033605,8.2823136,name=Post Kriens,amenity=post_office
+47.5552307,7.9492965,atm=yes,amenity=post_office,operator=Deutsche Post AG,wheelchair=limited,opening_hours=Mo-Fr 08:30-12:00,14:00-17:30; Sa 09:00-12:00
+47.3632678,8.8252855,name=Post,amenity=post_office,operator=Die Post,addr:city=Hittnau,addr:street=Jakob Stutz-Strasse,addr:postcode=8335,addr:housenumber=75
+46.709253,6.5715763,name=Poste de Chavornay,amenity=post_office
+46.068153,8.9660259,atm=yes,name=6950 Tesserete,amenity=post_office,addr:street=Via Natale Pugnetti,addr:housenumber=3
+46.9684762,6.8380185,amenity=post_office
+46.3243526,10.0545015,amenity=post_office
+46.4364212,6.3012432,amenity=post_office
+47.1175916,8.3922561,name=Poststelle 6037 Root,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Root,operator=Die Schweizerische Post AG,addr:city=Root,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6037,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=16
+47.4810118,8.4843245,amenity=post_office
+46.6580484,6.6048798,name=Poste,amenity=post_office
+47.1222081,7.2868618,name=Postagentur 2558 Aegerten,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Aegerten,operator=Verena Gnägi GmbH,addr:city=Aegerten,addr:street=Bielstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2558,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,addr:housenumber=10
+46.0065402,8.967716,atm=yes,name=Lugano-Cassarate,amenity=post_office,wheelchair=yes,postal_code=6900
+47.4906669,8.1872348,name=Riniken,amenity=post_office,wheelchair=limited
+46.2903198,10.0783358,amenity=post_office
+47.5985826,9.0307418,amenity=post_office,end_date=2016-07,opening_hours=Mo-Fr 08:45-11:45,15:00-17:30; Sa 08:30-11:00,operator=Die Schweizerische Post,website=http://places.post.ch/poi/Post-officepostal-agency/Poststrasse-17/8556/Wigoltingen/001PST_001105668/
+47.4095275,8.5428741,name=50 Oerlikon,amenity=post_office,operator=Die Post,wheelchair=yes
+47.4526836,8.2847033,name=5405 Baden-Dättwil,amenity=post_office
+47.5209096,7.6071544,name=Münchenstein 1,amenity=post_office,wheelchair=yes,postal_code=4142
+47.1095531,7.2465413,name=Poststelle 2564 Bellmund,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bellmund,operator=Die Schweizerische Post AG,addr:city=Bellmund,addr:street=Lohngasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2564,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-10:00, 15:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=70
+47.0433681,8.3043471,name=Post Obergrund,amenity=post_office,wheelchair=yes
+47.7070619,8.8158147,name=Post Ramsen,amenity=post_office,amenity_1=post_box
+47.1239164,7.2785904,atm=yes,ref=2555,name=Brügg BE,amenity=post_office
+47.1132037,7.3011004,name=Poststelle 2557 Studen BE,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Studen BE,operator=Die Schweizerische Post AG,addr:city=Studen,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2557,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=70
+47.4701127,7.5966876,name=Post Aesch- Pfeffigen,amenity=post_office,operator=Post
+47.1164053,7.2539248,name=Poststelle 2562 Port,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Port,operator=Die Schweizerische Post AG,addr:city=Port,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2562,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=7
+46.7854066,8.1607684,amenity=post_office
+47.0598501,7.6231186,name=3400 Burgdorf,amenity=post_office
+47.3314991,8.8076158,name=8623 Wetzikon ZH 3,amenity=post_office,addr:city=Wetzikon,addr:street=Bahnhofstrasse,addr:postcode=8620,addr:housenumber=255
+46.9740293,8.4222759,name=6374 Buochs,amenity=post_office
+46.873473,7.5599595,addr:city=Münsingen,addr:country=CH,addr:housenumber=3,addr:postcode=3110,addr:street=Bahnhofplatz,alt_name=Post Münsingen,amenity=post_office,collection_times=Mo - Fr 18:00 / Sa 12:00 / So 17:00,contact:email=kundendienst@post.ch,contact:fax=+41 844 888 888,contact:phone=+41 848 888 888,name=Poststelle 3110 Münsingen,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-12:00; Su off,operator=Die Schweizerische Post AG,source=survey,website=http://www.post.ch,wheelchair=yes
+47.542791,9.3815439,name=Egnach,amenity=post_office
+46.3060212,6.172804,amenity=post_office
+46.5932742,6.5659654,name=Poste de Sullens,amenity=post_office
+47.0941866,7.5960553,name=Ersigen,amenity=post_office
+47.4681848,8.5008355,amenity=post_office,created_by=Potlatch 0.10f
+47.0808844,8.2716691,name=Sprengi,amenity=post_office
+47.1403152,7.3020938,ref=2552,name=Orpund,amenity=post_office
+47.1336117,7.2422009,atm=yes,ref=2500,name=Biel/Bienne 1 Annahme/Dépôt,phone=0848 888 888,amenity=post_office,name:de=Biel/Bienne 1 Annahme,name:fr=Biel/Bienne 1 Dépôt,operator=Die Schweizerische Post,addr:city=Biel/Bienne,addr:street=Bahnhofplatz,addr:postcode=2502,addr:street_1=Place de la Gare,addr:housenumber=2
+47.0764585,8.3005774,amenity=post_office
+47.4725789,8.514122,amenity=post_office
+46.5622591,6.6038697,name=Poste de Romanel,amenity=post_office
+47.3461489,8.7285802,amenity=post_office,addr:city=Uster,addr:street=Aathalstrasse,addr:country=CH,addr:postcode=8610,addr:housenumber=19
+47.4220849,9.5521754,name=Oberegg,amenity=post_office,operator=Post
+47.2814549,8.4044694,atm=yes,amenity=post_office
+47.3673501,8.7834865,name=8330 Pfäffikon ZH,amenity=post_office,addr:city=Pfäffikon ZH,wheelchair=no,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=8330,addr:housenumber=14
+46.2029353,7.1676057,name=Poste d' Ovronnaz,amenity=post_office
+47.1783486,8.5186137,name=Poststelle 6302 Zug 2 Baarerstrasse,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Baarerstrasse (Zug 2),operator=Die Schweizerische Post AG,addr:city=Zug,addr:street=Baarerstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6300,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=94
+47.1679178,8.5163543,name=Poststelle 6300 Zug 1,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Zug (Zug 1),operator=Die Schweizerische Post AG,addr:city=Zug,addr:street=Postplatz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6300,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:30; Sa 08:00-16:00; Su off,addr:housenumber=1
+46.4400035,6.2479149,amenity=post_office
+45.9528691,8.9459072,name=6815 Melide,amenity=post_office,addr:street=Via Giulio Pocobelli,addr:housenumber=16
+46.6132864,6.5075144,name=Poste de Cossonay,amenity=post_office,wheelchair=limited
+47.543125,7.8717891,amenity=post_office
+46.7404369,7.62391,name=Strättligen-Markt,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 08:00-18:30; Sa 09:00-12:00
+46.7549551,7.6308697,name=Thun,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 07:30-19:00; Sa 08:00-12:00
+47.1498358,7.2389635,ref=2533,name=Evilard/Leubringen,amenity=post_office,name:de=Leubringen,name:fr=Evilard
+46.3641726,8.1842038,name=Post Binn,amenity=post_office
+47.4197269,9.3553438,name=St. Gallen 13 Lachen-Vonwil,amenity=post_office,operator=Die Post
+46.7952102,10.2947414,name=Scuol,amenity=post_office
+47.1378412,8.5800855,amenity=post_office,name=Post,wheelchair=yes
+47.4442673,9.3409325,amenity=post_office
+47.3394256,8.6716598,name=Post Maur,amenity=post_office,operator=Die Post,addr:city=Maur,wheelchair=yes,addr:street=Rellikonstrasse,addr:country=CH,addr:postcode=8124,opening_hours=Mo-Fr 07:30-12:15,14:00-18:30; Sa 07:30-17:00,addr:housenumber=11
+47.0471349,9.4414969,name=7320 Sargans,amenity=post_office
+47.2699231,8.8208156,name=Post,amenity=post_office
+46.9442138,6.8454665,ref=2016,name=2016 Cortaillod,amenity=post_office,addr:city=Cortaillod,wheelchair=yes,addr:street=Rue de la Fin,addr:postcode=2016,addr:housenumber=14
+47.17924,7.6624034,amenity=post_office
+47.0201269,7.4471841,name=Poststelle 3053 Münchenbuchsee,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Münchenbuchsee,operator=POST CH AG,addr:city=Münchenbuchsee,addr:street=Höheweg,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3053,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:00-11:00; Su off,addr:housename=Poststelle Münchenbuchsee,addr:housenumber=4
+47.1749323,8.7125564,name=Poststelle Schindellegi,amenity=post_office,created_by=Merkaartor 0.12
+47.2962682,8.4491617,name=8908 Hedingen,amenity=post_office
+47.1531066,8.3178447,name=Post Ballwil,amenity=post_office
+47.5514623,7.5922278,name=Elisabethen,amenity=post_office,addr:street=Kirschgartenstrasse,addr:postcode=4051,addr:housenumber=7
+47.0957293,8.3498677,name=6033 Buchrain,amenity=post_office
+47.083142,8.3420477,name=6030 Ebikon,amenity=post_office,wheelchair=yes
+47.583192,7.6516968,name=Post Riehen,phone=0848 888888,amenity=post_office,website=https://standorte.post.ch/poi/Poststelle-Postagentur/Bahnhofstrasse-25/4125/Riehen/001PST_001107427/de,addr:city=Riehen,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=4125,addr:housenumber=25
+47.6396682,9.2076858,amenity=post_office,created_by=Potlatch 0.10f,wheelchair=yes
+46.7675804,9.0628277,amenity=post_office,created_by=Potlatch 0.10f
+46.9536657,7.4315407,name=Poststelle 3000 Bern 9 Länggasse,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Länggasse (Bern 9),operator=POST CH AG,addr:city=Bern,wheelchair=yes,addr:street=Länggassstrasse,addr:suburb=Länggasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3012,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-12:00; Su off,addr:housenumber=37
+47.0898695,6.8039088,name=Les Eplatures,amenity=post_office,operator=La Poste
+46.4780781,9.8131382,name=7512 Champfèr,note=post office doesn't exist anymore, reduced service now integrated in Volg shop,amenity=post_office
+47.0953026,6.8134382,name=Les Forges,amenity=post_office,operator=La Poste
+46.4861726,9.836052,amenity=post_office
+46.5359039,9.8724432,name=7503 Samedan,amenity=post_office
+46.4700067,9.6496912,name=7457 Bivio,amenity=post_office
+46.5956436,9.6008687,name=7460 Savognin,amenity=post_office
+46.6642154,9.5717499,amenity=post_office,name=7450 Tiefencastel
+46.7802915,9.5439213,name=7075 Churwalden,amenity=post_office
+47.1825595,9.444428,name=9472 Grabs,amenity=post_office
+47.243183,8.461022,addr:city=Mettmenstetten,addr:housenumber=2,addr:postcode=8932,addr:street=Mattenstrasse,amenity=post_office,name=Post Mettmenstetten,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-11:00
+46.5344701,6.5659848,name=Ecublens,amenity=post_office,operator=La Poste
+47.4524793,8.4618235,name=Regensdorf 2 Adlikon,amenity=post_office
+47.1082852,6.8314361,name=Charrière,amenity=post_office,operator=La Poste
+46.1520043,8.9451052,amenity=post_office
+46.5479091,6.5538169,amenity=post_office,created_by=Potlatch 0.10f,wheelchair=yes
+46.5254095,6.5212238,amenity=post_office
+47.4322229,8.5706016,amenity=post_office
+47.4308887,8.5613954,ref=Poststelle 8152 Glattbrugg,name=Glattbrugg,amenity=post_office,operator=Die Post,wheelchair=yes
+46.7606989,7.0948812,name=Posieux,source=gps;survey,amenity=post_office
+47.4161313,9.2661097,name=Post Mettendorf,amenity=post_office
+47.3926859,7.6182511,name=Post,amenity=post_office
+47.0641868,8.5241892,amenity=post_office
+47.4919703,8.5036671,name=Niederglatt,amenity=post_office,wheelchair=yes
+46.4548077,6.8585338,name=La Tour de Peilz,amenity=post_office
+46.3254455,7.9898114,amenity=post_office,wheelchair=yes
+47.0082435,6.9612665,name=Office de poste 2009 Neuchâtel 9 La Coudre,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste La Coudre (Neuchâtel 9) ,operator=La Poste Suisse SA,addr:city=Neuchâtel,addr:street=Rue de la Dîme,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2000,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=6
+46.9051868,6.4792223,name=Les Verrières,amenity=post_office
+47.422059,9.3193125,amenity=post_office,wheelchair=yes
+46.5074729,6.6260961,amenity=post_office
+47.4764669,7.6585366,amenity=post_office
+47.3154992,8.4685016,name=Post Bonstetten,amenity=post_office
+46.6881053,7.6784597,name=3700 Spiez,amenity=post_office,wheelchair=yes
+47.4256173,9.6130747,amenity=post_office
+46.5045231,7.2910639,amenity=post_office
+46.0203006,8.9709512,name=Posta Pregassona,amenity=post_office,website=www.posta.ch,addr:street=Via Vedreggio,opening_hours=Mo-Fr 07:45-11:30,14:00-18:00; Sa 09:00-11:00,addr:housenumber=1
+46.9966833,8.6058107,name=Post Brunnen,amenity=post_office
+46.0121731,8.9639084,atm=yes,name=Posta Viganello,amenity=post_office,created_by=Potlatch 0.10f
+46.4586359,6.8495566,name=1800 Vevey 2 Orient,amenity=post_office
+46.0137525,8.9577669,atm=yes,name=Posta Lugano 4Molino nuovo,amenity=post_office,created_by=Potlatch 0.10f,wheelchair=yes,addr:housenumber=14
+47.0428603,7.0974279,name=Poststelle 3235 Erlach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Erlach,operator=Die Schweizerische Post AG,addr:city=Erlach,addr:street=Im Städtchen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3235,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:45-11:00, 16:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=6
+46.8778327,9.5285374,name=Haldenstein,amenity=post_office
+47.1413034,7.2173607,ref=2532,name=Magglingen,amenity=post_office,name:fr=Macolin
+47.3615984,8.3668844,amenity=post_office
+46.7275804,7.1364892,name=1733 Treyvaux,source=survey,amenity=post_office
+46.6089087,7.0657787,source=survey,amenity=post_office
+46.6392443,6.974106,name=1625 Sâles (Gruyère),source=survey,amenity=post_office
+46.6968011,6.9192846,source=survey,amenity=post_office
+47.3003977,8.8414643,amenity=post_office,operator=Die Post,wheelchair=limited
+47.2438327,9.470629,name=9467 Frümsen,amenity=post_office
+47.3237494,8.5486832,amenity=post_office,name=Kilchberg,wheelchair=limited,wheelchair:description=Türen sind schwer zu öffnen
+47.4425929,9.0739296,name=Post Schwarzenbach SG,amenity=post_office
+47.1345728,8.1916997,name=Post Sempach,amenity=post_office
+46.9785117,7.4614063,name=Poststelle 3048 Worblaufen,source=survey,amenity=post_office,website=http://post.ch,alt_name=Post Worblaufen,operator=POST CH AG,addr:city=Ittigen,addr:street=Fischrainweg,addr:suburb=Worblaufen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3048,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housename=Poststelle Worblaufen,addr:housenumber=7
+47.4227239,9.370151,amenity=post_office,operator=Die Post,wheelchair=yes
+47.4607582,8.2459977,name=Birmenstorf,amenity=post_office,wheelchair=yes
+46.9538501,7.3388169,name=Poststelle 3202 Frauenkappelen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Frauenkappelen,operator=POST CH AG,addr:city=Frauenkappelen,addr:street=Murtenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3202,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:00, 15:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=45
+47.1214319,7.9943348,amenity=post_office
+46.952687,7.2588057,name=Poststelle 3203 Mühleberg,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Mühleberg,operator=Die Schweizerische Post AG,addr:city=Mühleberg,addr:street=Murtenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3203,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=28
+46.9742997,7.1937287,name=Poststelle 3210 Kerzers,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kerzers,operator=Die Schweizerische Post AG,addr:city=Kerzers,wheelchair=yes,addr:street=Murtenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3210,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-11:30; Su off,addr:housenumber=8
+46.4596282,6.2073163,amenity=post_office,name=1273 Arzier,wheelchair=yes
+47.4445586,9.534735,name=Heiden,amenity=post_office
+46.1370607,7.6247855,name=Zinal,amenity=post_office
+46.6211703,6.9905902,name=1627 Vaulruz,source=survey,amenity=post_office
+47.2403231,8.7208092,name=Post Stäfa,amenity=post_office
+46.4879768,9.9064241,amenity=post_office
+46.2558683,7.5296944,amenity=post_office
+46.9953319,7.1450467,name=Poststelle 3225 Müntschemier,source=survey,amenity=post_office,website=http://www.ewb.ch,alt_name=Post Müntschemier,operator=Die Schweizerische Post AG,addr:city=Müntschemier,addr:street=Dorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3225,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 15:00-18:00; Sa 08:30-11:00,addr:housenumber=7
+46.8186751,7.3423874,addr:city=Schwarzenburg,addr:country=CH,addr:housenumber=6,addr:postcode=3150,addr:street=Bahnhofstrasse,amenity=post_office,name=Die Post,opening_hours=Mo-Fr 07:30-12:00,14:00-18:00; Sa 08:30-11:00,source=survey
+47.3590713,9.0747647,name=9606 Bütschwil,amenity=post_office
+46.8376926,8.1864136,amenity=post_office
+47.4181617,8.271503,name=5507 Mellingen,amenity=post_office
+47.5890577,8.2936273,amenity=post_office
+46.1649384,6.1899685,name=Pas-de-l'Échelle,note=situation : 154 CHEMIN DE VEYRIER - PAS DE L ECHELLE,phone=3631,source=data.gouv.fr:LaPoste - 04/2012,amenity=post_office,operator=La Poste,addr:postcode=74100,ref:FR:LaPoste=14041A
+46.8809527,7.6233547,name=Poststelle 3510 Konolfingen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Konolfingen,operator=Die Schweizerische Post AG,addr:city=Konolfingen,wheelchair=yes,addr:street=Emmentalstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3510,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=23
+47.6965699,8.6875377,name=Zdenka von Ow,amenity=post_office,operator=Deutsche Post,wheelchair=yes,opening_hours=Mo,Tu,Th,Fr 9:00-12:00,14:00-16:30; We 9:00-12:00; Sa 9:00-11:30
+46.9257756,7.6284536,name=Poststelle 3507 Biglen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Biglen,operator=Die Schweizerische Post AG,addr:city=Biglen,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3507,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=11
+47.0160593,7.6565899,name=Hasle-Rüegsau,amenity=post_office,wheelchair=yes
+47.4985567,9.0239936,name=Post Bettwiesen,amenity=post_office,operator=Post
+46.4719938,6.8336166,amenity=post_office
+45.9959717,8.9007782,name=La Posta,amenity=post_office
+47.0394384,7.6252395,name=Post Oberburg,amenity=post_office
+47.4607507,8.3902395,name=Post,amenity=post_office,created_by=Potlatch 0.10f
+46.0144597,8.9092668,name=Bioggio,amenity=post_office,operator=La Posta,addr:city=Bioggio,addr:street=Via della Posta,addr:country=CH,addr:postcode=6934,addr:housenumber=2
+46.0313487,8.9241053,name=La Posta,amenity=post_office
+47.3472471,8.3400993,name=5620 Bremgarten AG 2 West,amenity=post_office
+47.3510984,8.3439835,name=5620 Bremgarten AG 1,amenity=post_office
+46.885991,7.3884949,name=Poststelle 3145 Niederscherli,source=survey and gps,amenity=post_office,website=http://www.post.ch,alt_name=Post Niederscherli,operator=POST CH AG,addr:city=Köniz,addr:street=Zur Station,addr:suburb=Niederscherli,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3145,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 14:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=7
+47.2736129,8.340487,name=Muri AG,amenity=post_office,addr:city=Muri (AG),addr:street=Seetalstrasse,addr:postcode=5630,addr:housenumber=2
+46.6690026,6.8008741,amenity=post_office
+47.5222609,8.7886783,amenity=post_office
+46.5428224,6.8379963,amenity=post_office
+46.5766173,6.8693435,amenity=post_office
+46.5713265,6.8266039,amenity=post_office
+46.4881107,6.7281463,name=Poste,amenity=post_office
+46.8171819,10.336599,name=Sent Posta,amenity=post_office
+47.4616938,8.99862,name=Post Sirnach,amenity=post_office
+47.0026559,9.5004283,amenity=post_office
+46.4634179,6.8414249,atm=yes,name=Vevey,amenity=post_office
+46.4702435,6.8421338,name=Poste de Corsier,amenity=post_office
+46.8288862,7.6973875,name=Heimenschwand,amenity=post_office
+46.797595,7.6850536,name=Schweizerische Post, Unterlangenegg,amenity=post_office
+46.8338866,9.4476257,name=Domat/Ems,amenity=post_office
+46.8281577,9.3615606,name=Trin,amenity=post_office
+46.3617134,7.0522357,name=Le Sepey,amenity=post_office
+47.3933449,7.8572503,name=Poststelle Läufelfingen,amenity=post_office
+47.2953471,8.2299413,name=5616 Meisterschwanden,amenity=post_office
+46.0066607,8.9287771,name=La Posta,amenity=post_office
+46.4488127,6.9139043,name=Chamby,amenity=post_office
+47.4207165,8.5581904,amenity=post_office
+46.5056439,6.6886783,addr:city=Lutry,addr:country=CH,addr:housenumber=2,addr:postcode=1095,addr:street=Route de l'Ancienne Ciblerie,alt_name=Poste Lutry,amenity=post_office,brand=LA POSTE,contact:email=serviceclientele@poste.ch,contact:fax=+41 844 888 888,contact:phone=+41 848 888 888,name=Office de poste 1095 Lutry,opening_hours=Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-18:00; Su off,operator=La Poste Suisse SA,source=survey,website=http://www.poste.ch
+47.4676478,9.2054127,name=Postagentur,amenity=post_office
+46.7354455,7.2529132,name=Postagentur,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 6:00-12:00, 13:30-18:15; Sa 6:00-12:00, 13:00-16:00; Su 9:00-11:00
+46.0579534,8.9899328,addr:city=Sonico,addr:country=CH,addr:housenumber=2,addr:postcode=6968,addr:street=Stráda dra Pésa,amenity=post_office,name=Ufficio postale,operator=La Posta
+46.9392431,7.7848845,amenity=post_office,addr:street=Bahnhofstrasse,addr:postcode=3550,addr:housenumber=7
+46.2510967,7.0147087,amenity=post_office
+46.9703181,9.4822012,name=Valens Post,amenity=post_office
+47.4748315,7.1546147,ref=2944,name=Bonfol,amenity=post_office
+47.5455035,8.7051391,amenity=post_office,addr:street=Stationsstrasse,addr:housenumber=27
+47.4108794,9.6268687,name=Heerbrugg,amenity=post_office
+46.3152145,8.0151544,amenity=post_office
+46.9869735,6.8898637,name=Office de poste 2034 Peseux,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Peseux,operator=La Poste Suisse SA,addr:city=Peseux,addr:street=Rue de la Chapelle,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2034,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:45-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=6
+46.1746542,9.0116709,name=Posta Giubiasco,amenity=post_office
+46.4749424,7.1336531,amenity=post_office
+47.3988515,8.0588771,amenity=post_office,wheelchair=yes
+46.4823953,6.4566533,amenity=post_office
+46.4483839,6.1597882,amenity=post_office,name=La Poste
+46.4353807,6.2174733,amenity=post_office,name=La Poste
+47.3127696,8.5248595,atm=yes,amenity=post_office
+46.3821729,6.8999334,amenity=post_office
+47.1902598,8.8961818,name=Wangen,amenity=post_office
+46.5390149,6.7305124,name=Poste de Savigny,amenity=post_office
+47.4581237,8.7744742,name=Post Kollbrunn,amenity=post_office
+47.1872976,8.7483226,name=Feusisberg,amenity=post_office
+46.6620694,7.8619889,source=survey,amenity=post_office
+47.0207928,7.4989667,atm=yes,name=Poststelle 3322 Urtenen-Schönbühl,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Urtenen-Schönbühl,operator=POST CH AG,addr:city=Urtenen-Schönbühl,wheelchair=yes,addr:street=Zentrumsplatz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3322,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=6
+47.057199,6.7495675,amenity=post_office
+46.810146,9.8419073,name=Post Davos-Dorf,amenity=post_office,wheelchair=yes
+46.522723,6.6327994,amenity=post_office
+47.4201249,8.4349239,name=Weiningen,amenity=post_office
+46.0470703,8.9870941,amenity=post_office
+47.4503398,8.3269612,name=Neuenhof,amenity=post_office,wheelchair=yes
+46.2201307,7.0168346,amenity=post_office
+47.0822486,8.1275119,name=Die Post,amenity=post_office,operator=Die Schweizerische Post
+46.7034874,6.7541779,amenity=post_office
+46.6550963,9.0987468,name=7149 Vrin,amenity=post_office
+45.9514946,8.9084818,name=Posta Figino,amenity=post_office
+47.0700695,8.2825374,amenity=post_office
+46.7617256,7.2091201,name=Giffers,amenity=post_office,operator=Die Schweizerische Post AG,addr:city=Giffers,wheelchair=yes,addr:street=Dorfplatz,addr:country=CH,addr:postcode=1735,addr:housenumber=2
+47.1343028,9.0964741,name=Weesen,amenity=post_office
+46.1603357,6.1489897,amenity=post_office
+47.5728987,8.2563299,name=Post Döttingen,is_in=Bezirk Zurzach,Aargau,Schweiz,Europe,amenity=post_office
+47.4260923,9.3774088,amenity=post_office
+46.668356,6.3257353,name=1342 Le Pont,amenity=post_office,addr:street=Rue de la Poste,addr:housenumber=13
+47.4625807,8.9616,name=Die Post Eschlikon,amenity=post_office
+46.6284305,7.389465,amenity=post_office
+46.2319274,7.8705836,amenity=post_office
+47.1489615,9.1414165,name=Amden,amenity=post_office
+47.3188497,8.419869,addr:housenumber=3,amenity=post_office,building=yes,name=Die Post (im Volg)
+46.820926,7.5492409,amenity=post_office
+47.5190502,7.6915937,amenity=post_office
+46.2115742,6.1346228,name=Poste Servette,amenity=post_office,wheelchair=no
+47.0706214,8.1967589,amenity=post_office
+46.7035184,7.0060311,name=Villargiroud, Villarsiviriaux,amenity=post_office
+46.658808,6.8766148,name=Poste,source=survey,amenity=post_office,addr:city=Siviriez,addr:street=La Laiterie,addr:postcode=1678
+46.632761,6.83586,name=1670 Ursy,source=survey,amenity=post_office
+46.5749601,6.8391634,name=1608 Oron-le-Châtel,amenity=post_office
+46.5274888,6.8980944,name=1618 Châtel-Saint-Denis,amenity=post_office
+47.4372476,7.8114431,name=Die Post,amenity=post_office,building=yes,addr:housenumber=11
+47.611119,8.7260689,name=Poststelle Volg Ossingen,amenity=post_office,operator=Volg,postal_code=8475
+47.594039,8.67877,atm=yes,name=Poststelle Andelfingen,amenity=post_office,postal_code=8450
+46.8632232,8.6320112,amenity=post_office
+47.5351874,7.7299386,atm=yes,name=Liebrüti,amenity=post_office,operator=Schweizer Post,wheelchair=yes
+46.477886,6.2355739,amenity=post_office
+46.7455625,7.1720209,amenity=post_office
+46.9359181,7.1245026,ref=3286,name=Muntelier,amenity=post_office
+46.9809422,6.8713984,amenity=post_office
+46.6188945,9.1807134,name=Post,source=knowledge,amenity=post_office
+46.1938138,6.142573,amenity=post_office,wheelchair=yes
+47.3079109,8.5551264,name=Post,amenity=post_office
+47.553193,7.7948555,atm=yes,amenity=post_office,operator=Schweizer Post
+46.8157095,6.7861996,amenity=post_office
+47.5634291,9.3773111,amenity=post_office,atm=yes,operator=Die Post,wheelchair=yes
+47.5942646,9.2465158,amenity=post_office
+47.1315703,7.6071865,amenity=post_office
+46.7241126,6.5311139,amenity=post_office
+46.4620957,9.7968396,name=Posta Silvaplauna,amenity=post_office,addr:city=Silvaplana,addr:street=Via Maistra,addr:country=CH,addr:postcode=7513,addr:housename=Posta,addr:housenumber=44
+46.4654656,6.8952859,name=Poste Blonay,amenity=post_office
+46.8504793,9.5311639,name=Hauptpost,amenity=post_office,wheelchair=limited
+47.5703969,8.4337152,name=Post,amenity=post_office,addr:street=Kirchstraße,addr:postcode=79801,opening_hours=09:00-12:00, Mo-We,Fr 15:00-17:00, Th 15:00-18:00; Sa 09:30-12:00; Su,PH off,addr:housenumber=4
+47.0494805,8.3117481,name=Poststelle Universität,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 07:30-20:30
+46.8873878,6.9820614,amenity=post_office
+47.0079652,8.3398171,amenity=post_office
+46.6152984,6.4721402,amenity=post_office
+47.1616934,8.7813084,name=Egg,amenity=post_office
+45.9927648,7.183777,name=Liddes,amenity=post_office
+47.3278038,9.2218825,addr:city=Schönengrund,addr:housenumber=10,addr:postcode=9105,addr:street=Hauptstrasse,amenity=post_office,name=Postagentur,operator=LANDI Säntis AG
+47.35761,9.2861057,name=9104 Waldstatt AR,amenity=post_office
+46.6022237,9.4267816,name=Andeer,amenity=post_office,postal_code=7440
+46.3866824,7.2672547,amenity=post_office
+47.5345059,7.7141712,amenity=post_office
+47.3644842,8.6195452,amenity=post_office,operator=Die Post
+46.9607553,7.4541007,name=Poststelle 3000 Bern 22 Breitenrain,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Breitenrain (Bern 22),operator=POST CH AG,addr:city=Bern,wikipedia=de:Die Schweizerische Post,addr:street=Scheibenstrasse,addr:suburb=Breitenrain,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3014,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 09:00-12:00,addr:housenumber=20
+45.9853039,8.9323445,name=Posta Pambio,amenity=post_office,operator=La Posta
+47.18691,7.6421931,amenity=post_office
+47.4394542,8.4410995,ref=Poststelle Dällikon,name=Post,amenity=post_office,wheelchair=yes
+47.479794,8.2406136,name=5421 Gebenstorf,amenity=post_office
+46.9958854,6.9417323,name=Bas du Mail,amenity=post_office
+47.4008682,8.6267358,name=Dübendorf 2,amenity=post_office,operator=Die Post
+47.3856741,9.6547485,amenity=post_office
+46.967101,8.5849023,name=Schweizerische Post,amenity=post_office,addr:city=Seelisberg,addr:postcode=6377
+46.9091652,9.4404407,amenity=post_office,opening_hours=Mo - Fr 9:00 - 11:00; Sa 9:00 - 10:00
+47.1412067,8.4323123,name=Poststelle 6343 Rotkreuz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Rotkreuz,operator=Die Schweizerische Post AG,addr:city=Rotkreuz,addr:street=Dorfmatt,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6343,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00; Su off,addr:housenumber=2b
+47.099612,9.064292,name=Post Näfels,amenity=post_office,website=http://www.post.ch/,addr:street=Bahnhofstrasse,addr:postcode=8752,addr:housenumber=5
+47.4136612,8.0476056,name=Post 5024 Küttigen,amenity=post_office,wheelchair=yes
+46.5526139,9.3204512,name=Splügen,amenity=post_office
+47.5569433,7.589062,amenity=post_office,addr:housenumber=15
+47.1822093,8.0764124,name=Ruch's Chäsilade,amenity=post_office
+46.9934058,6.9270995,name=Ecluse,amenity=post_office,operator=La Poste
+47.5623959,7.5940716,amenity=post_office,addr:street=Claragraben,addr:housenumber=81
+46.8932196,7.5011755,name=Poststelle 3123 Belp,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Belp,operator=POST CH AG,addr:city=Belp,wheelchair=yes,addr:street=Rubigenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3123,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=25
+46.0357498,8.9554125,name=6949 Comano,amenity=post_office,addr:street=Via Cantonale,addr:housenumber=40
+47.4027487,9.6358304,name=Widnau,amenity=post_office
+46.3170027,6.9648921,name=Aigle,amenity=post_office,operator=La Poste
+46.5268665,6.8519705,name=Bossonnens,amenity=post_office,operator=Post
+47.0962085,7.1299986,atm=no,ref=2515,name=Prêles,amenity=post_office,operator=La Poste
+46.9844835,9.1520631,ref=8765,name=Engi,amenity=post_office,operator=Die Post,addr:street=Dorfstrasse,opening_hours=Mo-Fr 08:30-10:30,addr:housenumber=2
+47.1242099,8.4434002,name=Post,amenity=post_office
+46.9079572,7.0779004,ref=1595,name=Faoug,amenity=post_office
+46.7412964,7.2190563,name=Postagentur,amenity=post_office,operator=Die Schweizerische Post,wheelchair=yes
+46.7949277,7.2599287,name=Alterswil,amenity=post_office,operator=Die Schweizerische Post AG,opening_hours=Mo-Fr 08:00-10:00, 15:00-18:00; Sa 08:30-11:00; Su off
+47.2795566,7.9270089,name=Post Strengelbach,amenity=post_office
+46.7667814,7.2389421,name=Post Rechthalten,amenity=post_office,wheelchair=yes
+47.4741628,9.465822,name=Die Post,amenity=post_office
+46.9636615,7.4556606,name=Trans Express Kurier,source=survey and website,amenity=post_office,website=http://www.t-e-k.ch,alt_name=TEK - Trans Express Kurier,addr:city=Bern,short_name=T-E-K,addr:street=Winkelriedstrasse,contact:fax=+41 31 3322265,addr:country=CH,addr:postcode=3014,contact:email=info@t-e-k.ch,contact:phone=+41 800 587 437 ,opening_hours=Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00; Su off,addr:housenumber=56
+46.2956234,7.3964205,amenity=post_office
+46.1900608,6.1193453,name=Poste de Petit-Lancy II,amenity=post_office,addr:city=Petit-Lancy,addr:street=Place des Ormeaux,addr:housenumber=1
+46.1889426,6.1104951,name=Petit-Lancy I,amenity=post_office,opening_hours=Mo-Fr 08:00-18:00; Sa 09:00-12:00
+47.3572367,8.628077,name=Post Binz,amenity=post_office,operator=Die Post,addr:city=Binz,addr:street=Zürichstrasse,addr:country=CH,addr:postcode=8122,addr:housenumber=240
+47.5155577,7.5589726,name=Poststelle 4104 Oberwil,amenity=post_office,operator=Die Post
+46.4740557,6.425784,amenity=post_office
+47.3532726,7.9466498,name=Post Dulliken,amenity=post_office,operator=Post
+46.1965374,7.8399392,name=Post Grächen,amenity=post_office
+47.0508249,8.3009783,name=Hirschengraben,amenity=post_office
+46.7562995,9.1194698,amenity=post_office,name=Obersaxen Affeier
+46.7563285,9.1197013,name=Obersaxen Affeier,amenity=post_office
+47.4614318,9.0417856,name=Post,amenity=post_office,wheelchair=limited,addr:street=Hubstrasse,opening_hours=Mo-Fr 7:30-18:30; Sa 8:00-16:00,addr:housenumber=18
+47.2408613,8.9210573,addr:city=Eschenbach,addr:housenumber=2,addr:postcode=8733,addr:street=Rössligass,amenity=post_office,name=Post Eschenbach,operator=Die Post,wheelchair=yes,wheelchair:description=Enger Durchgang und mit grossem Elektrorollstuhl nicht gut zu machen, Aktivrollstuhl geht aber!
+47.4373523,9.4054931,amenity=post_office,name=Die Post,wheelchair=yes
+47.4675083,8.3220884,name=Poststelle 5430 Wettingen 3 Langenstein,amenity=post_office,operator=Die Post
+46.7596211,7.2785402,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 07:30-12:00,14:00-18:30;Sa 07:30-12:00;Su off
+47.1332883,9.0608009,name=Ziegelbrücke,amenity=post_office,operator=Die Post
+46.790645,7.2180772,name=Post St. Ursen,amenity=post_office,wheelchair=yes
+46.8814155,8.6418449,name=6460 Altdorf UR 1,amenity=post_office,wheelchair=yes
+46.8755156,8.6633509,name=6463 Bürglen UR,amenity=post_office
+46.9478569,7.4522129,name=Poststelle 3000 Bern 8 Kramgasse,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kramgasse (Bern 8),operator=POST CH AG,addr:city=Bern,addr:street=Kramgasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3011,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+47.4093847,8.4624853,name=Oberengstringen,amenity=post_office
+47.1779254,8.5910562,amenity=post_office
+46.1849544,8.7198566,name=6654 Cavigliano,amenity=post_office
+47.4061853,9.606848,name=Post Balgach,amenity=post_office,operator=Die Schweizerische Post
+46.5174786,7.3112446,name=Saanenmöser,amenity=post_office
+47.6446152,9.1797399,name=Post Hirschenplatz,amenity=post_office,operator=Post.CH
+46.9562647,8.5157152,name=Schweizerische Post,amenity=post_office
+46.9760648,7.4367037,name=Poststelle 3047 Bremgarten bei Bern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bremgarten bei Bern,operator=POST CH AG,addr:city=Bremgarten bei Bern,addr:street=Chutzenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3047,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 14:00-18:00; Sa 08:00-11:00,addr:housenumber=1
+46.2345951,8.7113341,name=Aurigeno-Moghegno,amenity=post_office
+46.9028458,6.7799578,name=Poste de Gorgier,amenity=post_office
+47.2290868,7.5651851,amenity=post_office,opening_hours=Mo-Fr 07:30-11:00,14:00-18:00; Sa 08:00-11:00,contact:website=https://standorte.post.ch/poi/Poststelle-Postagentur/Wallierhofstrasse-3/4533/Riedholz/001PST_001125733,addr:housenumber=4533
+46.7823387,9.6803142,amenity=post_office,operator=Die Post,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-11:00,collection_times=Mo-Fr 07:00,18:00; Sa 11:00
+46.9176334,7.0229382,ref=1585,name=Salavaux,amenity=post_office
+47.5275759,7.8123907,name=Magden,amenity=post_office
+47.152466,7.2669092,ref=2500,name=Biel/Bienne 6 Bözingen,amenity=post_office,name:de=Biel/Bienne 6 Bözingen,name:fr=Biel/Bienne 6 Boujean,operator=Die Schweizerische Post
+47.1463163,7.2733777,ref=2500,name=Biel/Bienne 8 Mett,amenity=post_office,name:de=Biel/Bienne 8 Mett,name:fr=Biel/Bienne 8 Mâche,operator=Die Schweizerische Post,wheelchair=yes
+47.1934012,7.3952548,ref=2540,name=Grenchen 1,amenity=post_office,wheelchair=limited
+47.1671858,7.4270959,ref=3296,name=Arch,amenity=post_office
+47.0754947,7.3064976,name=Poststelle 3250 Lyss,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Lyss,operator=Die Schweizerische Post AG,addr:city=Lyss,wheelchair=yes,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3250,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=8
+47.0598626,7.2275955,name=Postagentur 3272 Walperswil,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Walperswil,operator=Volg Detailhandels AG,addr:city=Walperswil,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3272,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 06:00-20:00; Sa 07:00-17:00; Su off,addr:housenumber=19
+47.0908933,7.4429372,ref=3254,name=Messen,amenity=post_office
+47.041134,7.3789373,name=Poststelle 3054 Schüpfen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Schüpfen,operator=POST CH AG,addr:city=Schüpfen,addr:street=Leiernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3054,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=1
+47.10198,7.2948115,name=Poststelle 3252 Worben,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Worben,operator=Die Schweizerische Post AG,addr:city=Worben,wheelchair=limited,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3252,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+46.8767672,7.1521404,ref=1792,name=Cordast-Guschelmuth,amenity=post_office
+47.4086747,8.5075425,amenity=post_office
+46.9411312,7.4184173,name=Postagentur 3000 Bern 21 Fischermätteli,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Fischermätteli (Bern 21),operator=Private company,addr:city=Bern,addr:street=Könizstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3008,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:00-20:00; Sa 08:00-17:00; Su off,addr:housenumber=60
+46.9458291,7.4151975,name=Poststelle 3000 Bern 5 Holligen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Holligen (Bern 5),operator=POST CH AG,addr:city=Bern,addr:street=Huberstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3008,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housename=Poststelle Holligen,addr:housenumber=2
+46.1801953,8.8507713,atm=yes,name=LA POSTA 6598 Tenero,amenity=post_office
+47.2752722,7.9014871,amenity=post_office
+46.2052979,6.1255392,amenity=post_office
+47.3675607,8.5355374,amenity=post_office,wheelchair=yes
+47.2637194,9.1211082,name=Poststelle,amenity=post_office
+46.6285111,9.7462457,name=Bergün,amenity=post_office
+47.2631278,8.6768157,name=Post Uetikon,amenity=post_office,wheelchair=yes
+47.3117859,8.3899605,name=8917 Oberlunkhofen,amenity=post_office
+46.4313278,8.8622037,name=6748 Anzonico,amenity=post_office
+46.441274,8.8400584,name=6346 Lavorgo,amenity=post_office
+46.9477439,7.4258069,name=Poststelle 3000 Bern 10 Inselspital,note=Diese Poststelle wird per 26. Juni 2015 aufgehoben.,FIXME=Please, cancell this node after June 26, 2015. Diesen Knoten nach 26. Juni 2015 bitte löschen.,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Inselspital (Bern 10),operator=POST CH AG,addr:city=Bern,addr:street=Freiburgstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3010,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:30-17:00; Sa-Su off,addr:housename=Polyklinik,addr:housenumber=18
+47.2961583,8.3957156,amenity=post_office,name=Post Jonen,operator=Die Schweizerische Post
+47.1881084,7.2860281,amenity=post_office
+47.3558546,8.0469602,name=Post Oberentfelden,amenity=post_office
+47.689226,8.4982981,name=Post Neunkirch,amenity=post_office,operator=Post,amenity_1=post_box,wheelchair=yes
+46.0285406,7.1438866,ref=1937,name=Orsières,amenity=post_office,operator=La Poste
+46.4822273,6.7768129,name=La Poste,amenity=post_office
+47.0186928,8.3097544,amenity=post_office,wheelchair=yes
+46.2019979,8.6693676,name=Loco,amenity=post_office
+47.1230851,8.3504604,name=Post,amenity=post_office
+46.4125348,8.9774932,name=Malvaglia,amenity=post_office,operator=La Posta,addr:city=Malvaglia,addr:street=Via Campagna,addr:postcode=6713,addr:housenumber=63
+46.4976709,9.8420348,name=Post St. Moritz Dorf,amenity=post_office
+46.1736717,6.1228362,name=1212 Grand-Lancy 1,amenity=post_office,designation=1212
+46.9323773,7.5041233,name=Poststelle 3073 Gümligen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Gümligen,operator=POST CH AG,addr:city=Muri bei Bern,addr:street=Füllerichstrasse,addr:suburb=Gümligen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3073,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:30-12:00; Su off,addr:housenumber=55
+46.9468998,7.4084149,name=DPD Depot 612,brand=DPD,source=survey and website,amenity=post_office,website=http://www.dpd.ch,alt_name=Dynamic Parcel Distribution Depot 612,old_name=DPD Deutscher Paketdienst Depot 612,operator=DPD (Schweiz) AG,addr:city=Bern,addr:street=Steigerhubelstrasse,contact:fax=+41 848 373 370,addr:country=CH,addr:postcode=3008,contact:email=info@dpd.ch,contact:phone=+41 848 373 373,opening_hours=Mo-Fr 09:00-12:00, 13:00-20:00; Sa-Su off,addr:housenumber=94
+46.1819824,6.1205353,amenity=post_office
+47.2195477,7.5542645,amenity=post_office
+46.1771464,8.8152584,name=Posta di Minusio,amenity=post_office,operator=Posta
+46.1565453,8.7694949,name=Ufficio postale,amenity=post_office,operator=La Posta,addr:city=Ascona,addr:street=Via Borgo,addr:country=CH,addr:postcode=6612,addr:housenumber=1
+46.1652099,8.7620358,name=Ufficio Postale,amenity=post_office,operator=La Posta,addr:city=Losone,addr:street=Via Locarno,addr:country=CH,addr:postcode=6616,addr:housenumber=25
+46.4454159,9.5801241,amenity=post_office,name=7448 Juf
+46.0302743,7.1161021,name=Champex-Lac,amenity=post_office,operator=La Poste
+46.8502623,7.1912017,name=Poststelle 3186 Düdingen,level=0,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Düdingen,operator=Die Schweizerische Post AG,addr:city=Düdingen,wheelchair=yes,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3186,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00,13:30-18:00;Sa 08:00-11:00;Su off,addr:housenumber=44
+46.2536289,6.9469783,amenity=post_office
+46.6935867,6.7076669,name=Poste de Bercher,amenity=post_office
+46.7292828,6.4137869,name=1338 Ballaigues,amenity=post_office
+46.1133273,7.4944068,ref=1983,name=Office de poste Evolène,amenity=post_office
+47.3649836,7.155473,atm=no,name=Post,amenity=post_office,operator=Post
+46.403663,9.6951362,name=Posta Maloja,amenity=post_office
+46.001465,8.976552,amenity=post_office
+46.003448,8.977853,name=6977 Ruvigliana,amenity=post_office,addr:postcode=6977
+46.7626452,6.8887042,amenity=post_office
+46.8116979,9.4008465,amenity=post_office,wheelchair=yes
+46.2253948,6.1408265,name=Post office,note=Will only accept UN stamps, no swiss stamps,amenity=post_office,operator=PTT
+46.2290499,6.1202412,name=1218 - Gd-Saconnex,amenity=post_office,website=http://www.poste.ch/,addr:city=Le Grand-Saconnex,wheelchair=yes,addr:street=Rue Sonnex,addr:postcode=1218,opening_hours=Mo-Fr 08:00-18:00;Sa 09:00-12:00,addr:housenumber=12
+46.8626157,10.4314546,amenity=post_office
+46.8342625,10.3795155,amenity=post_office
+46.9264552,7.4334952,name=Postagentur 3095 Spiegel bei Bern,source=survey,amenity=post_office,website=http//:www.post.ch,alt_name=Post Spiegel bei Bern,operator=Private company,addr:city=Köniz,addr:street=Chasseralstrasse,addr:suburb=Spiegel bei Bern,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3095,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off,addr:housenumber=156,collection_times=Mo-Fr 18:00; Sa 11:00; Su 15:00
+46.7930333,10.2469853,amenity=post_office,tourism=information,information=office
+46.314858,7.74519,name=Poststelle Steg,amenity=post_office,operator=Post
+46.775655,10.1513496,amenity=post_office
+46.7773408,6.6575076,name=La Villette,amenity=post_office
+45.8521695,9.0166152,addr:city=Morbio Inferiore,addr:country=CH,addr:housenumber=8,addr:postcode=6834,addr:street=Via Giuseppe Cereghetti,amenity=post_office,atm=yes,collection_times=Mo-Fr 18:00;Sa 11:00,name=Morbio Inferiore,opening_hours=Mo-Fr 07:45-11:00,14:30-18:00;Sa 08:30-11:00,operator=La Posta,wheelchair=yes
+45.8450994,9.0167803,name=Morbio Inferiore Serfontana,source=website and survey,amenity=post_office,operator=La Posta,addr:city=Morbio Inferiore,addr:street=Viale al Ponte,addr:country=CH,addr:postcode=6834,opening_hours=Mo-Fr 09:00-18:30;Sa 09:00-17:00,addr:housenumber=3,collection_times=Mo-Fr 18:30;Sa 17:00
+46.3565316,8.0465868,ele=779,amenity=post_office
+46.2282252,6.0722804,name=Poste de Meyrin Village,amenity=post_office,wheelchair=yes
+46.5306301,6.6198257,amenity=post_office,operator=La Poste,wheelchair=yes
+46.4233471,8.8442013,name=6747 Chironico,amenity=post_office
+47.3586318,8.5855906,amenity=post_office,opening_hours=Mo-Fr 07:30-12:00,13:45-18:00; Sa 09:00-12:00
+47.3788179,8.5594447,name=Poststelle 44 Zürichberg,amenity=post_office,addr:city=Zürich,addr:street=Toblerstrasse,addr:country=CH,addr:postcode=8044,addr:housenumber=76
+46.9725464,7.4470494,name=Poststelle 3004 Bern 4 Felsenau,amenity=post_office,website=http://www.post.ch,alt_name=Post Felsenau (Bern 4),operator=POST CH AG,addr:city=Bern,wheelchair=yes,addr:street=Reichenbachstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3004,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 14:30-18:00; Sa 08:30-11:30; Su off,addr:housenumber=77,wheelchair:description=Sehr hilfsbereite, auf Rollstuhlfahrende sensibilisierte Angestellte!
+47.4441782,8.7989066,name=Post,amenity=post_office,addr:street=Spiegelacker,addr:housenumber=3
+47.437445,8.8449472,name=Post,amenity=post_office,operator=Die Post,addr:city=Turbenthal,addr:street=Bahnhofstrasse,addr:postcode=8488,opening_hours=Mo-Fr 07:30-12:00,14:30-18:00; Sa 08:00-11:00,addr:housenumber=6
+46.6858232,9.5628506,amenity=post_office
+46.8258623,9.2889191,name=Post Flims Waldhaus,note=Postofice closed,amenity=post_office
+46.4005775,8.1335224,amenity=post_office
+47.4901979,8.8996683,name=Die Post,amenity=post_office,operator=Die Post,wheelchair=yes,opening_hours=Mo-Fr 07:30-12:00,14:00-18:00; Sa 08:00-11:00
+47.407785,8.7238649,name=Illnau,amenity=post_office,operator=Die Post,wheelchair=limited
+46.3109449,6.900813,amenity=post_office
+46.1770599,7.8019905,amenity=post_office
+46.1933488,9.0261483,atm=yes,name=6500 Bellinzona,amenity=post_office
+46.8066424,9.2579646,name=Post Laax,amenity=post_office,addr:street=Via Principala,addr:postcode=7031,opening_hours=Mo-Fr 08:00-11:00,14:30-17:30; Sa 08:00-11:00,addr:housenumber=67b
+46.7496746,7.6162371,name=Längasse,amenity=post_office,operator=Die Post,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-11:00
+46.8003702,9.2321401,name=Post Falera,amenity=post_office
+46.2316429,6.0541695,name=Office de poste 1211 Genève 23 CERN,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste CERN,operator=La Poste Suisse SA,addr:city=Meyrin,addr:street=Route de Meyrin,contact:fax=+33 8 44 88 88 88,addr:country=CH,addr:postcode=1217,contact:email=serviceclientele@poste.ch,contact:phone=+33 8 48 88 88 88,opening_hours=Mo-Fr 09:00-12:30, 13:30-16:30; Sa-Su off,addr:housenumber=385
+46.4717381,6.8765654,amenity=post_office
+46.2074097,6.1275065,amenity=post_office,addr:city=Genève,addr:street=Rue des Charmilles,addr:housenumber=23
+46.533463,6.647769,amenity=post_office,operator=La Poste
+47.1401883,7.2487107,amenity=post_office,atm=yes,name=Biel/Bienne 3 Neumarkt/Marché-Neuf,name:de=Biel/Bienne 3 Neumarkt,name:fr=Biel/Bienne 3 Marché-Neuf,operator=Die Schweizerische Post,phone=0848 888 888,ref=2500
+47.6915979,8.6460878,name=Post Feuerthalen,amenity=post_office,operator=Post,wheelchair=no
+47.2224937,8.4982599,amenity=post_office
+47.1822204,8.4610523,name=Poststelle 6330 Cham 1,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Cham 1,operator=Die Schweizerische Post AG,addr:city=Cham,wheelchair=yes,addr:street=Zugerstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6330,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 09:00-18:30; Sa 09:00-12:00; Su off,addr:housenumber=15
+46.3981153,8.6535362,amenity=post_office
+47.0805231,8.6321898,name=Post Sattel,amenity=post_office,operator=Die Post
+46.7638689,7.5994783,name=Kiosk,shop=kiosk,amenity=post_office
+46.938606,7.4740687,name=Poststelle 3000 Bern 15 Weltpostverein,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Weltpostverein (Bern 15),operator=POST CH AG,addr:city=Bern,wheelchair=yes,addr:street=Weltpoststrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3015,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-11:00,addr:housenumber=8a
+46.1861177,8.7311568,amenity=post_office
+46.5980746,7.9074587,amenity=post_office
+47.2874613,7.9435999,name=Post Zofingen,amenity=post_office
+47.1824918,8.8731976,amenity=post_office
+47.48499,9.16292,amenity=post_office,wheelchair=yes
+46.7750083,7.6166993,amenity=post_office
+47.5536886,7.9902933,ele=294,name=4334 Sisseln AG,source=Bundesamt für Verkehr (BAV), DIDOK 2009,amenity=post_office,uic_ref=8500587,operator=PAG,uic_name=Sisseln AG, Post,addr:country=CH
+47.0496882,8.2614916,amenity=post_office
+46.8229517,7.1082003,amenity=post_office
+47.1464174,8.5062784,addr:housenumber=129,addr:postcode=6317,addr:street=Artherstrasse,amenity=post_office,name=Oberwil bei Zug,operator=Volg / Die Post
+46.285101,7.798271,amenity=post_office,name=Postagentur Unterbäch,website=http://www.unterbaech.ch/gewerbe/geschaefte.html
+46.8447023,9.4776446,addr:city=Felsberg,addr:housenumber=4,addr:postcode=7012,addr:street=Taminserstrasse,amenity=post_office,name=7012 Felsberg
+47.4003059,8.5440373,name=Hirschwiesen,amenity=post_office,operator=Die Post
+47.3677074,8.6798761,name=Post Greifensee,amenity=post_office,operator=Die Post,addr:city=Greifensee,addr:street=Zentrum Meierwis,addr:postcode=8606,addr:housenumber=1
+47.5464,8.967473,amenity=post_office
+47.13383,8.1372343,ele=537,name=Post,amenity=post_office,operator=Schweizerische Post,wheelchair=yes
+47.4396154,8.2075699,name=Post Birr/Lupfig,amenity=post_office
+47.0593119,8.8014123,name=Unteriberg,amenity=post_office
+47.2382224,7.2761247,amenity=post_office
+47.0767246,8.3007278,name=Spar,note=Post in Spar integriert,shop=supermarket,amenity=post_office,opening_hours=Mo,Tu,Th 07:00-18:30; We 07:00-19:30; Sa 07:00-16:00
+47.1845302,7.6914549,amenity=post_office
+47.3348605,8.3003188,amenity=post_office,name=Post Waltenschwil
+46.1949389,6.1518307,amenity=post_office,operator=La Poste
+46.1033982,7.0761944,amenity=post_office
+46.13715,7.1159661,amenity=post_office
+46.9589394,8.3671914,addr:city=Stans,addr:country=CH,addr:housenumber=3,addr:postcode=6370,addr:street=Bahnhofplatz,alt_name=Post Stans,amenity=post_office,contact:email=kundendienst@post.ch,contact:fax=+41 844 888 888,contact:phone=+41 848 888 888,name=Poststelle 6370 Stans,opening_hours=Mo-Fr 07:30-18:15; Sa 08:00-12:00; Su off,operator=Die Schweizerische Post AG,source=survey,toilets:wheelchair=no,website=http://www.post.ch,wheelchair=yes
+46.9022222,8.6252378,name=Flüelen,amenity=post_office,addr:city=Flüelen,addr:street=Dorfstrasse,addr:postcode=6454,addr:housenumber=12
+46.2968357,6.9932764,amenity=post_office
+46.5187384,6.4996497,name=Grosse Pierre 3,amenity=post_office,opening_hours=Mo-Fr 08:00-11:00,15:30-17:30;Sa 09:00-11:00
+47.2587706,8.5898505,name=Post Horgen Oberdorf,amenity=post_office,operator=Die Post,wheelchair=limited
+46.5245052,6.5887471,name=Office de poste Lausanne 23 Bourdonnette,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Bourdonnette (Lausanne 23),operator=La Poste Suisse SA,addr:city=Lausanne,addr:street=Route de Chavannes,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1007,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-10:00, 16:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=205
+47.4469299,8.1404937,amenity=post_office,operator=Die Schweizerische Post
+47.3215921,8.757208,name=Post in Volg,amenity=post_office
+47.3031877,8.1197855,ref=Postagentur im Volg,name=Postagentur Oberkulm,amenity=post_office,openGeoDB:postal_codes=5727
+47.0744477,8.2875326,amenity=post_office,wheelchair=yes
+47.4425365,9.4727763,name=Eggersriet,amenity=post_office
+46.1486042,7.1741991,name=Poste,amenity=post_office,operator=La Poste
+47.492566,8.2533182,amenity=post_office
+46.6834935,9.1367632,name=Posta,amenity=post_office,addr:street=Vigela,addr:housenumber=118
+46.7749159,9.2075359,name=Posta 7130 Glion,amenity=post_office
+47.4061692,8.4038794,name=Post Dietikon Bahnhof,amenity=post_office,operator=Schweizerische Post,wheelchair=yes
+47.4155182,8.1640565,amenity=post_office
+47.0557982,7.0669417,name=Poste,amenity=post_office
+47.1778613,6.9049243,amenity=post_office
+46.9698016,9.8134048,amenity=post_office
+47.130823,7.5381853,ref=Post,source=survey,amenity=post_office,operator=Post
+46.7924247,9.3369352,name=7104 Versam,amenity=post_office
+46.607816,6.2313098,atm=yes,name=Office de poste 1347 Le Sentier,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Le Sentier,operator=La Poste Suisse SA,addr:city=Le Sentier,wheelchair=yes,addr:street=Grande-Rue,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1347,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:30, 13:45-18:00; Sa 08:00-11:00; Su off,addr:housenumber=36b
+47.0368845,8.3285645,amenity=post_office,operator=Die Schweizerische Post
+47.4783138,9.492044,amenity=post_office,wheelchair=yes
+47.1963748,8.5305648,amenity=post_office
+47.647246,8.8736434,name=Post Eschenz,amenity=post_office,operator=Die Post
+47.2101155,7.0046028,name=2345 Les Breuleux,amenity=post_office
+47.481871,7.5443061,amenity=post_office
+47.5595753,8.0602506,amenity=post_office,wheelchair=yes
+47.3649861,8.5307919,ref=Zürich 27 Enge,name=Poststelle Zürich 27 Enge,amenity=post_office,operator=Die Post,opening_hours=Mo-Fr 07:30-18:00; Sa 09:00-12:00
+46.3384118,9.5563098,amenity=post_office
+46.021779,7.746443,amenity=post_office
+46.7297035,9.1800869,name=7143 Morissen,amenity=post_office
+46.9562798,6.7234569,name=2103 Noiraigue,amenity=post_office
+47.4941319,8.3413294,ref=Post Ehrendingen,name=Post Ehrendingen,amenity=post_office,operator=Postfinance,wheelchair=yes,opening_hours=Mo-Fr 07:30-11:45,14:00-18:00; Sa 09:00-11:00
+46.1878748,8.9959091,name=6513 Monte Carasso,amenity=post_office,addr:street=El Stradún,addr:housenumber=14
+47.1829292,7.3666745,name=Post,amenity=post_office
+46.5399252,6.7689543,ref=Forel Lavaux,amenity=post_office
+47.1692882,8.2450038,name=Post Römerswil,amenity=post_office,operator=Die Post
+46.7048362,8.5990222,amenity=post_office
+46.8951676,6.7748852,name=Poste Saint-Aubin-Sauges,amenity=post_office
+45.8752076,8.9436822,amenity=post_office
+47.1806334,8.317914,name=Post Hohenrain,amenity=post_office,operator=Die Post
+47.4604388,8.3156679,amenity=post_office,wheelchair=yes
+47.0402793,8.7809448,name=Post Oberiberg,amenity=post_office
+47.310235,8.1145784,ref=Post Unterkulm,amenity=post_office,wheelchair=yes
+46.9413748,7.3936869,name=Poststelle 3018 Bern 18 Bümpliz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bümpliz (Bern 18),operator=POST CH AG,addr:city=Bern,wheelchair=limited,addr:street=Frankenstrasse,addr:suburb=Bümpliz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3018,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+47.3681877,8.0434715,name=Post,amenity=post_office,addr:city=Unterentfelden,addr:street=Jurastrasse,addr:postcode=5035
+47.3615316,7.8986801,ref=4632,amenity=post_office,operator=Swiss Post
+47.4955654,7.0148324,ref=2926,amenity=post_office,operator=Poste Suisse
+46.9288516,6.8123842,amenity=post_office
+47.2042407,7.5425022,atm=yes,ref=Poststelle 4501 Solothurn 1,name=Poststelle 4501 Solothurn 1,amenity=post_office
+47.601606,9.001147,name=Poststelle 8555 Müllheim Dorf,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Müllheim,operator=Die Schweizerische Post AG,addr:city=Müllheim,wheelchair=yes,addr:street=Frauenfelderstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=8555,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=4
+47.4562028,8.4400792,amenity=post_office,ref=Poststelle Buchs
+47.4642537,8.3285776,amenity=post_office
+46.2256854,7.2801159,name=Poste de Vétroz,amenity=post_office
+46.2417277,6.9861491,amenity=post_office,operator=La Poste
+47.4195993,9.3552293,amenity=post_office,wheelchair=no
+45.9329629,8.9876516,addr:city=Rovio,addr:country=CH,addr:housenumber=1,addr:postcode=6821,addr:street=Via San Felice,amenity=post_office,collection_times=Mo-Fr 16:00; Sa 09:00,opening_hours=Mo-Fr 07:30-12:00,15:30-18:00; We 07:30-12:00; Sa 08:30-12:00,ref=Ufficio postale 6821 Rovio
+47.2587045,8.8512552,name=Post,amenity=post_office,operator=Die Post,addr:city=Rüti ZH,wheelchair=yes,addr:street=Ferrachstrasse,addr:postcode=8630,addr:housenumber=10,wheelchair:description=Mit E-Rolli sehr eng
+47.1827835,7.5626169,amenity=post_office,operator=Post,ref=4562,wheelchair=yes
+46.2940042,7.782837,name=Postagentur Eischoll,amenity=post_office
+47.0937101,8.2697305,amenity=post_office
+45.9338203,8.970964,amenity=post_office
+46.5680895,6.5096806,amenity=post_office
+47.4889942,8.5941885,amenity=post_office
+47.207909,7.5322247,amenity=post_office
+47.5713028,7.6313603,ref=Riehen 2,amenity=post_office,wheelchair=limited
+47.0664539,7.360936,name=Poststelle 3257 Grossaffoltern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Grossaffoltern,operator=Die Schweizerische Post AG,addr:city=Grossaffoltern,addr:street=Dorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3257,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 15:30-18:00; Sa 09:00-11:00,addr:housenumber=43
+47.3697144,8.5557618,amenity=post_office
+47.4596614,7.5892118,ref=Post Office Pfeffingen,amenity=post_office,operator=Die Post
+46.8079128,7.1029636,amenity=post_office,operator=La Poste
+46.2155263,7.5853782,amenity=post_office
+47.6651371,8.9814823,name=8266 Steckborn,amenity=post_office
+47.4985143,8.2601912,ref=5417,name=Poststelle 5417,amenity=post_office,operator=Swiss Post,addr:street=Landstrasse,addr:housenumber=46
+46.3164429,7.6352199,ref=3953,name=Leuk Stadt,amenity=post_office,wheelchair=yes
+47.1953199,8.7202301,name=Post Wollerau,amenity=post_office,operator=Die Post
+47.0551398,6.8878663,name=La Poste,source=Orthophotos 2006 SITN 50cm,amenity=post_office,addr:city=Fontainemelon,addr:street=Avenue Robert,addr:country=CH
+47.5229312,8.2154576,name=Post Villigen,amenity=post_office
+46.5010092,6.4061924,name=Poste Lavigny,amenity=post_office
+47.3842936,8.7164958,name=Gutenswil,amenity=post_office,operator=Die Post
+46.6368616,6.6644956,name=Office de poste,amenity=post_office
+47.1138459,7.8475783,name=Post,amenity=post_office
+46.8164008,6.8714649,amenity=post_office
+46.752663,6.9367274,amenity=post_office
+47.2029421,8.9414218,name=Die Post,amenity=post_office
+46.0825448,6.976226,amenity=post_office
+47.0933759,8.4580879,name=Post, Immensee,amenity=post_office
+47.11768,7.1352623,amenity=post_office
+46.7116508,7.6403432,amenity=post_office,opening_hours=Mo-Fr 08:00-11:00,14:30-18:00; Sa 08:00-11:00
+47.419015,8.547003,amenity=post_office
+46.4875047,8.2639303,ref=3985,name=Münster VS,amenity=post_office,operator=Die Post,addr:city=Münster,addr:street=Furkastrasse,addr:country=CH,addr:postcode=3985,opening_hours=Mo-Fr 08:00-11:00,15:00-17:00;Sa 08:00-10:00,addr:housenumber=81
+47.171932,8.1067963,amenity=post_office,wheelchair=yes,addr:street=Centralstrasse,addr:postcode=6210,addr:housename=Stadthof,addr:housenumber=8b
+46.5171684,7.0570049,name=Poste 1669 Albeuve,amenity=post_office
+47.4136155,9.1875301,name=Post,amenity=post_office
+46.930937,7.5310365,name=Poststelle 3075 Rüfenacht BE,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Rüfenacht BE,operator=POST CH AG,addr:city=Worb,addr:street=Dorfmattweg,addr:suburb=Rüfenacht,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3075,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:30, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+46.7431247,7.5945664,amenity=post_office,wheelchair=yes,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-11:00
+45.9821295,8.9169878,name=Post Office Montagnola,source=local knowledge,amenity=post_office,addr:street=Via Collina d'Oro,addr:postcode=6926,addr:housenumber=90
+47.6574412,9.1324966,name=Post,amenity=post_office
+46.2024954,6.250237,name=Ville-la-Grand,note=situation : 2 IMPASSE DU MOLE,phone=3631,source=data.gouv.fr:LaPoste - 04/2012,amenity=post_office,operator=La Poste,addr:city=Ville-la-Grand,addr:street=Impasse du Môle,addr:postcode=74100,ref:FR:LaPoste=14135A,addr:housenumber=2,stamping_machine=yes
+47.6973127,8.6541786,name=Post Buchthalen (8203 Schaffhausen),amenity=post_office,amenity_1=post_box,wheelchair=limited
+47.4115114,9.0398495,name=Post Kirchberg,amenity=post_office,operator=Die schweizerische Post
+46.1688345,6.1213623,amenity=post_office
+46.3989308,8.1472449,name=3995 Ernen,amenity=post_office
+46.3112622,7.9792817,name=Glis,amenity=post_office
+47.7221278,8.6619765,name=Post Herblingen,amenity=post_office,amenity_1=post_box
+46.6971493,9.5282742,name=Post Lain,amenity=post_office
+46.4948166,7.6731141,addr:city=Kandersteg,amenity=post_office
+46.901541,7.6613312,name=Poststelle 3532 Zäziwil,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Zäziwil,operator=Die Schweizerische Post AG,addr:city=Zäziwil,addr:street=Thunstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3532,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+47.3499772,7.8986139,name=Olten 4 Hammer,amenity=post_office,operator=Schweizerische Post
+47.0069504,9.5314058,amenity=post_office,wheelchair=yes
+46.3780836,6.1777369,amenity=post_office,addr:housenumber=5
+47.5699624,9.0581987,name=Postagentur Amlikon-Bissegg;Dorfladen,shop=convenience,amenity=post_office,operator=Die Post,wheelchair=limited;no
+46.7113158,6.3793728,name=1337 Vallorbe,amenity=post_office
+46.1927643,6.2019127,amenity=post_office
+47.083356,8.0405885,amenity=post_office,addr:housenumber=10
+47.403553,8.5891638,name=Postagentur 8061 Zürich 61 Hirzenbach,source=www.post.ch,amenity=post_office
+46.6799087,7.8645761,name=Post,amenity=post_office
+46.7765512,10.2601317,amenity=post_office
+46.217021,6.1839505,addr:city=Cologny,addr:housenumber=2,addr:street=Chemin de la Mairie,amenity=post_office
+46.2879909,7.4754838,amenity=post_office,opening_hours=Mo-Fr 08:00-10:30,15:45-17:45;Sa 08:30-10:30
+46.2220391,6.2029817,addr:city=Vandoeuvres,addr:housenumber=8,addr:street=Route de Meinier,amenity=post_office
+47.3978006,8.4178985,name=Glanzenberg Post Office,source=local_knowledge,amenity=post_office,operator=Die Post,wheelchair=limited
+46.4214882,6.9254724,amenity=post_office,operator=La Poste
+46.5067538,8.3069689,name=Post Ulrichen,amenity=post_office,operator=Post
+47.535937,8.7302288,name=Schweizerische Post,amenity=post_office
+47.6238047,8.676099,amenity=post_office
+46.3114721,7.6408239,atm=yes,name=Post,amenity=post_office,wheelchair=yes
+46.9566922,7.4956342,name=Postagentur 3072 Ostermundigen Oberdorf,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ostermundigen Oberdorf,operator=Private company,addr:city=Ostermundigen,addr:street=Bernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3072,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Th 08:00-19:00; Fr 08:00-21:00; Sa 07:30-17:00; Su off,addr:housenumber=114
+46.5729204,6.781769,amenity=post_office,operator=Poste Suisse
+46.8972107,8.2471833,ref=Lindenhof 6,name=Lindenhof,amenity=post_office,operator=Schweizerische Post,collection_times=Mo-Fr 18.30; Sa 12.00
+47.4042344,8.5719544,name=Post Schwamendingen,amenity=post_office,wheelchair=yes
+47.1780112,8.5058336,name=Poststelle 6303 Zug 3 Herti,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Herti (Zug 3),operator=Die Schweizerische Post AG,addr:city=Zug,wheelchair=yes,addr:street=Hertizentrum,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6300,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=10
+46.4133174,6.2057101,amenity=post_office
+46.1834222,6.1374105,atm=yes,name=Poste de Carouge 1227,amenity=post_office,website=http://www.poste.ch
+46.510781,6.6369309,amenity=post_office,addr:street=Avenue de l'Élysée
+46.8689587,8.2392916,name=Post Sachseln,amenity=post_office
+47.3709572,8.9852394,amenity=post_office
+47.2416221,7.9696664,name=Post,amenity=post_office,wheelchair=yes
+46.212906,9.0425552,name=Posta Arbedo,amenity=post_office
+47.147922,8.0178255,amenity=post_office
+46.2244998,6.1263312,amenity=post_office,website=www.post.ch,operator=post,addr:city=Genève,addr:postcode=1209
+46.3835764,6.2228091,name=La poste (Nyon),amenity=post_office
+47.276059,8.4475069,atm=yes,amenity=post_office
+47.5395312,8.0463067,amenity=post_office
+46.2198146,6.1384352,amenity=post_office
+47.2699638,7.6933983,name=Poststelle Niederbip,amenity=post_office
+47.3643719,7.9320356,name=Post Winznau,amenity=post_office,operator=Schweizer Post
+47.521322,8.3291624,name=Post Lengnau,amenity=post_office
+47.5418774,7.5740151,name=Post Binningen 1,amenity=post_office
+47.55364,7.621892,addr:city=Birsfelden,addr:country=CH,addr:housenumber=55,addr:postcode=4127,addr:street=Hauptstrasse,amenity=post_office,name=Post Birsfelden,toilets:wheelchair=no,website=www.post.ch,wheelchair=yes
+47.4054072,8.0083182,amenity=post_office
+47.4272081,9.4824649,amenity=post_office
+47.5657779,8.6812109,name=Post Henggart,amenity=post_office
+46.5981852,7.9075267,name=Post Lauterbrunnen,amenity=post_office
+47.6709455,8.7501122,name=Post Basadingen,amenity=post_office
+47.4025223,8.4996409,amenity=post_office,name=Zürich Höngg,wheelchair=yes
+47.3838846,7.9484674,amenity=post_office
+47.5707216,7.5731975,name=Poststelle Voltacenter,amenity=post_office,operator=Die Post,addr:street=Hüningerstrasse,addr:postcode=4056,addr:housenumber=1
+46.6760456,7.6372853,amenity=post_office
+46.6588868,7.6963631,name=Aeschi bei Spiez,amenity=post_office,postal_code=3703
+46.6540043,7.7725484,amenity=post_office,wheelchair=yes
+46.6255639,7.6909996,source=survey,amenity=post_office,addr:city=Reichenbach,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=3713
+47.6284937,8.651473,amenity=post_office
+46.4935581,7.5598875,name=Post Adelboden,amenity=post_office,postal_code=3715
+47.1999038,7.4256494,amenity=post_office
+46.8444146,7.5770026,name=Poststelle 3114 Wichtrach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Wichtrach,operator=Die Schweizerische Post AG,addr:city=Wichtrach,addr:street=Schulhausstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3114,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=1
+46.4289382,6.249653,name=Vich Post Office,amenity=post_office
+47.5513233,7.537568,name=Milchhüsli,amenity=post_office,operator=Swiss Post,wheelchair=limited
+47.55272,7.5454253,name=Allschwil 1,amenity=post_office,operator=Swiss Post,wheelchair=limited
+47.085408,7.5235492,amenity=post_office
+46.2590992,7.9027681,amenity=post_office,operator=Die Post
+46.5743488,7.6405931,amenity=post_office
+46.9882553,6.9104491,amenity=post_office
+47.5471621,9.3012045,name=Post,amenity=post_office,wheelchair=yes
+46.75779,9.0490882,name=Die Post,amenity=post_office
+46.4095284,6.2365651,name=Epicerie Campagnarde,amenity=post_office,operator=Swiss Post
+46.5893224,7.646636,atm=yes,name=Frutigen Post,source=survey,amenity=post_office,addr:city=Frutigen,addr:street=Dorfstrasse,addr:country=CH,addr:postcode=3714,addr:housenumber=28
+47.050794,8.3087511,name=Hauptpost,amenity=post_office,operator=Die Post
+47.5242847,7.5711411,name=Post Office Bottmingen,amenity=post_office,operator=Post
+46.9609535,7.1117095,name=La Poste,amenity=post_office,operator=Swiss Post
+46.1750925,8.9194059,name=Cugnasco,amenity=post_office,operator=La posta
+47.3931657,8.0444878,name=Alte Post,amenity=post_office
+47.3922469,8.0509251,amenity=post_office
+47.5075751,8.0231353,name=Post,amenity=post_office,operator=Die schweizerische Post,wheelchair=yes
+47.4390177,9.2708541,amenity=post_office
+47.1676818,8.2884341,amenity=post_office
+47.1695506,8.2937321,amenity=post_office
+46.2354472,7.3596009,atm=yes,name=Poste du Nord,amenity=post_office,operator=La Poste Suisse,wheelchair=yes
+47.196331,8.4849123,name=6312,amenity=post_office
+47.3867578,8.4864171,name=Postamt Altstetten,amenity=post_office
+46.1945077,6.1930029,amenity=post_office
+46.7916936,7.6059321,name=Post,source=Survey,amenity=post_office
+46.3600162,8.9695425,amenity=post_office
+46.1641842,9.0059026,amenity=post_office
+47.2850618,8.6114984,name=Post 8704 Herrliberg,amenity=post_office
+47.3681376,8.3800162,name=Post Rudolfstetten,amenity=post_office
+47.3053054,8.5915129,name=Post 8703 Erlenbach,amenity=post_office
+47.3192244,8.5801754,name=Post 8700 Küsnacht,amenity=post_office
+46.7222388,6.9571483,name=Office postal de Villaz-St-Pierre,amenity=post_office
+47.4076002,7.2921096,amenity=post_office
+46.1690524,9.028285,amenity=post_office
+46.1743657,8.9001152,amenity=post_office
+46.4909529,8.7370486,amenity=post_office
+46.5130268,8.6755781,amenity=post_office
+47.4489477,8.582901,amenity=post_office
+47.2244477,8.2634301,name=Hitzkirch,amenity=post_office,operator=Die Post
+46.0802355,7.0868196,name=Poste Suisse,amenity=post_office
+47.1526599,7.4054861,source=survey,amenity=post_office
+47.5800365,8.2153181,amenity=post_office
+47.3690315,8.5049297,name=Zürich 55 Heuried,amenity=post_office,website=http://www.post.ch/db/owa/pv_poststellen_pack/pr_show_detail?p_username=null&p_language=de&p_onrp=4474&p_unique_name=Z%FCrich%2055%20Heuried,addr:city=Zürich,addr:street=Birmensdorferstrasse,addr:country=CH,addr:postcode=8055,opening_hours=Mo-Fr 08:00-19:00; Sa 08:00-17:00,addr:housenumber=379
+46.8483325,7.6782393,amenity=post_office
+46.2984802,8.9817165,amenity=post_office
+47.5637666,8.1268116,name=Post Mettau,amenity=post_office
+46.9765313,8.3371281,name=Poststelle 6362 Stansstad,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Stansstad,operator=Die Schweizerische Post AG,addr:city=Stansstad,wheelchair=yes,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=6362,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=19
+46.8218516,7.2608551,name=Poststelle 1713 St. Antoni,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post St. Antoni,operator=Die Schweizerische Post AG,addr:city=St. Antoni,addr:street=Hauptstrasse,contact:fax=+41 844888888,addr:country=CH,addr:postcode=1713,contact:email=kundendienst@post.ch,contact:phone=+41 848888888,opening_hours=Mo-Fr 08:00-10:00, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=30
+47.4299953,9.12414,name=Post Oberuzwil,amenity=post_office,operator=Die Schweizerische Post
+47.3133853,8.9148359,amenity=post_office,addr:city=Gibswil,addr:street=Tösstalstrasse,addr:country=CH,addr:postcode=8498,addr:housenumber=465
+47.0145428,6.8502819,amenity=post_office
+47.1690607,7.5237201,ref=4573,amenity=post_office,operator=Post
+47.6096197,8.2958024,name=Poststelle Kadelburg,amenity=post_office,operator=Post,addr:city=Küssaberg,wheelchair=limited,addr:street=Hauptstraße,addr:postcode=79790
+47.438221,8.151233,name=Post Veltheim,amenity=post_office
+46.2133906,6.0337821,addr:city=Satigny,addr:housenumber=216,addr:street=Route d'Aire-la-Ville,amenity=post_office,name=La Poste
+46.173859,6.0206712,amenity=post_office
+46.1774078,6.0027792,amenity=post_office
+46.9454542,10.362345,name=Post Samnaun,amenity=post_office
+47.2095841,8.7053184,name=Post Office Richterswil,amenity=post_office
+47.4127636,8.2569699,addr:city=Wohlenschwil,addr:housenumber=21,addr:postcode=5512,addr:street=Hauptstrasse,amenity=post_office,name=5512 Wohlenschwil,opening_hours=Mo-Fr 07:00-19:00; Sa 07:00-15:00
+47.174468,8.951862,name=Post Buttikon,amenity=post_office,addr:street=Kantonsstrasse,addr:postcode=8863,addr:housenumber=80
+47.1731255,8.9288072,name=Postagentur Schübelbach,amenity=post_office,addr:street=Postplatz,addr:postcode=8862,addr:housenumber=1
+46.6856016,7.8494022,name=Post Unterseen,amenity=post_office
+46.2715344,6.1257644,amenity=post_office
+47.4175436,8.8475696,name=Wila,amenity=post_office,operator=Die Post,addr:city=Wila,addr:street=Kugelgasse,addr:postcode=8492,addr:housenumber=4
+47.1740509,7.4577412,amenity=post_office
+46.9161533,7.9355284,amenity=post_office
+47.2193845,7.2000974,amenity=post_office
+46.7595012,9.4436155,name=Post Tomils,amenity=post_office
+46.5292116,8.9360588,amenity=post_office,name=6718 Olivone
+47.4359322,8.290696,amenity=post_office,operator=Schweizerische Post
+47.4464922,8.6491692,ref=8309,name=Post Nürensdorf,source=http://standorte.post.ch/allaccess/Detail/de?&x=47.44658262&y=8.64897076&poi=001PST_001106928&pathid=2&query=t001BZ.s001SCH3.A3%3A64%2Ct001PZ.s001SCH3.A3%3A64%2Ct001LZ.s001SCH3.A3%3A64%2Ct001PST.s001SCH3.A3%3A64%2C&maxpois=50,amenity=post_office,operator=Ueli Kümmerli
+47.5272671,8.6678249,name=Post Neftenbach,amenity=post_office
+46.251374,7.3508742,name=Saint-Germain,amenity=post_office,operator=La Poste
+47.267294,7.9636606,amenity=post_office
+47.1442903,7.2578322,amenity=post_office
+46.9076,8.3958147,amenity=post_office
+47.1566569,8.115466,ref=6208,name=Post Office Oberkirch,amenity=post_office,operator=Die Schweizerische Post
+47.0430593,7.5407852,amenity=post_office
+46.6597135,7.5774524,name=Poststelle 3753 Oey,amenity=post_office,operator=Die Schweizerische Post
+46.4609943,6.3382592,amenity=post_office
+46.302337,6.244569,amenity=post_office
+46.2747758,6.2272259,amenity=post_office
+46.90437,7.634867,name=Poststelle 3506 Grosshöchstetten,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Grosshöchstetten,operator=Die Schweizerische Post AG,addr:city=Grosshöchstetten,wheelchair=yes,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3506,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:45-11:45, 14:15-18:00; Sa 08:00-11:00,addr:housenumber=14
+47.4006645,8.2141308,amenity=post_office,name=Post Othmarsingen,wheelchair=yes
+47.4530053,8.5298271,ref=8153,name=Die Post,amenity=post_office,opening_hours=Mo-Fr 7:30-12:00, 13:45-18:00; Sa 8:30-11:30
+46.769239,10.1117322,name=Posta,amenity=post_office,operator=Volg
+46.9667332,8.4753682,amenity=post_office,wheelchair=limited
+46.8744493,7.2764752,name=Poststelle 3184 Wünnewil,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Wünnewil,operator=Die Schweizerische Post AG,addr:city=Wünnewil-Flamatt,addr:street=Dorfstrasse,addr:suburb=Wünnewil,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3184,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=9
+46.8393768,7.6182765,name=Poststelle 3672 Oberdiessbach,source=surey,amenity=post_office,website=http://www.post.ch,alt_name=Post Oberdiessbach,operator=Die Schweizerische Post AG,addr:city=Oberdiessbach,addr:street=Burgdorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3672,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+46.6545902,8.2898275,amenity=post_office
+47.1073909,6.8312914,amenity=post_office
+47.1535442,6.9974747,name=Poste de Saint-Imier,amenity=post_office
+46.4317504,6.9377533,name=La Poste,amenity=post_office
+46.8807919,8.22411,amenity=post_office
+46.804506,7.1524539,name=La poste / Die Post,source=TonyFri,amenity=post_office
+46.1729017,6.0805968,addr:city=Confignon,addr:housenumber=16,addr:street=Chemin Pontverre,amenity=post_office
+47.1783336,8.1285015,name=Die Post,amenity=post_office,website=http://www.post.ch/,operator=Die Post
+47.1736609,7.7287333,source=survey,amenity=post_office,addr:city=Thörigen,addr:street=Langenthalstrasse,addr:country=CH,addr:postcode=3367,addr:housenumber=3
+46.8600427,7.4935541,name=Poststelle 3125 Toffen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Toffen,operator=POST CH AG,addr:city=Toffen,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3125,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=14
+47.3303435,8.7874969,name=Post Robenhausen,amenity=post_office,operator=Post,addr:city=Wetzikon,addr:street=Dorfstrasse,addr:country=CH,addr:postcode=8620,addr:housenumber=4
+46.75192,7.6329379,amenity=post_office
+46.9312323,8.3908043,amenity=post_office
+46.1177963,8.7087558,name=Brissago,amenity=post_office
+46.8195223,7.582735,name=Poststelle 3629 Kiesen,amenity=post_office
+46.8896671,7.3115361,atm=yes,name=Poststelle 3175 Flamatt,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Flamatt,operator=POST CH AG,addr:city=Wünnewil-Flamatt,addr:street=Bernstrasse,addr:suburb=Flamatt,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3175,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00,14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=4
+46.1784635,6.8697166,amenity=post_office
+47.4615701,8.2119339,name=5212 Hausen AG,amenity=post_office,operator=Post
+47.0851091,7.9566954,amenity=post_office
+46.9314787,7.4850159,name=Poststelle 3074 Muri bei Bern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Muri bei Bern,operator=POST CH AG,addr:city=Muri bei Bern,addr:street=Mettlengässli,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3074,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=1
+46.010183,8.8566871,amenity=post_office
+46.8991209,7.5438823,name=Poststelle 3113 Rubigen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Rubigen,operator=Die Schweizerische Post AG,addr:city=Rubigen,wheelchair=yes,addr:street=Bahnhofmatte,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3113,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=6
+46.9660293,6.8580707,name=2013 Colombier NE,amenity=post_office
+47.2612584,6.949814,name=Goumois,note=situation : 11 RUE DU JURA,phone=0381442899,source=data.gouv.fr:LaPoste - 10/2012,amenity=post_office,operator=La Poste,wheelchair=no,addr:postcode=25470,ref:FR:LaPoste=04377A,post_office:type=post_partner
+46.9021357,7.3557517,name=Postagentur 3174 Thörishaus,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Thörishaus,operator=LANDI Bern-West Genossenschaft,addr:city=Köniz,addr:street=Freiburgstrasse,addr:suburb=Thörishaus,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3174,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Sa 06:00-22:00; Su 08:00-20:00,addr:housenumber=894
+45.9587787,8.9878361,name=Ufficio postale 6822 Arogno,amenity=post_office
+47.4075912,9.4612518,amenity=post_office
+47.3609902,9.4511186,name=9056 Gais,amenity=post_office
+47.4532328,9.5497555,amenity=post_office
+47.0408754,9.0707058,name=Post,amenity=post_office
+46.5094138,6.6435773,amenity=post_office
+47.0140568,8.1727782,amenity=post_office
+47.0046312,7.6826672,name=3432 Lützelflüh-Goldbach,amenity=post_office
+47.0367658,8.1808367,name=Postomat Malters,amenity=post_office
+47.2014798,8.727614,name=Poststelle Bäch,amenity=post_office
+47.4995278,7.5570769,amenity=post_office
+47.1940491,7.1446037,amenity=post_office
+46.6215052,7.0605147,name=La Poste,amenity=post_office
+47.5023964,9.4422829,name=Post Steinach,amenity=post_office,wheelchair=yes
+46.9752992,7.7413471,name=3436 Zollbrück,amenity=post_office,addr:street=Bahnhofplatz,addr:housenumber=4
+46.8524337,7.0700337,name=La Poste,amenity=post_office,operator=La Poste,opening_hours=Mo-Fr 06:30-18:30; Sa-Su 07:30-12:00
+47.0917254,9.3421787,amenity=post_office
+47.7459771,8.7050959,name=Post Thayngen,amenity=post_office,amenity_1=post_box
+47.4606628,7.7186416,amenity=post_office
+47.2963639,8.5627312,addr:city=Thalwil,addr:housenumber=37,addr:postcode=8800,addr:street=Gotthardstrasse,amenity=post_office,name=Post Thalwil,operator=Die Post
+47.3988961,7.6914136,name=Poststelle Reigoldswil,amenity=post_office,operator=Schweizer Post
+46.7908744,9.2552613,amenity=post_office
+46.9822414,8.6182704,name=Post,amenity=post_office
+47.4035464,8.2788416,ref=5522,name=Postagentur,amenity=post_office,designation=Postagentur
+47.1927461,8.8294919,name=Post,amenity=post_office,addr:street=Zürcherstrasse,addr:postcode=8852,addr:housenumber=4
+46.0270219,8.9529177,amenity=post_office
+46.8685794,9.882,name=Klosters,amenity=post_office,operator=Die Post
+46.1846697,6.1740207,amenity=post_office,addr:city=Conches,addr:street=Route de Florissant,addr:housenumber=177
+47.3685907,8.46289,atm=yes,name=Post,source=survey,amenity=post_office,operator=Swiss Post / Postfinance
+46.2024437,9.0340202,name=6500 Bellinzona 5 S. Paolo,amenity=post_office,addr:street=Via San Gottardo,addr:housenumber=53
+47.1737852,7.5998422,amenity=post_office,brand=Die Schweizerische Post,collection_times=Mo-Fr 18:00 ; Sa 11:00,operator=Die Schweizerische Post,ref=2-4566-24113,wheelchair=yes
+47.097811,9.3056578,ref=3535,name=Alte Post Bergheim,amenity=post_office,operator=8896
+47.005284,7.1072593,name=Poststelle 3232 Ins,source=survey,amenity=post_office,website=http://www.ewb.ch,alt_name=Post Ins,operator=Die Schweizerische Post AG,addr:city=Ins,addr:street=Müntschemiergasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3232,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=5
+47.4557827,7.8290838,name=Post Thürnen,amenity=post_office
+47.1087058,7.3596621,amenity=post_office
+46.2000005,6.1326056,source=survey,amenity=post_office,designation=1205
+47.2031988,8.5742716,name=Postagentur 6345 Neuheim,amenity=post_office,website=https://standorte.post.ch/poi/Poststelle-Postagentur/Neuhofstrasse-2/6345/Neuheim/001PST_001103547,operator=Bäckerei Staub,addr:city=Neuheim,wheelchair=limited,addr:street=Neuhofstrasse,addr:postcode=6345,addr:housenumber=2,wheelchair:description=Postagentur in Bäckerei Staub. Zugang vollständig barrierefrei (keine Stufen oder Schwellen), jedoch eher steil nach unten, um in Laden zu gelangen. Mühsam mit Handrollstuhl hochzukommen. Briefeinwurf der Post draussen schlecht selbständig zu erreichen.
+47.2807172,7.3803828,name=2740 Moutier,source=Survey,amenity=post_office,operator=Die Post,wheelchair=limited
+47.2833639,7.4417506,amenity=post_office,operator=Die Post,addr:street=Rue du Collège,opening_hours=Mo-Fr 08:00-10:00, 16:00-18:00, Sa 09:00-11:00,addr:housenumber=7
+47.0993882,7.3218686,name=Poststelle 3292 Busswil BE,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Busswil BE,operator=Die Schweizerische Post AG,addr:city=Lyss,addr:street=Bahnhofstrasse,addr:suburb=Busswil bei Büren,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3292,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-11:45, 14:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=14
+47.1262344,7.2395847,name=Poststelle 2560 Nidau,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Nidau,operator=Die Schweizerische Post AG,addr:city=Nidau,addr:street=Weyermattstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2560,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=4
+46.5179665,6.5295263,amenity=post_office
+47.0336232,7.3126986,name=Poststelle 3267 Seedorf BE,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Seedorf BE,operator=Die Schweizerische Post AG,addr:city=Sedorf,addr:street=Bernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3267,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 15:30-18:00; Sa 09:00-11:00; Su off,addr:housenumber=76
+46.9677888,7.3784164,name=Poststelle 3032 Hinterkappelen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Hinterkappelen,operator=POST CH AG,addr:city=Wohlen bei Bern,addr:street=Dorfstrasse,addr:suburb=Hinterkappelen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3032,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=2
+47.1735854,7.3378207,name=Post,amenity=post_office,operator=Die Schweizerische Post,addr:city=Pieterlen,addr:street=Postgasse,addr:country=CH,addr:postcode=2542,addr:housenumber=17
+47.6703344,9.0844989,name=Post Ermatingen,amenity=post_office
+45.9573124,8.9360457,name=6914 Carona,amenity=post_office
+46.1768642,8.7012419,amenity=post_office,operator=La Posta
+45.9513135,8.9649688,amenity=post_office,addr:city=Bissone,addr:street=Piazza Franco Zorzi,addr:country=CH,addr:postcode=6816,addr:housenumber=10
+47.6957809,8.6403009,name=Post Unterstadt,amenity=post_office,addr:city=Schaffhausen,addr:street=Unterstadt,addr:country=CH,addr:postcode=8202,addr:housenumber=2
+45.9225565,8.9156779,amenity=post_office,operator=La Posta,addr:city=Morcote,addr:street=Piazzeta da la Posta,addr:housenumber=1
+46.3071887,7.4665292,ref=3963 Crans-Montana 2,amenity=post_office
+46.9741094,7.4971585,name=Poststelle 3065 Bolligen Dorf,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bolligen Dorf,operator=POST CH AG,addr:city=Bolligen,addr:street=Dorfmärit,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3065,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=11
+47.1845424,7.8496217,name=Melchnau,amenity=post_office,operator=Die Post
+46.9715618,7.3555288,name=Postagentur 3033 Wohlen bei Bern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Wohlen bei Bern,operator=LANDI Wohlen, Genossenschaft,addr:city=Wohlen bei Bern,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3033,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off,addr:housenumber=19
+47.3958692,8.4478498,amenity=post_office
+46.6349544,9.4448187,amenity=post_office
+46.78149,7.405821,name=Post Heubach,amenity=post_office
+47.3321203,8.6239086,name=Post Zumikon,fixme=name,source=local knowledge,amenity=post_office,operator=Schweizer Post,addr:city=Zumikon,addr:postcode=8126
+47.4312939,9.3873726,name=St. Gallen Kantonsspital,amenity=post_office,wheelchair=yes
+47.3138839,7.6933404,amenity=post_office
+45.8617464,8.9497041,amenity=post_office
+47.0580802,8.3098922,name=Poststelle 6000,amenity=post_office,operator=Die Post,addr:city=Luzern,addr:street=Zürichstrasse,addr:postcode=6004,addr:housenumber=16
+47.5759965,8.5240238,name=8193 Eglisau,amenity=post_office,addr:street=Obergass,addr:housenumber=17
+46.37863,8.9108088,name=Posta,amenity=post_office
+46.8806903,8.6133942,amenity=post_office
+46.1857594,8.9923094,amenity=post_office
+46.9196575,7.725022,name=Post,amenity=post_office,addr:city=Signau,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=3534,addr:housenumber=6
+46.6014225,6.6819716,name=Poste Suisse,amenity=post_office
+47.3909783,9.3890825,name=Post,amenity=post_office,addr:city=Teufen,wheelchair=yes,addr:postcode=9053
+47.1316315,7.2522619,name=La Poste Bienne 7 - Die Post Biel 7,amenity=post_office,operator=Die Post,addr:city=Biel/Bienne,wheelchair=yes,addr:street=Brüggstrasse,addr:postcode=2503,addr:street_1=Route de Brügg,addr:housenumber=10
+47.4110086,8.6457892,amenity=post_office,name=Post Wangen,wheelchair=limited
+47.2311398,8.8365508,atm=yes,name=Post,source=https://www.postfinance.ch/de/cust/addressplace/search.html,amenity=post_office,operator=Die Schweizerische Post,addr:street=Allmeind-Strasse,addr:postcode=8645,addr:housenumber=17
+47.4238504,8.630109,name=Post Brüttisellen,amenity=post_office
+47.1978304,8.1092588,amenity=post_office,addr:street=Chäppelimatt,addr:postcode=6232,addr:housenumber=7
+47.0576909,8.0743664,amenity=post_office,addr:street=Bahnhofstrasse,addr:postcode=6110,addr:housenumber=18
+47.36721,8.2301666,amenity=post_office
+47.3494005,7.7678753,amenity=post_office
+46.9453971,7.4726312,name=Poststelle 3000 Bern 31 Freudenbergerplatz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Freudenbergerplatz (Bern 31),operator=POST CH AG,addr:city=Bern,addr:street=Giacomettistrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3006,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:30-11:00,addr:housename=Freudenbergzentrum,addr:housenumber=15
+46.9253197,7.3781672,name=Poststelle 3172 Niederwangen bei Bern,amenity=post_office,website=http://www.post.ch,alt_name=Post Niederwangen bei Bern,operator=POST CH AG,addr:city=Köniz,addr:street=Freiburgstrasse,addr:suburb=Niederwangen,contact:fax=+41 844888888,addr:country=CH,addr:postcode=3172,contact:email=kundendienst@post.ch,contact:phone=+41 848888888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00, Sa 08:30-11:00; Su off,addr:housename=Poststelle Niederwangen bei Bern,addr:housenumber=555
+47.2203977,8.1516486,name=Poststelle 6221 Rickenbach,amenity=post_office
+47.4433346,7.0070886,name=Post,amenity=post_office
+47.3326626,7.7542637,amenity=post_office
+47.4494634,8.5629714,level=0,amenity=post_office
+46.7529727,7.0331466,name=1741 Cottens,amenity=post_office
+46.0784149,8.9989498,amenity=post_office
+46.8171288,7.6132465,amenity=post_office
+46.7496324,9.5561401,name=Post Valbella,amenity=post_office
+46.9459338,9.5741043,amenity=post_office
+46.8224198,6.5012529,name=La Poste 1450 Ste-Croix,source=knowledge,amenity=post_office
+46.1918134,6.1369109,name=La Post,amenity=post_office,operator=Swiss Post
+46.7466062,9.3385334,amenity=post_office
+47.2078738,7.5387849,amenity=post_office,operator=Die Post,opening_hours=Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:00,contact:website=https://standorte.post.ch/poi/Poststelle-Postagentur/Kronengasse-12/4500/Solothurn/001PST_001193920
+46.7602778,9.5577294,name=Post Parpan,amenity=post_office
+47.0719159,6.95811,name=La Poste,source=Orthophotos 2006 SITN 50cm,amenity=post_office
+47.1587713,9.0450633,ref=8718,name=Post Schänis,amenity=post_office
+46.55105,6.4276758,amenity=post_office
+47.5083114,8.3773804,addr:city=Niederweningen,addr:country=CH,addr:housenumber=2,addr:postcode=8166,addr:street=Sägeweg,amenity=post_office,opening_hours=Mo-Fr 8:00-11:30,14:30-18:00; Sa 8:30-11:00,source=Bing
+46.2376193,7.292475,amenity=post_office,wheelchair=limited,addr:street=Rue de Cretalla,addr:housenumber=42
+47.5332779,9.0732323,amenity=post_office
+46.2233112,7.3073064,name=Poste,amenity=post_office,wheelchair=yes
+47.1920911,8.6855653,amenity=post_office
+47.0839952,7.5840961,atm=yes,name=Kirchberg,amenity=post_office,addr:street=Eystrasse,postal_code=3422,addr:housenumber=4
+47.37052,8.6921225,name=Post Nänikon,amenity=post_office,operator=Die Post,addr:city=Nänikon,addr:street=Stationsstrasse,addr:postcode=8606,addr:housenumber=15
+46.5262396,6.6520607,name=Office de poste 1000 Lausanne 12 Chailly,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Chailly (Lausanne 12),operator=La Poste Suisse SA,addr:city=Lausanne,addr:street=Avenue de Chailly,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1012,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-18:00; Sa 08:00-11:00; Su off,addr:housenumber=7
+47.2233298,6.9555929,amenity=post_office
+47.6114745,8.5397704,name=Post Rafz,amenity=post_office,collection_times=17Uhr
+47.2760285,8.9145688,name=Post,amenity=post_office,addr:city=Wald ZH,addr:street=Poststrasse,addr:postcode=8636,addr:housenumber=6
+47.4737381,7.7594693,atm=yes,name=Post,amenity=post_office,addr:street=Grammontstrasse,opening_hours=Mo-Fr 7:30-12:00,14:00-18:00;Sa 08:30-11:00,addr:housenumber=1
+47.1226479,9.489226,name=Post Sevelen,amenity=post_office,website=http://www.post.ch,operator=Post AG,wheelchair=yes
+47.0313414,9.43107,amenity=post_office,name=Post Wangs
+47.4678024,9.5879946,name=Die Post,amenity=post_office
+45.991994,8.9453069,atm=yes,amenity=post_office
+47.5613618,8.8904956,ref=8503 Frauenfeld 3,name=Frauenfeld Kurzdorf,amenity=post_office
+46.7171227,9.4597297,name=Poststelle,amenity=post_office,operator=Gemeindeverwaltung
+46.2289451,6.9176296,amenity=post_office
+46.8615078,9.5262703,amenity=post_office,name=Post 6
+47.0107132,8.4830147,amenity=post_office
+47.4537264,7.7371781,name=Post,amenity=post_office,operator=Die Schweizerische Post
+47.4105673,8.4178975,amenity=post_office
+47.5267413,7.6477057,amenity=post_office
+47.1893392,7.7887683,name=Poststelle 4932 Lotzwil,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Lotzwil,operator=Die Schweizerische Post AG,addr:city=Lotzwil,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=4932,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=12
+47.6121753,9.2590431,name=Post Altnau,amenity=post_office
+46.809434,7.476602,amenity=post_office,addr:city=Riggisberg,wheelchair=yes,addr:street=Vordere Gasse,addr:country=CH,addr:postcode=3132,addr:housenumber=2
+47.4652228,9.5673193,name=Poststelle,amenity=post_office
+46.7506403,7.6861518,name=Heiligenschwendi,amenity=post_office,operator=Die Post
+46.7308737,7.6685674,name=Oberhofen,amenity=post_office,operator=Die Post
+47.2358681,8.7565509,name=Poststelle Ürikon,amenity=post_office
+46.7634562,7.6639216,name=Post Goldiwil,amenity=post_office,operator=Die Post
+47.5527122,8.8844369,ref=8502 Frauenfeld 2,name=Frauenfeld Talbach,amenity=post_office
+46.7127376,7.7012744,name=Post Gunten,amenity=post_office,operator=Die Post
+47.3866892,8.4987309,amenity=post_office,wheelchair=yes
+46.8004629,6.7466101,name=Poste Yvonand,source=knowledge,amenity=post_office
+47.460177,9.3876057,name=Post Wittenbach,amenity=post_office,website=http://www.post.ch/,operator=Die Post,addr:city=Wittenbach,wheelchair=yes,addr:street=Im Zentrum,addr:postcode=9300,addr:housename=Im Zentrum,addr:housenumber=3,collection_times=Mo-Fr: 18:00; Sa: 11:00
+47.5023108,7.7255237,name=Post Füllinsdorf,note=Annahmestelle PromoPost, Autobahnvignette, Bareinzahlung, Bargeldbezug in CHF und EUR, Bestellung Strafregisterauszug, Bezahlen mit EUR, CTS Eventim / Ticketcorner, Einfache Finanzberatung, Fachschalter, Geschäftskundenschalter ......,amenity=post_office,website=http://www.ligoo.ch/de/4414,Fullinsdorf,Poste_Fullinsdorf,4649.html,addr:city=Füllinsdorf,wheelchair=yes,addr:street=Mühlerainstrasse,addr:postcode=4414,addr:housenumber=19
+47.1915824,8.395413,amenity=post_office
+46.7784113,7.6353517,name=Post Steffisburg,amenity=post_office,operator=Die Post
+47.2523484,7.6486947,amenity=post_office
+46.1963819,6.1157867,name=Poststelle 1213,phone=0848 888 888,amenity=post_office,operator=Swiss Post,collection_times=18:00
+46.2132557,6.1505542,amenity=post_office
+47.116322,8.1966066,amenity=post_office
+46.9889717,9.6371401,name=Postagentur,amenity=post_office,operator=Bazar
+47.4891523,7.4999117,amenity=post_office,operator=Die Post
+47.6431786,8.6007881,amenity=post_office,designation=post agency
+46.9228844,7.41552,name=Poststelle 3098 Köniz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Köniz,operator=POST CH AG,addr:city=Köniz,wheelchair=yes,addr:street=Stapfenstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3098,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off,addr:housenumber=7
+47.5659279,8.4163255,name=Post Kaiserstuhl,amenity=post_office
+47.207839,8.190124,name=Post Beromünster,amenity=post_office,addr:city=Beromünster,wheelchair=no,addr:street=Bahnhofstrasse
+47.3360915,8.8532626,name=Post 8344 Bäretswil,amenity=post_office,operator=Post,addr:city=Bäretswil,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=8344,addr:housenumber=19a
+47.0088356,7.4676175,name=DHL Express (Schweiz) AG,phone=*0848 71 17 11,amenity=post_office,operator=DHL,addr:city=Zollikofen,addr:street=Industriestrasse,addr:postcode=3052,addr:housenumber=65
+47.5796999,8.8333941,amenity=post_office
+46.7756781,10.1994763,amenity=post_office
+46.5275448,6.616782,name=La Poste,amenity=post_office
+47.4346763,7.6564751,amenity=post_office
+47.3357932,8.5192148,name=Zürich Leimbach Post,amenity=post_office,addr:city=Zürich,addr:street=Leimbachstrasse,addr:postcode=8041,addr:housenumber=23
+47.2412149,7.8215147,name=Die Post,amenity=post_office
+47.1406254,7.9706367,amenity=post_office
+47.5895431,8.1752165,name=Volg,shop=convenience,amenity=post_office,opening_hours=Mo-Fr 07:00-19:00; Sa 07:00-17:00
+46.5114995,6.8492178,amenity=post_office
+46.3357136,8.0157144,name=Postagentur Bitsch,amenity=post_office
+47.4968442,8.9537784,name=Post,amenity=post_office
+46.8274103,7.8615669,amenity=post_office
+46.316425,8.6023667,name=Ufficio Postale,amenity=post_office,operator=La Posta,addr:city=Cevio,addr:street=Piazza,addr:country=CH,addr:postcode=6675,addr:housenumber=13
+47.1697063,7.9882203,amenity=post_office
+47.702557,8.4974423,name=Post Gächlingen,amenity=post_office
+47.524634,8.953091,amenity=post_office
+46.6868018,7.8952577,name=Post,amenity=post_office,addr:street=Hauptstrasse,opening_hours=Jan-Dec: Mo-Fr 08:00-10:30; Mo-Fr 14:00-18:00; Sa 07:30-11:00,addr:housenumber=47
+47.6683391,8.4305423,name=Post,amenity=post_office
+47.6169513,9.063415,amenity=post_office,operator=Die Post
+46.5198917,6.5688168,amenity=post_office,operator=La Poste
+47.6155532,8.2415493,name=WorldPaketShop,amenity=post_office,opening_hours=Mo-Fr 09:00-13:00,14:00-20:00;Sa 09:00-17:00
+46.2119896,7.3987212,name=Poste de Vex,amenity=post_office
+46.2236269,8.7441897,amenity=post_office
+46.1439568,7.2357007,amenity=post_office
+47.3404179,8.472839,name=Post Wettswil,amenity=post_office
+47.3333827,8.9232903,name=Post,amenity=post_office,addr:city=Fischenthal,addr:street=Stationsstrasse,addr:postcode=8497,addr:housenumber=4
+46.2106332,6.231088,amenity=post_office
+47.1126735,9.2510312,name=Poststelle 8882 Unterterzen,note=Postfachanlage: 05:00 - 23:59,amenity=post_office,opening_hours=Mo-Fr 07:30-10:30, 14:30 - 18:00; Sa 08:30 - 10:30; Su off
+47.3360746,8.8532254,name=Die Post,amenity=post_office,operator=Die Post,addr:city=Bäretswil,addr:street=Bahnhofstrasse,addr:postcode=8344,addr:housenumber=19
+46.8734278,7.4021292,name=Postagentur 3096 Oberbalm,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Oberbalm,operator=LANDI Oberbalm, Genossenschaft,addr:city=Oberbalm,addr:street=Oberbalmstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3096,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off,addr:housenumber=216
+46.216433,7.002538,name=La Poste,amenity=post_office
+47.1101001,7.3911883,name=Post,amenity=post_office
+46.2117308,7.2578838,name=Poste d' Ardon,amenity=post_office
+47.1709784,7.5733625,amenity=post_office,brand=Die Schweizerische Post,collection_times=Mo-Fr 18:00; Sa 11:00,operator=Die Schweizerische Post,ref=2-4563-24090,wheelchair=yes
+46.8061436,7.1616535,amenity=post_office
+46.7052413,8.2293635,amenity=post_office
+46.2974146,8.7906088,name=Post,amenity=post_office
+47.4333185,8.5606162,name=FedEx Station Zürich,amenity=post_office,operator=FedEx,addr:street=Feldeggstrasse,addr:housenumber=3
+45.8434307,9.0295497,name=Vacallo,source=Website and survey,amenity=post_office,operator=La Posta,addr:city=Vacallo,addr:street=Via Generale Guisan,addr:postcode=6833,opening_hours=Mo-Fr 08:00-11:00,13:30-17:30;Sa 08:00-11:00,addr:housenumber=2,collection_times=Mo-Fr 17:30;Sa 11:00
+45.8379355,9.0237948,addr:city=Chiasso,addr:country=CH,addr:housenumber=1,addr:postcode=6830,addr:street=Via Bernardino Luini,amenity=post_office,name=Chiasso 3 Boffalora,opening_hours=Mo-Sa 08:00-19:00,operator=La Posta,source=website and survey
+46.9100674,7.470798,name=Poststelle 3122 Kehrsatz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kehrsatz,operator=POST CH AG,addr:city=Kehrsatz,addr:street=Bernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3122,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:30-11:00; Su off,addr:housenumber=5
+47.219346,7.5148318,name=Post Langendorf,amenity=post_office,operator=Die Post
+46.4893623,7.2602496,name=Post Saanen,amenity=post_office,operator=Die Post,opening_hours=Mo-Fr 08:00-11:00, 14:00-17:30; Sa 08:30-11:00
+45.8490721,9.007815,addr:city=Balerna,addr:postcode=6828,amenity=post_office,name=Ufficio Postale,operator=La Posta
+46.2557415,6.9539757,amenity=post_office,operator=La Poste
+46.3096793,7.8002662,amenity=post_office
+47.389221,8.0707298,name=Post Buchs AG,amenity=post_office
+47.0979377,8.2050562,name=Poststelle Neuenkirch,amenity=post_office
+45.8717455,9.0320824,name=Caneggio,amenity=post_office,operator=La Posta,addr:city=Caneggio,addr:street=Via Cantonale,addr:country=CH,addr:postcode=6837,addr:housenumber=13,collection_times=Mo-Sa 08:30
+45.9002555,9.0460865,name=Cabbio,amenity=post_office,operator=La Posta
+47.5201207,9.259211,name=Post Zihlschlacht,amenity=post_office
+47.3674428,8.3617337,amenity=post_office,addr:street=Bremgarterstrasse,addr:housenumber=12
+47.0989256,8.5175171,name=Post Walchwil,amenity=post_office,addr:city=Walchwil,addr:street=Bahnhofstrasse,addr:postcode=6318,opening_hours=Mo-Fr 08:00-11:30,15:00-18:00; Sa 09:00-11:00,addr:housenumber=4
+47.1504044,7.3242244,amenity=post_office
+46.2526416,9.0227897,amenity=post_office
+47.0445671,7.2779685,name=Poststelle 3270 Aarberg,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Aarberg,operator=Die Schweizerische Post AG,addr:city=Aarberg,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3270,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:00-12:00; Su off,addr:housenumber=4
+47.3284495,8.1205316,name=Post,amenity=post_office,operator=Swiss Post,addr:city=Teufenthal,addr:street=Dorfstrasse,addr:postcode=5723,addr:housenumber=23
+46.3846936,6.8535832,amenity=post_office
+46.5360723,6.5922246,name=Village,amenity=post_office,operator=Die Post,addr:city=Renens,addr:street=Chemin de la Creuse,addr:postcode=1020,opening_hours=Mo-Fr 08:00-11:15;Sa 08:00-10:00,addr:housenumber=2
+45.9907939,8.9311949,amenity=post_office
+47.4225479,8.4107916,amenity=post_office
+46.9548664,6.7244395,amenity=post_office
+46.3838467,6.2339417,amenity=post_office
+47.3413041,7.7019115,name=Poststelle Mümliswil,amenity=post_office,operator=Swiss Post
+45.8703363,8.9860804,addr:city=Mendrisio,addr:country=CH,addr:housenumber=2,addr:postcode=6850,addr:street=Via Luigi Lavizzari,amenity=post_office,name=Ufficio Postale Mendrisio Borgo,note=Desk all'interno del negozio Migros,opening_hours=Mo-Sa 09:00-19:00,operator=La Posta
+45.8817135,9.027642,name=Monte,amenity=post_office,operator=La Posta
+47.6072484,8.8700933,amenity=post_office
+45.9060707,8.9720588,name=Riva San Vitale,amenity=post_office,operator=La Posta
+46.5046757,6.4732561,ele=420,amenity=post_office;fountain,highway=bus_stop,uic_ref=8570083,uic_name=Tolochenaz, poste
+46.9581477,7.5250072,name=Poststelle 3066 Stettlen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Stettlen,operator=Die Schweizerische Post AG,addr:city=Stettlen,addr:street=Bernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3066,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=100
+46.9443287,7.3742821,name=Postagentur 3000 Bern Brünnen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Brünnen,operator=Private company,addr:city=Bern,addr:street=Riedbachstrasse,addr:suburb=Bethlehem,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3027,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Do 09:00-20:00; Fr 09:00-22:00; Sa 08:00-17:00; Su off,addr:housenumber=100
+46.9559478,7.4831257,name=Poststelle 3072 Ostermundigen 1,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ostermundigen 1,operator=POST CH AG,addr:city=Ostermundigen,addr:street=Bernstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3072,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:00-11:00; Su off,addr:housenumber=28
+46.9286295,7.4508193,name=Poststelle 3084 Wabern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Wabern,operator=POST CH AG,addr:city=Köniz,addr:street=Seftigenstrasse,addr:suburb=Wabern,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3084,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; Su off,addr:housename=Zentrum Wabern,addr:housenumber=240
+46.9307965,7.4274132,name=Postagentur 3097 Liebefeld VOI,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Liebefeld VOI,operator=Private company,addr:city=Köniz,addr:street=Hessstrasse,addr:suburb=Liebefeld,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3097,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su off,addr:housenumber=47
+46.9976407,7.45668,name=Poststelle 3052 Zollikofen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Zollikofen,operator=POST CH AG,addr:city=Zollikofen,addr:street=Schulhausstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3052,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 09:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=27
+46.9152277,7.3601774,name=Postagentur 3173 Oberwangen bei Bern,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Oberwangen bei Bern,operator=Jägerbäckerei GmbH,addr:city=Köniz,addr:street=Wangentalstrasse,addr:suburb=Oberwangen bei Bern,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3173,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:00-12:15, 16:00-18:30; Sa 07:00-13:00; Su off,addr:housenumber=245
+46.7899313,6.5229012,amenity=post_office
+46.8068003,6.5483953,amenity=post_office
+46.8999715,7.4021453,addr:city=Köniz,addr:country=CH,addr:housenumber=2,addr:postcode=3144,addr:street=Mattenhausweg,addr:suburb=Gasel,alt_name=Post Gasel,amenity=post_office,contact:email=kundendienst@post.ch,contact:fax=+41 844 888 888,contact:phone=+41 848 888 888,name=Postagentur 3144 Gasel,opening_hours=Mo-Fr 07:00-12:15, 14:00-18:30; Sa 07:00-12:15, 13:30-16:00; Su off,operator=Jägerbäckerei GmbH,source=survey,website=http://www.post.ch,wheelchair=yes
+45.8605695,9.0211491,name=Ufficio postale Morbio Superiore,amenity=post_office,operator=La Posta,addr:city=Morbio Superiore,addr:street=Piazza Sant'Anna,addr:country=CH,addr:postcode=6835,opening_hours=Mo-Fr 07:30-09:00,15:30-17:30,Sa 08:00-09:00,addr:housenumber=1,collection_times=Mo-Fr 17:00,Sa 09:00
+47.5655981,8.0650355,amenity=post_office
+46.9878926,7.3848962,name=Poststelle 3043 Uettligen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Uettligen,operator=POST CH AG,addr:city=Wohlen bei Bern,addr:street=Säriswilstrasse,addr:suburb=Uettligen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3043,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=2
+45.8427925,8.9837898,name=Ufficio postale Novazzano,source=survey,amenity=post_office,operator=La Posta,addr:city=Novazzano,addr:street=Via Pietro Bernasconi,addr:country=CH,addr:postcode=6883,opening_hours=Mo-Fr 08:00-11:00,14:15-18:00,Sa 08:30-11:00,addr:housenumber=6,collection_times=Mo-Fr 08:30, Sa 08:00
+46.9944509,9.0749258,amenity=post_office
+46.5277145,8.6100497,addr:city=Airolo,addr:country=CH,addr:housenumber=46,addr:postcode=6780,addr:street=via della Stazione,amenity=post_office,collection_times=Mo-Fr 18:00; Sa 11:00,name=Ufficio Postale Airolo,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-11:00,operator=La Posta
+47.0097808,7.3622182,name=Postagentur 3045 Meikirch,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Meikirch,operator=Gemeinde Meikirch,addr:city=Meikirch,addr:street=Wahlendorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3045,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-We 08:00-12:00, 14:00-17:00; Th 08:00-12:00; 14:00-18:00; Fr 08:00-12:00, 14:00-17:00; Sa-Su off,addr:housename=Gemeindehaus,addr:housenumber=10
+46.9548228,7.5482695,name=Poststelle 3067 Boll,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Boll,operator=POST CH AG,addr:city=Vechigen,addr:street=Kernstrasse,addr:suburb=Boll,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3067,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=5a
+47.0010915,7.2695553,name=Postagentur 3036 Detligen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Detligen,operator=Gemeinde Radelfingen,addr:city=Radelfingen,addr:street=Bühlstrasse,addr:suburb=Detligen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3036,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo 08:00-12:00, 13:30-18:00; Tu-Th 08:00-12:00, 13:30-16:30; Fr 08:00-12:00, 13:30-16:00; Sa-Su off,addr:housename=Gemeindehaus,addr:housenumber=2
+47.4697915,9.4939806,name=Die Post,amenity=post_office,addr:city=Rorschacherberg,addr:street=Schützenstrasse,addr:postcode=9404,addr:housenumber=1
+46.2702289,7.4534424,amenity=post_office
+47.3836615,8.4222238,name=Post,phone=+41 848 888 888,amenity=post_office,website=http://post.ch,operator=Post Schweiz,addr:city=Urdorf,addr:street=Birmensdorferstrasse,addr:postcode=8902,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00,addr:housenumber=101
+46.8397925,7.5438188,name=Postagentur 3115 Gerzensee,note=Moved from Dorfstrasse 14 to this location by February 2015,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Gerzensee,operator=LANDI Aare, Genossenschaft,addr:city=Gerzensee,addr:street=Spielgasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3115,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:00-12:15, 14:00-19:00; Sa 08:00-16:00; Su off,addr:housenumber=5
+46.5937251,7.0548163,amenity=post_office
+46.2040601,6.097381,name=La Poste,amenity=post_office,wheelchair=yes
+46.9142807,9.7724036,name=Küblis,amenity=post_office
+45.8535327,8.9867923,name=Coldrerio,amenity=post_office,operator=La Posta,addr:city=Coldrerio,addr:postcode=6877,opening_hours=Mo-Fr 07:45-11:30,14:30-17:45;Sa 09:00-11:00,collection_times=Mo-Fr 17:45;Sa 11:00
+47.4907687,8.7590731,amenity=post_office
+47.4166544,9.3818919,amenity=post_office,wheelchair=yes
+46.9388289,8.998396,amenity=post_office,operator=Die Post
+46.8939604,7.3034393,name=Poststelle 3176 Neuenegg,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Neuenegg,operator=POST CH AG,addr:city=Neuenegg,addr:street=Oeleweg,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3176,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=2
+46.8556373,7.249344,name=Poststelle 3185 Schmitten FR,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Schmitten FR,operator=Die Schweizerische Post AG,addr:city=Schmitten,addr:street=Wirtshausplatz,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3185,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:30, 14:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=2
+46.8937487,7.227095,name=Postagentur 3178 Bösingen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Bösingen,operator=Nicole Fuhrer,addr:city=Bösingen,addr:street=Bachtelastrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3178,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Jan-Jun: Mo-Fr 07:30-12:00, 13:30-18:30, Sa 07:00-16:00; Su off; Jul-Aug: Mo-Fr 07:30-12:00, 15:00-18:30, Sa 07:00-16:00; Su off; Sep-Dec Mo-Fr 07:30-12:00, 13:30-18:30, Sa 07:00-16:00; Su off,addr:housenumber=2
+47.0648295,7.4101956,addr:city=Rapperswil BE,addr:country=CH,addr:housenumber=29,addr:postcode=3255,addr:street=Hauptstrasse,alt_name=Post Rapperswil BE,amenity=post_office,contact:email=kundendienst@post.ch,contact:fax=+41 844 888 888,contact:phone=+41 848 888 888,name=Poststelle 3255 Rapperswil BE,opening_hours=Mo-Fr 07:30-11:30, 15:30-18:00; Sa 08:00-11:00; Su off,operator=POST CH AG,source=survey,website=http://www.post.ch
+47.3608579,8.6329714,name=Postagentur 8121 Benglen,amenity=post_office,addr:city=Benglen,addr:street=Gerlisbrunnenstrasse,addr:postcode=8121,addr:housenumber=1a
+46.6710489,7.2901066,addr:city=Schwarzsee,addr:country=CH,addr:housenumber=212,addr:postcode=1716,addr:street=Schwarzseestrasse,amenity=post_office,name=Postagentur,opening_hours:url=https://standorte.post.ch/poi/Poststelle-Postagentur/Schwarzseestrasse-212/1716/Schwarzsee/001PST_001114879/de
+47.3898192,8.4938676,amenity=post_office
+46.7961703,7.1522598,name=Poste Suisse,amenity=post_office,operator=POST CH AG,opening_hours=Mo-Fr 07:30-12:00, 13:45-18:00; Sa 08:00-11:00; Su off
+47.0197062,7.2356374,name=Poststelle 3283 Kallnach,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kallnach,operator=Die Schweizerische Post AG,addr:city=Kallnach,addr:street=Mitteldorf,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3283,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:00, 16:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=19
+47.7141926,8.6438959,name=Post Hochstrasse,amenity=post_office,amenity_1=post_box
+47.7070338,8.71927,name=Post Dörflingen,amenity=post_office,amenity_1=post_box
+47.6677361,8.4679859,name=Post Wilchingen,amenity=post_office,amenity_1=post_box
+47.7146397,8.5173888,name=Postagentur Siblingen,amenity=post_office,amenity_1=post_box
+47.7012019,8.552701,name=Postagentur Löhningen,amenity=post_office,amenity_1=post_box
+47.6594817,8.8588423,name=Postagentur,source=www.post.ch,amenity=post_office,amenity_1=post_box
+46.9402413,7.2123961,name=Postagentur 3206 Biberen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Biberen,operator=Bäckerei Rebsamen GmbH,addr:city=Ferenbalm,addr:street=Bernstrasse,addr:suburb=Biberen,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3206,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Tu 06:30-18:45; We 06:30-12:00; Th-Fr 06:30-18:45; Sa 06:30-16:00; Su off,addr:housenumber=98
+46.9540368,7.1864593,name=Poststelle 3216 Ried bei Kerzers,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ried bei Kerzers,operator=Die Schweizerische Post AG,addr:city=Ried bei Kerzers,addr:street=Dorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3216,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-09:30, 16:00-18:00; Sa 07:30-09:30; Su off,addr:housenumber=51
+47.0670363,7.1994625,name=Poststelle 2575 Täuffelen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Täuffelen,operator=Die Schweizerische Post AG,addr:city=Täuffelen,addr:street=Bodenweg,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=2575,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,addr:housenumber=1
+47.0623826,7.2671879,name=Postagentur 3273 Kappelen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Kappelen,operator=Berni's Druck GmbH,addr:city=Kappelen,addr:street=Dorfstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3273,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo 08:00-12:00, 13:30-17:00; Tu 08:00-12:00, 13:30-18:00; We 08:00-12:00, 13:30-17:00; Th 08:00-12:00, 13:30-18:00; Fr 08:00-12:00, 13:30-17:00; Sa 09:00-11:00; Su off,addr:housenumber=71
+47.013456,7.0575375,name=Poststelle 3236 Gampelen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Gampelen,operator=Die Schweizerische Post AG,addr:city=Gampelen,addr:street=Bahnhofstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3236,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-10:30, 15:00-17:30; Sa 08:30-11:00; Su off,addr:housenumber=10
+46.1878161,6.1262607,amenity=post_office
+46.9476635,7.6205189,name=Postagentur 3512 Walkringen,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Walkringen,operator=Jegerlehner Bäckerei/Konditorei AG,addr:city=Walkringen,addr:street=Hauptstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3212,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 06:30-12:00, 13:30-18:30; Sa 06:30-15:00; Su off,addr:housenumber=3
+46.8656657,7.3102278,name=Poststelle 3182 Ueberstorf,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Ueberstorf,operator=Die Schweizerische Post AG,addr:city=Ueberstorf,addr:street=Flamattstrasse,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3182,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:00, 15:00-18:00; Sa 08:30-11:00; Su off,addr:housenumber=6
+46.5212793,6.616372,name=Office de poste 1000 Lausanne 20 Sévelin,brand=LA POSTE,source=survey,amenity=post_office,website=http://www.poste.ch,alt_name=Poste Sévelin (Lausanne 20),operator=La Poste Suisse SA,addr:city=Lausanne,addr:street=Avenue de Tivoli,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=1007,contact:email=serviceclientele@poste.ch,contact:phone=+41 848 888 888,opening_hours=Mo-Fr 08:00-11:00, 15:00-18:00; Sa 09:00-11:00; Su off,addr:housenumber=70
+47.1046817,8.6756836,amenity=post_office
+47.1730491,8.5146054,addr:city=Zug,addr:housenumber=15,addr:postcode=6300,addr:street=Alpenstrasse,alt_name=Post Bahnhof (Zug 4),amenity=post_office,name=Poststelle 6304 Zug 4 Bahnhof,opening_hours=Mo-Fr 07:30-18:30; Sa 08:00-12:00; Su off,operator=Die Schweizerische Post AG,source=survey,wheelchair=yes
+46.9094707,7.414844,name=Postagentur 3098 Schliern bei Köniz,source=survey,amenity=post_office,website=http://www.post.ch,alt_name=Post Schliern bei Köniz,operator=Bäckerei-Konditorei Aegerter AG,addr:city=Köniz,addr:street=Schaufelweg,addr:suburb=Schliern,contact:fax=+41 844 888 888,addr:country=CH,addr:postcode=3098,contact:email=kundendienst@post.ch,contact:phone=+41 848 888 888,opening_hours=Mo off; Tu-Fr 06:30-12:00, 15:30-18:30; Sa 07:00-13:00; Su 08:00-12:00,addr:housenumber=115
+47.2391657,7.5955021,amenity=post_office
+47.3214275,7.8992425,name=Post,amenity=post_office,operator=Die Post,wheelchair=limited,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-11:00; PH off
+47.2266469,9.1980049,amenity=post_office
+47.1937186,7.2491607,amenity=post_office
+46.7861459,7.0146617,name=Poste,amenity=post_office,addr:city=Prez-vers-Noréaz,addr:street=Route de Fribourg,addr:postcode=1746,addr:housenumber=19,collection_times=Lundi-Vendredi 07:30-10:00  15:00-18:00 Samedi 09:00 - 11:00
+46.7858896,7.0145059,amenity=post_office
+47.5788154,8.5721753,name=Post Rüdlingen,amenity=post_office,addr:city=Rüdlingen,addr:street=Mitteldorf,addr:housenumber=30
+46.1981865,6.1873035,amenity=post_office,addr:city=Chêne-Bougeries,addr:street=Route de Chêne,addr:housenumber=147
+47.3014211,8.3124751,amenity=post_office
+47.3157942,8.1847688,amenity=post_office
+46.1689501,8.7786848,name=Posta Solduno,amenity=post_office,operator=Posta Svizzera
+46.4069426,8.6476671,amenity=post_office
+46.1719602,8.8019425,amenity=post_office
+47.1611046,7.5929485,atm=no,name=Post,amenity=post_office,operator=Postfinance,drive_through=no
+46.8756379,7.7951774,name=Poststelle 3537 Eggiwil,amenity=post_office
+47.3512806,8.3456307,name=5620 Bremgarten,amenity=post_office
+47.2089631,9.4888179,name=Post Haag,amenity=post_office
+46.316292,8.4924884,name=Ufficio Postale,amenity=post_office,operator=La Posta,addr:city=Bosco/Gurin,addr:country=CH,addr:postcode=6685,opening_hours=Mo-Fr 14:45-16:45; Sa 08:00-09:00
+47.136639,7.8148291,amenity=post_office
+47.4205334,7.5018142,amenity=post_office
+46.3435792,7.0133978,amenity=post_office
+47.0114311,9.0804219,amenity=post_office
+46.3144794,7.8505462,amenity=post_office
+46.6786764,9.647352,name=Volg mit Postagentur,shop=convenience,amenity=post_office,addr:city=Alvaneu Dorf,addr:street=Voia Principale,addr:postcode=7492,opening_hours=Mo, Tu, Th, Fr: 08:00-12:15, 14:00-18:30; We: 08:00-12:15; Sa: 08:00-12:15, 14:00-16:00,addr:housenumber=64
+46.1680954,5.9940822,name=Office de poste 1237 Avully,note= Prestations  Expédition  -----------  * Expédition de lettres et colis  * Affranchissement   Réception  -----------  * Réception de lettres et colis   Pour votre argent  -----------  * Retrait d'espèces avec PostFinance Card et change (CHF et EUR)  * Ver,phone=0848 888 888,amenity=post_office,addr:city=Avully,addr:street=Avenue de Gennecy,addr:postcode=1237,addr:housenumber=2,collection_times=Guichet normal Lundi à Vendredi08:00 à 11:0015:30 à 18:00Samedi09:00 à 11:00 Installation de cases postales Lundi à Dimanche00:00 à 23:59
+47.4392892,7.9090016,amenity=post_office
+47.3723792,8.0012072,amenity=post_office
+46.890528,7.1794853,name=Poststelle Gurmels,amenity=post_office,operator=Schweizerische Post
+46.8219141,8.6505512,amenity=post_office
+46.2194669,6.1130207,amenity=post_office,operator=Post.ch,addr:city=Genève
+47.3204862,8.0532924,amenity=post_office,name=Die Post
+47.4937038,8.253021,amenity=post_office
+47.4021969,8.1755991,amenity=post_office
+47.5657892,7.6186944,amenity=post_office
+47.5593112,7.605953,amenity=post_office
+46.1287981,8.9846109,addr:city=Isone,addr:country=CH,addr:housenumber=2,addr:postcode=6810,addr:street=Piázza San Luriens,amenity=post_office,name=Ufficio Postale Isone,operator=La Posta
+46.7277771,8.1850476,amenity=post_office,name=Post Meiringen
+45.9884084,8.8072822,amenity=post_office,name=Cremenaga,operator=Poste Italiane,ref=89152
+45.9195205,8.985263,addr:city=Melano,addr:country=CH,addr:housenumber=89,addr:postcode=6818,addr:street=Via Cantonale,amenity=post_office,name=Ufficio Postale,operator=La Posta
+47.4311647,8.6741245,addr:city=Tagelswangen,addr:housenumber=23,addr:postcode=8317,addr:street=Zürcherstrasse,amenity=post_office,name=Postagentur Tagelswangen,operator=Volg Tagelswangen
+47.311697,8.7219303,amenity=post_office,name=Die Post,operator=Die Post
+47.5176215,8.9942372,amenity=post_office
+46.7583925,9.1437873,amenity=post_office
+47.3934058,8.0451621,amenity=post_office
+45.9737395,8.8804673,amenity=post_office,name=Posta,wheelchair=yes
+46.9819497,9.647588,amenity=post_office,name=Post Grüscjh
+47.3707232,8.3417774,amenity=post_office
+47.2952436,9.0934908,amenity=post_office,name=Post Zustellstelle
+46.5338722,8.3503613,amenity=post_office
+47.3526828,9.2498248,addr:city=Schwellbrunn,addr:housenumber=5,addr:postcode=9103,addr:street=Dorf,amenity=post_office,name=Postagentur
+47.3904134,8.3459014,amenity=post_office
+46.0913682,8.9230066,amenity=post_office,operator=Posta Svizzera
+47.0526099,8.3063586,amenity=post_office,name=Postagentur Luzern Altstadt,operator=Merz Bäckerei und Bistro,post_office:type=post_partner
+46.9482213,7.4379284,addr:city=Bern,addr:country=CH,addr:housenumber=9,addr:postcode=3011,addr:street=Bogenschützenstrasse,amenity=post_office,name=Post PostParc,opening_hours=Mo-Fr 07:30-21:00; Sa 08:00-17:00; Su 16:00-21:00,operator=Die Post AG,source=survey
+47.3988493,8.3070199,amenity=post_office
+47.3811323,9.0907424,amenity=post_office,name=Post Ganterschwil
+47.4182951,8.3168649,amenity=post_office,name=Oberrohrdorf
+46.2197085,6.1386134,amenity=post_office,operator=Post.ch
+47.284128,8.5506412,addr:city=Gattikon,addr:housenumber=19,addr:postcode=8136,addr:street=Obstgartenweg,amenity=post_office,name=Postagentur Gattikon
+46.8215075,7.4429101,amenity=post_office,name=Die Post,operator=Die Post
+47.3473898,8.2449982,amenity=post_office
+46.9020347,7.1506388,addr:housenumber=6,addr:street=Route de Pra-Rond,amenity=post_office,name=Poste
+47.5168632,8.3651452,addr:city=Schneisingen,addr:housenumber=9,addr:postcode=5425,addr:street=Dorfstrasse,amenity=post_office,name=Postagentur Schneisingen im VOLG-Laden,opening_hours=Mo-Fr 07:30-12:15,14:00-18:30; Sa 07:30-16:00,operator=Volg
+47.4681997,9.2841917,amenity=post_office
+47.3727105,7.9963561,amenity=post_office,wheelchair=yes
+46.9417703,8.2713903,amenity=post_office,name=Post
+46.8143246,6.8905452,addr:street=Chemin Pré du Château,amenity=post_office
+46.2811666,9.0049503,amenity=post_office,name=Ufficio Postale,operator=La Posta,source=Comune di Cresciano
+47.61041,9.1672696,amenity=post_office,name=Postagentur Siegershausen,operator=Die Post,post_office:type=post_partner
+47.4007364,8.6229186,amenity=post_office
+47.3919779,8.5379392,name=Poststelle 8042 Zürich 42 Schaffhauserplatz,amenity=post_office,website=https://standorte.post.ch/poi/Poststelle-Postagentur/Hofwiesenstrasse-3/8057/Z%C3%BCrich/001PST_001125541,building=yes,addr:city=Zürich,addr:street=Hofwiesenstrasse,addr:country=CH,addr:postcode=8057,addr:housenumber=3
+47.2528686,8.692906,name=8708 Männedorf,amenity=post_office,building=yes,operator=Die Schweizerische Post,wheelchair=yes
+47.2697734,8.7209951,amenity=post_office,building=yes
+46.8041932,7.1522821,ref=1701,name=La Poste - Fribourg 1 Dépôt,source=knowledge,amenity=post_office,building=yes
+47.209776,8.7050144,name=Post Richterswil,amenity=post_office,building=yes,addr:street=Seestrasse,addr:postcode=8805,addr:housenumber=29
+47.0997937,6.8252007,name=Poste de la Gare,amenity=post_office,building=yes,operator=La Poste
+46.5683314,6.5644223,name=Poste de Villars-Sainte-Croix,amenity=post_office,building=yes
+47.2699477,8.6425307,atm=yes,name=Post 8706 Meilen,amenity=post_office,building=yes,wheelchair=yes,addr:street=Dorfstrasse,addr:postcode=8706,addr:housenumber=73
+47.3931312,8.0444855,name=Post Kaufhaus,amenity=post_office,building=yes,addr:city=Aarau,addr:street=Metzgergasse,addr:postcode=5000,opening_hours=Mo-Fr 08:30-11:30,14:00-18:00; Sa 08:30-11:00,addr:housename=Kaufhaus,addr:housenumber=2
+46.7276568,9.5579755,atm=yes,name=GKB,amenity=post_office,building=yes
+47.3920351,8.0504384,addr:city=Aarau,addr:country=CH,addr:housenumber=67,addr:postcode=5000,addr:street=Bahnhofstrasse,amenity=post_office,building=yes,building:levels=4,name=Hauptpost,opening_hours=Mo-Fr 08:00-19:00; Sa 08:00-13:00,phone=0848888888,website=www.post.ch
+47.2589597,8.5894976,name=Migrolino,shop=supermarket,amenity=post_office,building=station,addr:city=Horgen,addr:country=CH,addr:postcode=8810,addr:housenumber=50
+46.9910331,6.9319277,name=Hôtel des postes,amenity=post_office,building=yes,wheelchair=yes
+47.6960482,8.5738669,name=Post Beringen,amenity=post_office,building=yes,addr:city=Beringen,amenity_1=post_box,addr:street=Zelgstrasse,addr:housenumber=8
+47.4421704,8.5546955,amenity=post_office,building=yes,name=Swiss Post International,source=Yahoo aerial images
+47.1389054,6.9655636,name=Poste de Sonvilier,amenity=post_office,building=yes
+47.3887868,8.6809245,name=Volketswil,amenity=post_office,addr:city=Volketswil,wheelchair=limited,addr:street=Im Zentrum,addr:country=CH,addr:postcode=8604,addr:housenumber=16
+46.7453426,7.6451277,name=Post Hünibach,amenity=post_office,building=yes,addr:city=Hünibach,addr:street=Staatsstrasse,addr:country=CH,addr:postcode=3626,addr:housenumber=138
+47.3200051,8.5216178,name=8134 Adliswil 2 Sood,amenity=post_office,building=yes,addr:housenumber=65
+46.9963104,6.9366965,name=Poste Neuchâtel 2 Gare,amenity=post_office,building=yes,wheelchair=yes
+47.0124701,6.9703564,source=Orthophotos2006sitn50cm,amenity=post_office,building=yes
+46.4562888,7.4429731,atm=yes,name=Die Post,amenity=post_office,building=yes,addr:city=Lenk im Simmental,addr:street=Kronenplatz,addr:country=CH,addr:postcode=3775,addr:housenumber=2
+46.9508302,6.8360693,name=2017 Boudry,amenity=post_office
+47.3760417,8.4885219,name=8047 Zürich 47 Albisrieden,source=Yahoo,amenity=post_office,building=yes,operator=Die Post,opening_hours=Mo-Fr 08:00-12:00, 13:30-18:30; Sa 09:00-12:00
+46.9242916,6.6333345,source=Orthophotos2006sitn50cm,amenity=post_office
+47.3543464,8.4360234,name=Post Birmensdorf,amenity=post_office,building=yes,operator=Post,addr:city=Birmensdorf (ZH),addr:street=Poststrasse,addr:country=CH,addr:postcode=8903,addr:housenumber=3
+47.5199854,8.5432442,name=Post Bülach,source=Yahoo aerial images,amenity=post_office,building=yes
+46.982863,6.8790496,source=Orthophotos2006sitn50cm,amenity=post_office
+46.9684694,6.837807,name=2014 Bôle,source=Orthophotos2006sitn50cm,amenity=post_office,building=yes,operator=La Poste
+47.26695,8.2020009,name=Post Beinwil am See,amenity=post_office,building=yes,operator=Die Schweizerische Post,addr:city=Beinwil a. See,addr:street=Löwenplatz,addr:postcode=5712
+47.2952848,8.2416964,name=Post Fahrwangen,amenity=post_office,building=yes,operator=Die Schweizerische Post
+46.9821229,6.9019798,name=2003 Neuchâtel Serrières,source=Orthophotos 2006 SITN 50cm,amenity=post_office
+47.37479,8.0783289,addr:housenumber=3,addr:street=Mittlere Dorfstrasse,amenity=post_office,building=yes,name=Post Suhr
+46.5169824,6.632028,source=Orthophoto Ville de Lausanne 2008,amenity=post_office,addr:city=Lausanne,addr:country=CH
+47.5166165,8.6459958,name=Pfungen,amenity=post_office,name:de=Pfungen,building=yes,name:gsw=Pfunge,wheelchair=limited
+46.5326341,6.6278364,source=Orthophoto Ville de Lausanne 2008,amenity=post_office,building=yes,addr:city=Lausanne,addr:country=CH
+46.2274285,7.3578412,source=Bing,amenity=post_office,building=yes,addr:city=Sion,addr:street=Rue de la Blancherie,addr:postcode=1950,addr:housenumber=3
+47.4719024,8.6765233,name=8311 Brütten,amenity=post_office,building=yes
+46.5351938,6.6335147,name=Poste Bellevaux,source=Orthophoto Ville de Lausanne 2008,amenity=post_office,building=yes,addr:city=Lausanne,addr:street=Route Aloys-Fauquez,addr:country=CH,addr:postcode=1018,addr:housenumber=60
+46.97816,6.810616,source=Orthophotos2006sitn50cm,amenity=post_office,building=yes
+46.7410089,7.2865429,atm=yes,name=Post Plaffeien,amenity=post_office,building=yes,addr:city=Plaffeien,wheelchair=yes,addr:street=Dorfstrasse,addr:country=CH,addr:postcode=1716,addr:housenumber=28
+46.9820041,9.6474723,name=Die Schweizerische Post,amenity=post_office,building=yes
+47.1074968,6.8313023,name=Poste,source=orthophotos2006sitn50cm,amenity=post_office,addr:city=La Chaux-de-Fonds,addr:street=Rue de la Charrière,addr:country=CH,addr:postcode=2300,addr:housenumber=8
+46.1085491,7.9301538,amenity=post_office,building=yes,operator=Swiss Post
+46.9748082,6.8784487,name=2012 Auvernier,source=Orthophotos 2006 SITN 50cm,amenity=post_office,building=yes
+47.2125465,7.4991562,addr:city=Bellach,addr:housenumber=5,addr:postcode=4512,addr:street=Dorfstrasse,amenity=post_office,building=yes,operator=Schweizerische Post AG
+47.1921973,8.6855015,name=Post,amenity=post_office,building=yes,operator=Post,addr:street=Stationsstrasse,addr:postcode=8833,addr:housenumber=61
+47.2038329,7.558321,name=Post Zuchwil,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,operator=Die Schweizerische Post,addr:city=Zuchwil,addr:street=Hauptstrasse,addr:postcode=4528,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-11:00,addr:housenumber=73
+47.1832299,7.562695,ref=2-4562-15596,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,addr:street=Poststrasse,source:date=20100325,addr:housenumber=4,collection_times=Mo-Fr 18:00; Sa 11:00; Su 18:00
+47.2194034,7.5148992,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,addr:street=Poststrasse,source:date=Amtliche Vermessung, Stand 20010326,addr:housenumber=2
+47.3430605,7.8675229,atm=yes,name=Die Post,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,addr:street=Dorfstrasse,source:date=Amtliche Vermessung, Stand 20010324,addr:housenumber=47
+47.1957446,7.5846474,name=Post Derendingen,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,addr:street=Hauptstrasse,source:date=Amtliche Vermessung, Stand 20010412,addr:housenumber=34
+47.2574851,7.5771006,name=4524 Günsberg,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,addr:street=Solothurnstrasse,source:date=Amtliche Vermessung, Stand 20010408,addr:housenumber=1
+47.3157507,7.8290734,name=Post,source=SO!GIS Import,amenity=post_office,building=yes,operator=Post,addr:city=Gunzgen,addr:street=Allmendstrasse,addr:country=CH,addr:postcode=4617,addr:housenumber=4
+47.4786653,7.6159037,source=SO!GIS Import,amenity=post_office,building=yes
+46.430256,9.7651744,name=7514 Segl Maria,source=bing,amenity=post_office,name:de=7514 Sils im Engadin,name:rm=7514 Segl Maria,building=yes,operator=La Posta Svizra
+47.3526508,7.9290918,name=4656 Starrkirch-Wil,source=http://www.sogis.ch SO!GIS Import,amenity=post_office,building=yes,operator=Die Post,addr:street=Kirchrain,source:date=Amtliche Vermessung, Stand 20100428,addr:housenumber=5
+47.3851237,8.6585529,name=Schwerzenbach,source=yahoo! Aerial imagery,amenity=post_office,building=yes,addr:city=Schwerzenbach,addr:street=Bahnstrasse,addr:country=CH,addr:postcode=8603,addr:housenumber=18
+46.1773004,8.7963321,ref=6644,name=Ufficio postale,amenity=post_office,building=yes,addr:city=Orselina,addr:country=CH,opening_hours=Mo-Fr 07:45-11:00,15:15-18:00; Sa 09:00-11:00
+47.3101426,9.4352527,name=Weissbad,amenity=post_office,building=yes
+47.3406944,8.5779514,atm=yes,name=Post Zollikon Dorf,amenity=post_office,building=yes,addr:city=Zollikon,addr:street=Rotfluhstrasse,addr:country=CH,addr:postcode=8702,addr:housenumber=69
+46.3936792,6.8010735,addr:housenumber=42,addr:postcode=74500,addr:street=Rue Nationale,amenity=post_office,building=yes,contact:phone=3631,contact:website=https://www.laposte.fr/particulier/outils/trouver-un-bureau-de-poste/bureau-detail/saint-gingolph-bp/14098A,name=Saint-Gingolph,operator=La Poste,ref:FR:LaPoste=14098A,source=extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010;data.gouv.fr:LaPoste - 04/2012
+47.3192713,8.5798957,atm=yes,amenity=post_office,building=yes,addr:city=Küsnacht,addr:street=Kohlrainstrasse,addr:country=CH,addr:postcode=8700,addr:housenumber=16
+46.035707,8.9657622,amenity=post_office,building=yes,wheelchair=yes,addr:street=Via San Bernardo,addr:housenumber=18
+47.1280069,8.7443744,name=Post,amenity=post_office,website=www.post.ch,building=yes,operator=Post AG,addr:city=Einsiedeln,wheelchair=yes,addr:street=Bahnhofplatz,addr:country=CH,addr:postcode=8840,opening_hours=Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:00-11:30,addr:housenumber=3
+45.8334539,9.0303261,atm=yes,name=Chiasso 1,source=website and survey,amenity=post_office,building=yes,operator=La Posta,addr:city=Chiasso,addr:street=Piazza Indipendenza,addr:country=CH,addr:postcode=6830,opening_hours=Mo-Fr 07:45-18:30,Sa 08:00-12:00,addr:housenumber=3,collection_times=Mo-Fr 18:00,Sa 11:30,Su 13:00
+46.2434521,6.1466673,name=1292 Pregny-Chambésy,amenity=post_office,building=yes,addr:city=Chambésy,addr:street=Chemin de Chambésy,addr:country=CH,addr:postcode=1292,addr:housenumber=16
+47.2554534,6.995801,name=Saignelégier,source=Orthophotos 1998 RCJU 50cm,amenity=post_office,building=yes,opening_hours=Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-10:30
+47.2789546,7.1376886,source=Orthophotos 1998 RCJU 50cm,amenity=post_office,building=yes,operator=La Poste
+46.7812314,6.6414209,name=Poste,source=Orthophoto Yverdon 2007 / HEIG-VD,amenity=post_office,building=yes,opening_hours=Mo-Fr 08:00-12:00,14:30-18:00; Sa 09:00-11:00
+46.8878163,6.5503319,source=Orthophotos2006sitn50cm,amenity=post_office,building=yes
+46.201979,6.1500829,addr:city=Genève,addr:housenumber=3,addr:postcode=1204,addr:street=Rue du Vieux-Collège,amenity=post_office,atm=yes,building=yes,name=Office de poste 1200 Genève 3 Rive,opening_hours=Lu - Ve : 08:30 - 18:00 Sa : 09:00 - 11:00,operator=La Poste
+47.3640653,9.6057681,amenity=post_office,building=yes,operator=Post
+46.1747792,6.0717412,name=Bernex 1233,amenity=post_office,building=yes
+47.2822111,7.0503863,source=Orthophotos 1998 RCJU 50cm,amenity=post_office,building=yes,operator=La Poste
+47.050693,8.3087073,name=Hauptpost Luzern,source=Bing,amenity=post_office,building=yes,wheelchair=yes
+47.3498065,8.2680331,name=5610 Post Wohlen 1,source=bing,amenity=post_office,building=yes
+47.4030288,8.0848232,amenity=post_office
+47.5455453,7.9512057,name=Post,source=AGIS OF2011,amenity=post_office,building=yes,addr:city=Stein,addr:state=AG,wheelchair=yes,addr:street=Schaffhauserstrasse,addr:country=CH,addr:postcode=4332,addr:housenumber=26
+47.38617,8.7523533,name=Post Fehraltorf,email=kundendienst@post.ch,phone=+4158 453 78 03,amenity=post_office,website=www.post.ch,building=yes
+46.7742613,7.5740048,name=Uetendorf,layer=1,source=bwu,amenity=post_office,building=yes,operator=Post
+46.2969487,6.9935666,amenity=post_office,building=yes
+46.3989955,6.9264112,name=Poste de Villeneuve,source=Géodonnées - Etat de Vaud,amenity=post_office,building=yes,addr:city=Villeneuve (VD),addr:street=Avenue Comtes de Savoie,addr:postcode=1844,addr:housenumber=1
+46.4432491,6.8962863,name=Poste de Clarens,amenity=post_office,building=yes
+47.4356656,9.6407884,source=GeoImage.at,amenity=post_office,addr:city=Au,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=9434
+47.4666307,7.7848792,ref=4452,amenity=post_office,building=yes,opening_hours=Mo-Fr 07:30-11:00,15:30-18:00; Sa 08:00-11:00
+47.191938,8.8544986,amenity=post_office
+47.0684924,6.7052843,amenity=post_office,building=yes
+47.3910014,8.1684801,addr:city=Lenzburg,addr:country=CH,addr:housenumber=6,addr:postcode=5600,addr:street=Murackerstrasse,amenity=post_office,building=yes,name=Lenzburg 1,operator=Post,wheelchair=yes
+47.3577725,8.5542471,source=Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement,amenity=post_office,building=yes,addr:city=Zürich,wheelchair=yes,addr:street=Seefeldstrasse,addr:country=CH,addr:postcode=8008,addr:housenumber=128
+47.2521234,8.7699002,name=Post,amenity=post_office,building=yes,operator=Post,wheelchair=yes,addr:street=Rütistrasse,addr:postcode=8634,addr:housename=Post
+47.7727005,8.6774084,name=Post Bibern,source=Bing,amenity=post_office,building=yes,amenity_1=post_box
+47.3766371,8.1422915,name=Post Schafisheim,amenity=post_office,building=yes,operator=Die Post
+46.5162374,6.7019224,addr:city=La Croix-sur-Lutry,addr:country=CH,addr:housenumber=241,addr:postcode=1090,addr:street=Route de la Croix,amenity=post_office,building=yes,name=Agence postale 1090 La Croix-sur-Lutry,source=Bing 2007
+47.0492267,8.548055,atm=yes,name=Die Post,amenity=post_office,building=yes,addr:street=Bahnhofsstrasse,addr:housenumber=5
+47.5475037,7.7677746,name=Postagentur Rheinfelden 2,amenity=post_office,building=yes,addr:city=Rheinfelden,addr:street=Im Waldhof,addr:country=CH,addr:postcode=4310,addr:housenumber=1a
+46.1562303,6.0926831,addr:city=Perly-Certoux,addr:housenumber=31,addr:postcode=1258,addr:street=Route de Certoux,amenity=post_office,building=yes,name=Office de poste,source=Orthophotos 2009 du SITG (Système d'Information du Territoire Genevois)
+47.3337513,9.5847459,source=GeoImage.at,amenity=post_office,building=yes,operator=Post
+47.3077043,8.0510517,name=Post Schöftland,amenity=post_office,building=yes
+47.385928,8.1221027,addr:city=Hunzenschwil,addr:country=CH,addr:housenumber=1,addr:postcode=5502,addr:street=Poststrasse,amenity=post_office,building=yes,name=Post 5502 Hunzenschwil
+46.2036445,6.1406606,name=1200 Genève 11 Rue du Stand,amenity=post_office,building=yes
+47.4428162,8.3628744,amenity=post_office,building=yes,operator=Post,addr:city=Würenlos,addr:street=Landstrasse,addr:postcode=5436,addr:housenumber=69,collection_times=Mo-Fr 18:00;Sa 11:00
+47.5839064,9.3403647,amenity=post_office
+46.6172446,7.0551328,source=survey,amenity=post_office,building=yes
+46.5384794,7.0860385,source=Orthophoto 2005, Etat de Fribourg, 50 cm,amenity=post_office,building=yes,operator=La Poste,addr:city=Grandvillard,addr:street=Route du Banneret,addr:country=CH,addr:postcode=1666,addr:housenumber=9
+47.4248222,8.6854163,name=Post Effretikon,amenity=post_office,building=yes,operator=Die Post,addr:city=Effretikon,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=8307,addr:housenumber=13
+46.5828698,7.0730958,name=Gruyère,source=Orthophoto 2005, Etat de Fribourg, 50 cm,amenity=post_office,building=yes
+46.6966684,7.7382913,amenity=post_office,building=yes,addr:city=Merligen,addr:street=Mittelstrasse,addr:country=CH,addr:postcode=3658,opening_hours=Mo-Fr 08:00-10:00,15:45-17:45; Sa 08:45-10:45,addr:housenumber=4
+47.2650891,8.431719,source=Bing,amenity=post_office,building=yes,addr:city=Obfelden,addr:street=Dorfstrasse,addr:country=CH,addr:postcode=8912,addr:housenumber=30
+46.778495,7.6355574,source=Yahoo,amenity=post_office,building=yes
+46.6175047,7.0200344,name=1628 Vuadens,source=survey,amenity=post_office,building=yes
+47.560096,7.8423172,name=Post Möhlin,amenity=post_office,building=yes,wheelchair=yes
+46.8108817,7.1729248,ref=Post Schönberg,name=Post Schönberg,amenity=post_office
+47.3467377,8.6026933,amenity=post_office,building=yes,addr:city=Zollikerberg,addr:street=Wilhofstrasse,addr:country=CH,addr:postcode=8125,addr:housenumber=3
+46.6054656,7.9210218,amenity=post_office,building=yes
+46.1694779,8.7963059,atm=yes,name=Ufficio Postale Locarno,amenity=post_office,building=yes,operator=La Posta
+46.420591,6.2658943,name=Gland Post Office,source=Bing,amenity=post_office,building=yes,addr:city=Gland,addr:street=Route de Begnins,addr:postcode=1196,addr:housenumber=13
+46.6179344,6.4125283,amenity=post_office,building=yes,wheelchair=yes
+47.1945417,8.6442887,amenity=post_office,building=public
+47.2161836,8.6112117,name=Post,amenity=post_office,building=public
+47.4060349,8.4030104,amenity=post_office,building=yes,building:levels=4
+47.2025605,8.7797104,addr:housenumber=3,addr:street=Poststrasse,amenity=post_office,building=yes,name=Post Pfäffikon SZ
+46.6804956,8.7755299,name=Post,amenity=post_office,building=yes,operator=La Posta Svizra,addr:city=Sedrun,addr:street=Via Alpsu,addr:postcode=7188,opening_hours=Mo-Fr 08:00-11:30, 14:00-17:30; Sa 8:00-10:30,addr:housenumber=57
+46.7037137,7.0061929,name=La Poste de Villargiroud,amenity=post_office,building=yes
+46.7238886,8.0370436,name=Axalp,amenity=post_office,building=yes
+47.4822228,8.4571263,amenity=post_office,building=yes,wheelchair=yes
+47.401586,8.1271087,amenity=post_office,building=yes,addr:city=Rupperswil,wheelchair=yes,addr:street=Poststrasse,addr:country=CH,addr:postcode=5102,building:roof=flat,addr:housenumber=3
+47.2787983,7.3678264,name=La Poste de la Rue Neuve,amenity=post_office,building=yes
+47.5380466,8.788722,amenity=post_office,building=yes
+47.2291432,7.5288141,source=orthofoto WMS Solothurn,amenity=post_office,building=yes,addr:city=Rüttenen,addr:street=Hauptstrasse,addr:postcode=4522,opening_hours=Mo-Fr 8:00-11:00, 15:30-18:00;Sa 9:00-11:00,addr:housenumber=22
+46.5520147,9.8887395,name=Volg,shop=convenience,amenity=post_office,building=commercial,addr:street=Via Maistra,addr:housenumber=4
+47.4650119,9.5947047,name=Postpartner,amenity=post_office
+47.5063596,7.5234056,amenity=post_office,building=yes
+47.3054141,8.758292,name=Post Gossau,amenity=post_office,building=yes,addr:street=Laufenbachstrasse,addr:housenumber=7
+46.8647403,7.1248883,name=Office de poste,phone=+41 58 454 41 50,amenity=post_office,building=yes,addr:city=Courtepin,addr:street=Le Centre,addr:country=CH,addr:postcode=1784,addr:housenumber=6
+46.6851107,7.8538246,name=Post Interlaken,amenity=post_office,building=yes,operator=Die Schweizerische Post,addr:city=Interlaken,addr:street=Marktgasse,addr:country=CH,addr:postcode=3800,addr:housenumber=1
+47.3255678,8.6542958,name=Post Forch,amenity=post_office,building=yes,operator=Die Post,addr:city=Forch,addr:street=Wassbergstrasse,addr:country=CH,addr:postcode=8124,addr:housenumber=3
+47.4114942,9.3663627,amenity=post_office,building=office
+46.859081,7.4666407,source=Orthofotos Vermessungsamt Stadt Bern,amenity=post_office,building=yes
+47.3042391,8.1189406,source=AGIS OF2011,amenity=post_office,building=yes
+46.061382,8.9572316,name=Posta di Vaglio,amenity=post_office
+47.4946826,8.4496689,name=Post Steinmaur,amenity=post_office,building=yes,operator=Swiss Post
+47.698262,8.6334346,name=8200 Schaffhausen 1,amenity=post_office,building=yes,amenity_1=post_box,wheelchair=yes
+47.5153761,9.4316297,name=Poststelle Arbon,source=Bing,amenity=post_office,building=yes,addr:city=Arbon,wheelchair=yes,addr:street=Friedenstrasse,addr:postcode=9320,addr:housenumber=7
+47.1940082,8.524649,name=Post,amenity=post_office,building=yes,addr:city=Baar,addr:street=Dorfstrasse,addr:housenumber=16
+47.5333062,7.5713143,amenity=post_office,wheelchair=yes
+47.3647693,9.3174893,amenity=post_office,building=yes
+47.3980737,9.5824259,name=Rebstein,source=bing,amenity=post_office,building=yes,operator=Die Post
+47.4525218,8.4299702,name=DPD Depot 615,source=bing,amenity=post_office,building=yes,operator=DPD (Schweiz) AG,addr:city=Buchs ZH,addr:street=Mülibachstrasse,addr:postcode=8107,addr:housenumber=41
+47.1258131,9.053971,name=Post Niederurnen,amenity=post_office
+47.4652433,7.8535915,name=Gelterkinden,amenity=post_office,building=yes
+47.1810084,7.8799886,atm=no,name=Die Post,source=Bing,amenity=post_office,building=yes,operator=Die Post,addr:city=Altbüron,addr:street=Ausserdorf,addr:country=CH,addr:postcode=6147,addr:housenumber=6
+47.0895109,7.7899658,name=Haus'es Dorflade,shop=convenience,source=Bing,amenity=post_office,building=yes
+47.4606309,7.7185031,name=19,amenity=post_office
+47.4839945,7.7327977,amenity=post_office,building=yes,wheelchair=yes
+47.4461655,9.1425067,source=bing,amenity=post_office,building=yes,addr:street=Marktstrasse,building:levels=10,addr:housenumber=4
+47.4946904,8.8657307,name=Post Elgg,amenity=post_office,building=yes,operator=Die Post,addr:city=Elgg,addr:street=Bahnhofstrasse,addr:postcode=8353,addr:housenumber=21
+47.1481279,9.0223368,name=Bilten,amenity=post_office,building=office,addr:street=Hauptstrasse,addr:housenumber=15
+47.4125602,9.4414288,atm=yes,amenity=post_office,building=commercial,operator=Schweizerische Post,addr:city=Speicher,addr:state=AR,addr:street=Zaun,addr:country=CH,addr:postcode=9042,addr:housenumber=56
+47.5787568,9.1669294,amenity=post_office
+47.0245305,9.4513203,amenity=post_office,building=residential,addr:city=Vilters,addr:street=Sarganserstrasse,addr:country=CH,addr:postcode=7324,addr:housenumber=1
+47.4969733,7.9297894,name=Wegenstetten,amenity=post_office,building=yes,addr:street=Bachstrasse,addr:housenumber=6
+46.0815411,7.5088811,amenity=post_office,building=yes,addr:city=Les Haudères,addr:street=Place de La Poste,addr:postcode=1984,addr:housenumber=4
+46.6978349,10.0905768,source=bing,amenity=post_office,building=yes,addr:city=Zernez,addr:street=Plazza da la Staziun,addr:postcode=7530,addr:housenumber=29 A
+46.8143349,7.2161554,name=Post Tafers,amenity=post_office,building=yes,operator=Die Post
+46.0778116,7.1538139,ref=1933,name=Sembrancher,source=Bing,amenity=post_office,building=office,operator=La Poste
+46.7757298,7.1628479,addr:city=Marly,addr:country=CH,addr:housenumber=8,addr:street=Route du Châtelet,amenity=post_office,building=yes,name=Marly,opening_hours=Mo-Fr 07:30-12:00, 14:00-18:00; Sa 08:00-11:00; Su off,roof:shape=flat
+47.4890007,7.6106307,name=Post Dornach-Arlesheim,amenity=post_office,building=yes,operator=Post AG,addr:street=Amthausstrasse,addr:housenumber=8,collection_times=18:00h
+47.3908024,8.3894635,name=Volg Bergdietikon,shop=supermarket,source=knowledge,amenity=post_office,building=commercial,operator=Volg,addr:city=Bergdietikon,addr:street=Bergstrasse,addr:postcode=8962,opening_hours=Mo-Sa 06:00-20:00,addr:housenumber=37,post_office:type=post_partner
+46.921913,7.8464956,amenity=post_office,building=commercial
+46.0924014,7.064634,name=Martigny 2,amenity=post_office,operator=La Poste
+47.2401383,8.1886514,name=Poststelle Menziken,source=AGIS OF2011,amenity=post_office,building=yes,operator=Die Schweizerische Post,addr:city=Menziken,wheelchair=yes,addr:street=Gässli,addr:country=CH,addr:postcode=5737,addr:housenumber=3
+46.6884158,7.6784071,name=Post Spiez,amenity=post_office,building=yes,wheelchair=yes
+46.1787505,7.5766204,name=Grimentz,amenity=post_office,building=yes,operator=Die Post,building:roof=tile
+47.2344743,7.2263751,amenity=post_office,building=yes,addr:city=Reconvilier,addr:street=Grand-Rue,addr:postcode=2732,addr:housenumber=30
+47.1314707,7.6072907,amenity=post_office,building=commercial
+47.4638933,7.8114229,name=Post Sissach,amenity=post_office,building=yes
+46.7170808,7.7144628,name=Post Sigriswil,amenity=post_office,building=yes
+46.0872362,7.1704605,amenity=post_office,building=yes
+47.3781361,9.5409183,amenity=post_office,building=yes
+47.2396482,7.770113,name=Aarwangen,amenity=post_office,building=yes,addr:city=Aarwangen,addr:street=Langenthalstrasse,addr:postcode=4912,addr:housenumber=5
+47.4135742,9.2502479,addr:housenumber=6,addr:street=Poststrasse,amenity=post_office,building=yes
+46.1236381,7.9364958,source=bing,amenity=post_office,building=yes,wheelchair=limited
+46.6015007,6.6819486,amenity=post_office
+47.0899234,9.303013,addr:city=Flumserberg,addr:housenumber=143,addr:housenumber_1=145,addr:housenumber_2=147,addr:postcode=8897,addr:street=Flumserbergstrasse,amenity=post_office,building=yes
+46.1538024,7.9273567,name=Haus Aristella,amenity=post_office,tourism=information,building=yes,operator=Swiss Post
+46.0259657,7.4813327,amenity=post_office,tourism=information,building=yes,information=office
+46.2739493,7.3843228,amenity=post_office,operator=PTT
+46.5600099,7.894947,name=Post office,amenity=post_office,building=yes
+45.8684726,8.9781814,addr:city=Mendrisio,addr:postcode=6850,amenity=post_office,atm=yes,building=yes,name=Ufficio Postale Mendrisio Stazione,operator=La Posta
+46.6022668,10.4253426,name=7536 Santa Maria Val Müstair,amenity=post_office,building=yes
+46.5837483,6.6390679,name=Poste de Cugy,amenity=post_office,building=yes,operator=La Poste
+47.3290511,9.4095038,amenity=post_office,building=yes
+47.7065189,8.6226655,name=Post Breite, 8204 Schaffhausen,source=www.post.ch,amenity=post_office,building=yes,operator=Die Post,addr:city=Schaffhausen,amenity_1=post_box,addr:street=Hohlenbaumstrasse,addr:housenumber=128
+47.1825556,7.3669226,name=Post,amenity=post_office,building=yes,operator=Post CH AG,addr:city=Lengnau (BE),addr:street=Solothurnstrasse,addr:postcode=2543,addr:housenumber=10
+47.5060272,7.6017823,name=Reinach BL Surbaum,source=Bing,amenity=post_office,building=yes,addr:city=Reinach (BL),addr:street=Baselstrasse,addr:postcode=4153,addr:housenumber=99
+46.4753415,7.2841446,name=Poststelle Gstaad,amenity=post_office,building=yes,operator=Schweizerische Post,addr:city=Gstaad,addr:street=Güterstrasse,addr:postcode=3780,addr:housenumber=11
+47.2787044,8.8436203,name=Post,amenity=post_office,building=yes,operator=Die Post,addr:city=Dürnten,addr:street=Oberdürntnerstrasse,addr:postcode=8635,addr:housenumber=3
+47.3683887,8.8771215,name=Post,amenity=post_office,building=house,addr:city=Bauma,addr:street=Heinrich Gujerstrasse,addr:postcode=8494,building:roof=tile,addr:housenumber=7
+46.2796629,7.4463177,name=Poste de Lens,amenity=post_office,building=yes
+47.6973176,8.4603943,name=Post Hallau,amenity=post_office,building=yes,amenity_1=post_box
+46.5125979,6.5586059,addr:city=Saint-Sulpice,addr:housenumber=26,addr:street=Rue du Centre,amenity=post_office,building=commercial,name=La Poste
+47.0142344,6.9864191,addr:city=St-Blaise,addr:country=CH,addr:housenumber=5,7,addr:postcode=2072,addr:street=Rue des Bourguillards,amenity=post_office,building=yes,source=Orthophoto St-Blaise 2015 / R-Pod @ HEIG-VD
+46.3514923,7.1552999,source=survey,amenity=post_office,building=yes,addr:city=Ormont-Dessus,addr:street=Route de la Gare,addr:country=CH,addr:postcode=1865,opening_hours=Mo-Fr 08:00-12:00,15:00-18:00;Sa 8:30-11:00,addr:housenumber=32
+47.3370059,8.025618,name=Poststelle 5742 Kölliken,source=AGISOF 2011,amenity=post_office,building=yes,operator=Post CH AG,addr:city=Kölliken,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=5742,addr:housenumber=4
+47.441759,7.5913796,amenity=post_office,building=yes
+46.4236176,8.1592447,name=Poststelle Bellwald,amenity=post_office,building=yes,operator=Die Post,wheelchair=yes,opening_hours=Mo-Fr 08:00-10:30, 15:15-17:15; Sa 08:00-10:00,addr:housename=Haus Post
+47.2644202,8.9600009,name=Postagentur Landi/Volg,shop=supermarket,amenity=post_office,building=commercial,addr:city=Goldingen,addr:street=Laupenstrasse,addr:postcode=8638,addr:housenumber=2
+46.1135177,8.9356553,name=Bironico,amenity=post_office,building=yes,addr:city=Monteceneri,addr:street=Via Bironico,addr:postcode=6804
+47.701969,8.4976433,name=Post Gächlingen,amenity=post_office,building=yes,amenity_1=post_box
+47.7500166,8.4879498,name=Postagentur Schleitheim,source=www.post.ch,amenity=post_office,building=yes,addr:city=Schleitheim,amenity_1=post_box,addr:street=Randenstrasse,addr:housenumber=1
+47.5209667,8.8897153,name=Post,amenity=post_office,building=yes,addr:street=Aadorferstrasse,addr:postcode=8523,addr:housenumber=5a
+47.7611203,8.6088288,amenity=post_office,building=yes,addr:city=Merishausen,amenity_1=post_box,addr:street=Hauptstrasse,addr:housenumber=59
+46.0994859,7.7824614,source=Bing,amenity=post_office,building=yes,addr:city=Randa,addr:postcode=3928,addr:housename=Sonnenblick
+47.687616,8.7533408,name=Post Diessenhofen,amenity=post_office,building=yes,addr:city=Diessenhofen,addr:street=Bahnhofstrasse,addr:housenumber=27
+47.6676046,8.4313897,name=Post Trasadingen,amenity=post_office,building=yes,addr:city=Trasadingen,amenity_1=post_box,addr:street=Dorfstrasse,addr:housenumber=42
+46.8116989,9.4006653,name=Post Bonaduz,amenity=post_office,building=yes,operator=Post
+47.0823866,8.4387066,amenity=post_office,building=yes,operator=Die Post
+46.727309,8.9373021,name=Posta,amenity=post_office,building=yes,operator=La Posta Svizra,addr:city=Sumvitg,addr:street=Via Principala,addr:postcode=7175,addr:housenumber=95 a
+47.4529104,8.9375252,name=Post,amenity=post_office,building=yes,addr:city=Balterswil,addr:street=Hauptstrasse,addr:postcode=8362,addr:housenumber=34
+46.7396322,8.1982871,addr:city=Hasliberg Goldern,addr:housenumber=317G,addr:postcode=6085,addr:street=Dorf,amenity=post_office,building=yes,name=Post Hasliberg Goldern,source=bing
+47.430152,8.964224,name=Poststele,amenity=post_office,building=house,addr:city=Dusnang,addr:street=Kurhausstrasse,addr:postcode=8374,addr:housenumber=30
+47.2231465,7.1037485,amenity=post_office,building=yes
+46.2456173,8.706948,name=Maggia,amenity=post_office,building=yes,operator=La Posta
+45.8617455,9.0087459,addr:city=Castel San Pietro,addr:country=CH,addr:housenumber=10,addr:postcode=6874,addr:street=Via Landamano G. B. Maggi,amenity=post_office,building=yes,name=Ufficio Postale,opening_hours=Mo-Fr 08:00-11:00,15:00-18:00; Sa 09:00-11:00,operator=La Posta
+46.599793,9.9609835,amenity=post_office,building=yes,operator=La posta svizra,addr:city=Zuoz,addr:street=Via Staziun,addr:postcode=7524,addr:housenumber=67
+47.3623233,9.0406643,name=Mosnang,amenity=post_office,building=yes,opening_hours=Mo-Fr 07:30-11:00, 14:00-17:30; Sa 08:00-11:00
+46.8675722,7.0127187,amenity=post_office,building=yes
+47.3729682,9.1975195,amenity=post_office,building=yes,addr:city=Degersheim,addr:street=Poststrasse,addr:postcode=9113,addr:housenumber=9
+47.4093638,9.3310623,amenity=post_office,building=yes,addr:street=Zürcherstrasse,opening_hours=Mo-Fr 07:30-12:00,13:30-18:00; Sa 08:30-11:00,addr:housenumber=257
+46.3121124,9.1951657,amenity=post_office,building=yes
+46.6973225,7.1377183,name=la Poste,amenity=post_office,building=yes,operator=la Poste
+46.8949722,6.9369231,amenity=post_office,building=yes,operator=Poste CH,addr:city=Gletterens,addr:street=Place du Tilleul,addr:postcode=1544,addr:housenumber=1
+46.3955042,6.2499374,name=La Poste,amenity=post_office,operator=La Poste,addr:city=Prangins,addr:postcode=1197
+46.6040423,7.099552,source=survey,amenity=post_office,building=yes,addr:city=Broc,addr:street=Rue du Bourg de l'Auge,addr:country=CH,addr:postcode=1636,addr:housenumber=5
+46.587973,7.0857213,name=Epagny/FR,amenity=post_office,building=yes,addr:city=Epagny,addr:street=Route de l'Intyamon,addr:country=CH,addr:postcode=1663,addr:housenumber=347
+47.6072717,8.2334578,amenity=post_office,building=yes,addr:city=Koblenz,addr:street=Bahnhofstrasse,addr:country=CH,addr:postcode=5322,addr:housenumber=7
+47.3100018,8.3228238,amenity=post_office,building=collapsed,addr:city=Bünzen,addr:street=Dorfstrasse,addr:postcode=5624,addr:housenumber=5
+46.3780373,8.0330035,name=Poststelle Riederalp,amenity=post_office,building=yes,addr:city=Riederalp,addr:street=Bahnhofstrasse,addr:postcode=3987,addr:housenumber=4
+47.3923186,9.5698263,addr:housenumber=17,addr:postcode=9437,addr:street=Staatsstrasse,amenity=post_office,building=yes
+47.3908225,8.328483,amenity=post_office,building=yes
+46.6539422,7.7720916,amenity=post_office,building=yes,addr:street=Dorfstrasse,addr:housenumber=15
+47.5269211,9.1638142,amenity=post_office,wheelchair=no
+46.0889888,9.0478297,amenity=post_office,building=yes
+46.2655615,6.1538436,name=Poste de Genthod,source=Orthophotos 2012 du SITG (Système d'Information du Territoire Genevois),amenity=post_office,building=yes,addr:street=Chemin de la Pralay,addr:housenumber=8
+47.5019896,9.398458,name=Post,amenity=post_office,building=commercial,addr:city=Roggwil,wheelchair=yes,addr:street=St. Gallerstrasse,addr:postcode=9325,addr:housenumber=45
+47.5668063,7.6077074,amenity=post_office,description=Postfächer,indoor=yes,level=0,name=Die Post
+47.553865,8.9000325,addr:housenumber=7,addr:street=Marktstrasse,amenity=post_office,building=yes,dogs=no,name=Frauenfeld 1,note=Temporaere Loesung waehrend Umbau, siehe auch http://www.tagblatt.ch/ostschweiz/thurgau/frauenfeld/tz-fs/Hauptpost-zieht-auf-den-Marktplatz;art347111,4318236,opening_hours=Mo-Fr 07:30-18:30;Sa 08:00-12:00,operator=Die Post,ref=8500 Frauenfeld 1,smoking=no,start_date=2015-10-26,temporary=yes
+46.9490889,7.4387881,amenity=post_office,level=2,name=PostAuto
+47.3242442,9.0877541,addr:city=Lichtensteig,addr:housenumber=2,addr:postcode=9620,addr:street=Loretostrasse,amenity=post_office,building=yes,name=Post
+47.5003987,8.7246212,addr:city=Winterthur,addr:housenumber=8,addr:postcode=8400,addr:street=Bahnhofplatz,amenity=post_office,building=yes,name=Hauptpost
