@@ -7,11 +7,13 @@
 //
 
 import Foundation
+import CoreData
 
-struct Address {
-    var city: String?
-    var street: String?
-    var country: String?
-    var postcode: String?
-    var housenumber: String?
+@objc(Address)
+class Address: NSManagedObject {
+    @NSManaged var city: String?
+    @NSManaged var street: String?
+    @NSManaged var country: String?
+    @NSManaged var postcode: String?
+    @NSManaged var housenumber: String?
 }

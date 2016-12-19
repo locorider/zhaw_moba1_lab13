@@ -7,9 +7,11 @@
 //
 
 import Foundation
+import CoreData
 
-struct Contact {
-    var fax: String?
-    var email: String?
-    var phone: String?
+@objc(Contact)
+class Contact: NSManagedObject {
+    @NSManaged var fax: String?
+    @NSManaged var email: String?
+    @NSManaged var phone: String?
 }

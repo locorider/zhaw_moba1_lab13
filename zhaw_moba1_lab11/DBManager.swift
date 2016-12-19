@@ -6,41 +6,51 @@
 //  Copyright © 2016 José Miguel Rota. All rights reserved.
 //
 
-import UIKit
 import Foundation
+import UIKit
 import CoreData
 
-class DataController: NSObject {
-    var managedObjectContext: NSManagedObjectContext
+class CoreDataStack {
     
-    override init() {
-        // This resource is the same name as your xcdatamodeld contained in your project.
-        guard let modelURL = Bundle.main.url(forResource: "PostOffice", withExtension:"momd") else {
-            fatalError("Error loading model from bundle")
-        }
-        // The managed object model for the application. It is a fatal error for the application not to be able to find and load its model.
-        guard let mom = NSManagedObjectModel(contentsOf: modelURL) else {
-            fatalError("Error initializing mom from: \(modelURL)")
-        }
-        let psc = NSPersistentStoreCoordinator(managedObjectModel: mom)
-        managedObjectContext = NSManagedObjectContext(concurrencyType: .mainQueueConcurrencyType)
-        managedObjectContext.persistentStoreCoordinator = psc
-        
-        dispatch_get_global_queue(DispatchQueue.GlobalQueuePriority.background, 0).async {
-            let urls = NSFileManager.defaultManager().URLsForDirectory(.DocumentDirectory, inDomains: .UserDomainMask)
-            let docURL = urls[urls.endIndex-1]
-            
-            let storeURL = docURL.URLByAppendingPathComponent("DataModel.sqlite")
+    lazy var persistentContainer: NSPersistentContainer = {
+        let container = NSPersistentContainer(name: "PostOffice")
+        container.loadPersistentStores(completionHandler: { (storeDescription, error) in
+            if let error = error {
+                //fatalError("Unresolved error \(error), \(error.)")
+            }
+        })
+        return container
+    }()
+
+    func saveContext() {
+        let context = persistentContainer.viewContext
+        if context.hasChanges {
             do {
-                try psc.addPersistentStoreWithType(NSSQLiteStoreType, configuration: nil, URL: storeURL, options: nil)
-            } catch {
-                fatalError("Error migrating store: \(error)")
+                try context.save()
+            } catch let error as NSError {
+                fatalError("Unresolved error \(error), \(error.userInfo)")
             }
         }
     }
     
-    func getContext () -> NSManagedObjectContext {
-        let appDelegate = UIApplication.shared.delegate as! AppDelegate
-        return appDelegate.persistentContainer.viewContext
+    func data(_ limit: Int, lat: Double, lon: Double) -> [PostOffice] {
+        let request = NSFetchRequest<PostOffice>(entityName: "PostOffice")
+        let minLat = lat - 0.5
+        let maxLat = lat + 0.5
+        let minLon = lon - 0.5
+        let maxLon = lon + 0.5
+        request.fetchLimit = limit
+        request.predicate = NSPredicate(format: "lat <= %f AND lat >= %f AND lon <= %f AND lon >= %f", maxLat, minLat, maxLon, minLon)
+        request.relationshipKeyPathsForPrefetching = ["address", "contact"]
+        
+        do {
+            
+            let offices = try persistentContainer.viewContext.fetch(request)
+            return offices
+        } catch {
+            fatalError("Failed to fetch post offices \(error)")
+        }
+        
+        return []
     }
 }
