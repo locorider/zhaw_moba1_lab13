@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B51B66421E07E0B3000BEA9D /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B51B66411E07E0B3000BEA9D /* libsqlite3.tbd */; };
+		B51B66441E07E0CB000BEA9D /* DBManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51B66431E07E0CB000BEA9D /* DBManager.swift */; };
+		B51B66471E07E228000BEA9D /* PostOffice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B51B66451E07E228000BEA9D /* PostOffice.xcdatamodeld */; };
+		B51B66491E07E49A000BEA9D /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B51B66481E07E49A000BEA9D /* CoreData.framework */; };
 		B56A244B1DFECA360015918C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B56A244A1DFECA360015918C /* MapKit.framework */; };
 		B56A244D1DFECA9A0015918C /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56A244C1DFECA9A0015918C /* MapViewController.swift */; };
 		B56D381A1DF43D5C005DCFD3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56D38191DF43D5C005DCFD3 /* AppDelegate.swift */; };
@@ -25,6 +29,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B51B66411E07E0B3000BEA9D /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		B51B66431E07E0CB000BEA9D /* DBManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBManager.swift; sourceTree = "<group>"; };
+		B51B66461E07E228000BEA9D /* PostOffice.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PostOffice.xcdatamodel; sourceTree = "<group>"; };
+		B51B66481E07E49A000BEA9D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		B56A244A1DFECA360015918C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		B56A244C1DFECA9A0015918C /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		B56D38161DF43D5C005DCFD3 /* zhaw_moba1_lab11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zhaw_moba1_lab11.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -50,6 +58,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B51B66491E07E49A000BEA9D /* CoreData.framework in Frameworks */,
+				B51B66421E07E0B3000BEA9D /* libsqlite3.tbd in Frameworks */,
 				B56A244B1DFECA360015918C /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -93,6 +103,8 @@
 				B5B9A6EF1DF44F1F00651F0F /* PostOfficeTableView.swift */,
 				B5B9A6F11DF4D7B100651F0F /* SearchResult.swift */,
 				B56A244C1DFECA9A0015918C /* MapViewController.swift */,
+				B51B66431E07E0CB000BEA9D /* DBManager.swift */,
+				B51B66451E07E228000BEA9D /* PostOffice.xcdatamodeld */,
 			);
 			path = zhaw_moba1_lab11;
 			sourceTree = "<group>";
@@ -100,6 +112,8 @@
 		B56D382D1DF43E07005DCFD3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B51B66481E07E49A000BEA9D /* CoreData.framework */,
+				B51B66411E07E0B3000BEA9D /* libsqlite3.tbd */,
 				B56A244A1DFECA360015918C /* MapKit.framework */,
 			);
 			name = Frameworks;
@@ -132,7 +146,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "José Miguel Rota";
 				TargetAttributes = {
 					B56D38151DF43D5B005DCFD3 = {
@@ -191,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B56D383A1DF441C3005DCFD3 /* Contact.swift in Sources */,
+				B51B66471E07E228000BEA9D /* PostOffice.xcdatamodeld in Sources */,
 				B5B9A6F21DF4D7B100651F0F /* SearchResult.swift in Sources */,
 				B5B9A6F01DF44F1F00651F0F /* PostOfficeTableView.swift in Sources */,
 				B56A244D1DFECA9A0015918C /* MapViewController.swift in Sources */,
@@ -200,6 +215,7 @@
 				B56D38341DF44071005DCFD3 /* PostOfficeStore.swift in Sources */,
 				B5B9A6EE1DF44E6700651F0F /* PostOfficeTableCell.swift in Sources */,
 				B56D38381DF44147005DCFD3 /* Address.swift in Sources */,
+				B51B66441E07E0CB000BEA9D /* DBManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,6 +259,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -293,6 +310,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -366,6 +384,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		B51B66451E07E228000BEA9D /* PostOffice.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				B51B66461E07E228000BEA9D /* PostOffice.xcdatamodel */,
+			);
+			currentVersion = B51B66461E07E228000BEA9D /* PostOffice.xcdatamodel */;
+			path = PostOffice.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = B56D380E1DF43D5B005DCFD3 /* Project object */;
 }

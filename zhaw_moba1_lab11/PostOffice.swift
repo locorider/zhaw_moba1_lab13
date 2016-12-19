@@ -8,9 +8,11 @@
 
 import Foundation
 import CoreLocation
+import CoreData
 
 class PostOffice {
-    let location: CLLocation
+    var lat: Double = 0.0
+    var lon: Double = 0.0
     var name: String?
     var brand: String?
     var amenity: String?
@@ -22,16 +24,16 @@ class PostOffice {
     var openingHours: String?
     var wheelChair = false
     
-    required init(location: CLLocation) {
-        self.location = location
+    func distance(location: CLLocation) -> Double {
+        return self.location().distance(from: location)
     }
     
-    func distance(location: CLLocation) -> Double {
-        return self.location.distance(from: location)
+    func location() -> CLLocation {
+        return CLLocation(latitude: lat, longitude: lon)
     }
     
     func withinBounds(location: CLLocation, maxDistance: Double) -> Bool {
-        let distance = self.location.distance(from: location)
+        let distance = self.location().distance(from: location)
         //print("Distance: \(distance), maxDistance: \(maxDistance)")
         return distance <= maxDistance
     }
